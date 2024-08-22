@@ -1,0 +1,153 @@
+{
+  "breadcrumbs.enabled": true,
+  "editor.renderWhitespace": "none",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.fontSize": 14,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "ejs": "html"
+  },
+  "terminal.integrated.env.windows": {},
+  "emmet.excludeLanguages": [
+    "markdown"
+  ],
+  "[json]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.linkedEditing": true,
+  "workbench.editor.decorations.colors": true,
+  "workbench.editor.decorations.badges": true,
+  "workbench.iconTheme": "symbols",
+  "explorer.decorations.colors": true,
+  "explorer.decorations.badges": true,
+  "git.ignoreMissingGitWarning": true,
+  "workbench.editor.pinnedTabSizing": "shrink",
+  "workbench.startupEditor": "none",
+  "editor.stickyTabStops": true,
+  "editor.tabSize": 2,
+  "git.enableSmartCommit": true,
+  "[dart]": {
+    "editor.formatOnSave": false,
+    "editor.formatOnType": true,
+    "editor.rulers": [
+      80
+    ],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off",
+  },
+  "editor.unicodeHighlight.allowedCharacters": {
+    "ا": true,
+    "ه": true
+  },
+  "files.autoSave": "afterDelay",
+  "explorer.compactFolders": true,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "editor.scrollbar.verticalScrollbarSize": 19,
+  "editor.scrollbar.horizontalScrollbarSize": 19,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.detectIndentation": false,
+  "explorer.copyRelativePathSeparator": "/",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.openRepositoryInParentFolders": "never",
+  "editor.unicodeHighlight.allowedLocales": {
+    "es": true
+  },
+  "editor.guides.bracketPairs": "active",
+  "window.zoomLevel": 1.7,
+  "editor.fontFamily": "Cascadia Code",
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorStyle": "block",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
+  "prettier.requireConfig": false,
+  "prettier.printWidth": 80,
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5",
+  "prettier.bracketSpacing": true,
+  "prettier.arrowParens": "avoid",
+  "prettier.proseWrap": "preserve",
+  "prettier.endOfLine": "lf",
+  "editor.wordWrap": "on",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.suggestSelection": "first",
+  "editor.hover.sticky": true,
+  "terminal.integrated.cursorBlinking": true,
+  "editor.cursorBlinking": "blink",
+  "terminal.integrated.smoothScrolling": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.editor.enablePreview": true,
+  "explorer.confirmPasteNative": false,
+  "terminal.integrated.tabs.enableAnimation": true,
+  "explorer.fileNesting.enabled": true,
+  "workbench.list.smoothScrolling": true,
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "editor.minimap.maxColumn": 55,
+  "workbench.sideBar.location": "right",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "editor.lightbulb.enabled": "onCode",
+  "editor.stickyScroll.enabled": true,
+  "workbench.tree.expandMode": "singleClick",
+  "workbench.editor.closeOnFileDelete": true,
+  "editor.selectionHighlight": true,
+  "editor.folding": true,
+  "editor.parameterHints.enabled": false,
+  "editor.renderLineHighlight": "all",
+  "editor.mouseWheelScrollSensitivity": 1,
+  "symbols.hidesExplorerArrows": false,
+  "oneDarkPro.vivid": true,
+  "oneDarkPro.bold": true,
+  "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
+  "workbench.preferredHighContrastColorTheme": "One Dark Pro Darker",
+  "workbench.preferredHighContrastLightColorTheme": "One Dark Pro Darker",
+  "workbench.preferredLightColorTheme": "One Dark Pro Darker",
+  "supermaven.enable": {
+    "supermaven.autoComplete.enabled": false,
+    "supermaven.codeAnalysis.maxFileSizeMB": 0.25,
+    "supermaven.suggestions.frequency": "low",
+    "*": true
+  },
+  /*Terminal*/
+  "terminal.integrated.scrollback": 1000,
+  "terminal.integrated.gpuAcceleration": "off",
+  "terminal.integrated.fastScrollSensitivity": 10,
+  "terminal.integrated.cursorStyle": "block",
+  /*One dark pro theme*/
+  "editor.codeLens": false,
+  "editor.colorDecorators": false,
+  "supermaven.allowGitignore": true,
+  "security.workspace.trust.untrustedFiles": "open",
+}
