@@ -9,7 +9,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "liveServer.settings.donotShowInfoMsg": true,
-  "editor.fontSize": 14,
+  "editor.fontSize": 15,
   "diffEditor.ignoreTrimWhitespace": true,
   "liveServer.settings.donotVerifyTags": true,
   "emmet.includeLanguages": {
@@ -76,11 +76,11 @@
     "es": true
   },
   "editor.guides.bracketPairs": "active",
-  "window.zoomLevel": 2,
-  "editor.fontFamily": "CaskaydiaCove Nerd Font",
+  "window.zoomLevel": 0.95,
+  "editor.fontFamily": "Cascadia Code",
   "editor.smoothScrolling": true,
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.cursorStyle": "block",
+  "editor.cursorStyle": "line",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "terminal.integrated.fontSize": 15,
