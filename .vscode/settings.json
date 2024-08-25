@@ -9,7 +9,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "liveServer.settings.donotShowInfoMsg": true,
-  "editor.fontSize": 15,
+  "editor.fontSize": 14.9,
   "diffEditor.ignoreTrimWhitespace": true,
   "liveServer.settings.donotVerifyTags": true,
   "emmet.includeLanguages": {
@@ -57,7 +57,7 @@
   },
   "files.autoSave": "afterDelay",
   "explorer.compactFolders": true,
-  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.colorTheme": "Catppuccin Mocha",
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
@@ -128,11 +128,10 @@
   "editor.renderLineHighlight": "gutter",
   "editor.mouseWheelScrollSensitivity": 0.9,
   "symbols.hidesExplorerArrows": false,
-  "oneDarkPro.vivid": true,
-  "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
-  "workbench.preferredHighContrastColorTheme": "One Dark Pro Darker",
-  "workbench.preferredHighContrastLightColorTheme": "One Dark Pro Darker",
-  "workbench.preferredLightColorTheme": "One Dark Pro Darker",
+  "workbench.preferredDarkColorTheme": "Catppuccin Mocha",
+  "workbench.preferredHighContrastColorTheme": "Catppuccin Mocha",
+  "workbench.preferredHighContrastLightColorTheme": "Catppuccin Mocha",
+  "workbench.preferredLightColorTheme": "Catppuccin Mocha",
   "supermaven.enable": {
     "supermaven.autoComplete.enabled": false,
     "supermaven.codeAnalysis.maxFileSizeMB": 0.25,
@@ -157,9 +156,8 @@
   "terminal.integrated.gpuAcceleration": "off",
   "terminal.integrated.fastScrollSensitivity": 10,
   "terminal.integrated.cursorStyle": "block",
-  /*One dark pro theme*/
-  "editor.codeLens": false,
-  "editor.colorDecorators": false,
+  "editor.codeLens": true,
+  "editor.colorDecorators": true,
   "supermaven.allowGitignore": true,
   "security.workspace.trust.untrustedFiles": "open",
   /*Tailwindcss*/
@@ -167,5 +165,5 @@
   "editor.renderControlCharacters": false,
   "editor.scrollBeyondLastColumn": 5,
   "editor.scrollBeyondLastLine": true,
-  "editor.lineHeight": 24
+  "editor.lineHeight": 23
 }
