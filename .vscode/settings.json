@@ -167,4 +167,5 @@
   "editor.renderControlCharacters": false,
   "editor.scrollBeyondLastColumn": 5,
   "editor.scrollBeyondLastLine": true,
+  "editor.lineHeight": 24
 }
