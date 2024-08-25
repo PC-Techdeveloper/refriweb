@@ -9,7 +9,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "liveServer.settings.donotShowInfoMsg": true,
-  "editor.fontSize": 17,
+  "editor.fontSize": 15.7,
   "diffEditor.ignoreTrimWhitespace": true,
   "liveServer.settings.donotVerifyTags": true,
   "emmet.includeLanguages": {
@@ -57,12 +57,14 @@
   },
   "files.autoSave": "afterDelay",
   "explorer.compactFolders": true,
-  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.colorTheme": "Night Owl (No Italics)",
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
   "editor.scrollbar.verticalScrollbarSize": 19,
   "editor.scrollbar.horizontalScrollbarSize": 19,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.horizontal": "hidden",
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -76,15 +78,16 @@
     "es": true
   },
   "editor.guides.bracketPairs": "active",
-  "window.zoomLevel": 0,
-  "editor.fontFamily": "Cascadia Code",
+  "window.zoomLevel": 0.95,
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
   "editor.smoothScrolling": true,
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.cursorStyle": "line",
+  "editor.cursorStyle": "block",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
-  "terminal.integrated.fontSize": 17,
-  "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.lineHeight": 0.8,
   "prettier.requireConfig": false,
   "prettier.printWidth": 80,
   "prettier.tabWidth": 2,
@@ -111,10 +114,10 @@
   "terminal.integrated.tabs.enableAnimation": true,
   "explorer.fileNesting.enabled": true,
   "workbench.list.smoothScrolling": true,
-  "editor.fontLigatures": true,
+  "editor.fontLigatures": false,
   "editor.minimap.enabled": false,
-  "editor.minimap.maxColumn": 55,
-  "workbench.sideBar.location": "right",
+  "editor.minimap.maxColumn": 40,
+  "workbench.sideBar.location": "left",
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
   },
@@ -125,13 +128,14 @@
   "editor.selectionHighlight": true,
   "editor.folding": true,
   "editor.parameterHints.enabled": false,
-  "editor.renderLineHighlight": "gutter",
+  "editor.renderLineHighlight": "all",
   "editor.mouseWheelScrollSensitivity": 0.9,
   "symbols.hidesExplorerArrows": false,
-  "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
-  "workbench.preferredHighContrastColorTheme": "One Dark Pro Darker",
-  "workbench.preferredHighContrastLightColorTheme": "One Dark Pro Darker",
-  "workbench.preferredLightColorTheme": "One Dark Pro Darker",
+  "workbench.preferredDarkColorTheme": "Night Owl (No Italics)",
+  "workbench.preferredHighContrastColorTheme": "Night Owl (No Italics)",
+  "workbench.preferredHighContrastLightColorTheme": "Night Owl (No Italics)",
+  "workbench.preferredLightColorTheme": "Night Owl (No Italics)",
+  /*Supermaven*/
   "supermaven.enable": {
     "supermaven.autoComplete.enabled": false,
     "supermaven.codeAnalysis.maxFileSizeMB": 0.25,
@@ -150,23 +154,17 @@
     "supermaven.analysis.maxFileSizeMB": 0.25,
     "supermaven.analysis.maxFileSize": 25,
     "supermaven.analysis.maxRecursion": 10,
+    "supermaven.allowGitignore": true,
   },
-  /*Terminal*/
   "terminal.integrated.scrollback": 1000,
   "terminal.integrated.gpuAcceleration": "off",
   "terminal.integrated.fastScrollSensitivity": 10,
   "terminal.integrated.cursorStyle": "block",
-  "editor.codeLens": true,
+  "editor.codeLens": false,
   "editor.colorDecorators": true,
-  "supermaven.allowGitignore": true,
   "security.workspace.trust.untrustedFiles": "open",
-  /*Tailwindcss*/
   "tailwindCSS.experimental.memoryUsage": "low",
-  "editor.renderControlCharacters": false,
+  "editor.renderControlCharacters": true,
   "editor.scrollBeyondLastColumn": 5,
   "editor.scrollBeyondLastLine": true,
-  "editor.lineHeight": 23,
-  "oneDarkPro.vivid": true,
-  "oneDarkPro.bold": true,
-  "oneDarkPro.editorTheme": "One Dark Pro Darker"
 }
