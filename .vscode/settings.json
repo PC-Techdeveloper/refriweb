@@ -9,7 +9,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "liveServer.settings.donotShowInfoMsg": true,
-  "editor.fontSize": 16.5,
+  "editor.fontSize": 15.6,
   "diffEditor.ignoreTrimWhitespace": true,
   "liveServer.settings.donotVerifyTags": true,
   "emmet.includeLanguages": {
@@ -57,7 +57,7 @@
   },
   "files.autoSave": "afterDelay",
   "explorer.compactFolders": true,
-  "workbench.colorTheme": "Night Owl (No Italics)",
+  "workbench.colorTheme": "GitHub Dark",
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
@@ -79,7 +79,7 @@
   },
   "editor.guides.bracketPairs": "active",
   "window.zoomLevel": 0.95,
-  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
   "editor.smoothScrolling": true,
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorStyle": "block",
@@ -131,10 +131,10 @@
   "editor.renderLineHighlight": "all",
   "editor.mouseWheelScrollSensitivity": 0.9,
   "symbols.hidesExplorerArrows": false,
-  "workbench.preferredDarkColorTheme": "Night Owl (No Italics)",
-  "workbench.preferredHighContrastColorTheme": "Night Owl (No Italics)",
-  "workbench.preferredHighContrastLightColorTheme": "Night Owl (No Italics)",
-  "workbench.preferredLightColorTheme": "Night Owl (No Italics)",
+  "workbench.preferredDarkColorTheme": "GitHub Dark",
+  "workbench.preferredHighContrastColorTheme": "GitHub Dark",
+  "workbench.preferredHighContrastLightColorTheme": "GitHub Dark",
+  "workbench.preferredLightColorTheme": "GitHub Dark",
   /*Supermaven*/
   "supermaven.enable": {
     "supermaven.autoComplete.enabled": false,
