@@ -9,7 +9,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "liveServer.settings.donotShowInfoMsg": true,
-  "editor.fontSize": 14.9,
+  "editor.fontSize": 17,
   "diffEditor.ignoreTrimWhitespace": true,
   "liveServer.settings.donotVerifyTags": true,
   "emmet.includeLanguages": {
@@ -57,7 +57,7 @@
   },
   "files.autoSave": "afterDelay",
   "explorer.compactFolders": true,
-  "workbench.colorTheme": "Catppuccin Mocha",
+  "workbench.colorTheme": "One Dark Pro Darker",
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
@@ -76,14 +76,14 @@
     "es": true
   },
   "editor.guides.bracketPairs": "active",
-  "window.zoomLevel": 0.95,
+  "window.zoomLevel": 0,
   "editor.fontFamily": "Cascadia Code",
   "editor.smoothScrolling": true,
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorStyle": "line",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
-  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontSize": 17,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
   "prettier.requireConfig": false,
   "prettier.printWidth": 80,
@@ -128,10 +128,10 @@
   "editor.renderLineHighlight": "gutter",
   "editor.mouseWheelScrollSensitivity": 0.9,
   "symbols.hidesExplorerArrows": false,
-  "workbench.preferredDarkColorTheme": "Catppuccin Mocha",
-  "workbench.preferredHighContrastColorTheme": "Catppuccin Mocha",
-  "workbench.preferredHighContrastLightColorTheme": "Catppuccin Mocha",
-  "workbench.preferredLightColorTheme": "Catppuccin Mocha",
+  "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
+  "workbench.preferredHighContrastColorTheme": "One Dark Pro Darker",
+  "workbench.preferredHighContrastLightColorTheme": "One Dark Pro Darker",
+  "workbench.preferredLightColorTheme": "One Dark Pro Darker",
   "supermaven.enable": {
     "supermaven.autoComplete.enabled": false,
     "supermaven.codeAnalysis.maxFileSizeMB": 0.25,
@@ -165,5 +165,8 @@
   "editor.renderControlCharacters": false,
   "editor.scrollBeyondLastColumn": 5,
   "editor.scrollBeyondLastLine": true,
-  "editor.lineHeight": 23
+  "editor.lineHeight": 23,
+  "oneDarkPro.vivid": true,
+  "oneDarkPro.bold": true,
+  "oneDarkPro.editorTheme": "One Dark Pro Darker"
 }
