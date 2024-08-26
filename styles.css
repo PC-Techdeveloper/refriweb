@@ -169,8 +169,9 @@ a {
 }
 
 .phrase {
-  font-size: 5em;
+  font-size: 4.5rem;
   text-align: center;
+  text-wrap: balance;
   color: var(--text-color);
   text-transform: uppercase;
   font-weight: bold;
