@@ -59,7 +59,6 @@
   },
   "files.autoSave": "afterDelay",
   "explorer.compactFolders": true,
-  "workbench.colorTheme": "One Dark Pro Darker",
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
@@ -133,10 +132,10 @@
   "editor.renderLineHighlight": "all",
   "editor.mouseWheelScrollSensitivity": 0.9,
   "symbols.hidesExplorerArrows": false,
-  "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
-  "workbench.preferredHighContrastColorTheme": "One Dark Pro Darker",
-  "workbench.preferredHighContrastLightColorTheme": "One Dark Pro Darker",
-  "workbench.preferredLightColorTheme": "One Dark Pro Darker",
+  "workbench.preferredDarkColorTheme": "SynthWave '84",
+  "workbench.preferredHighContrastColorTheme": "SynthWave '84",
+  "workbench.preferredHighContrastLightColorTheme": "SynthWave '84",
+  "workbench.preferredLightColorTheme": "SynthWave '84",
   /*Supermaven*/
   "supermaven.enable": {
     "supermaven.autoComplete.enabled": false,
@@ -176,7 +175,5 @@
   "search.followSymlinks": false,
   "explorer.autoReveal": false,
   "editor.lineHeight": 22,
-  "oneDarkPro.bold": true,
-  "oneDarkPro.italic": true,
-  "oneDarkPro.vivid": true,
+  "workbench.colorTheme": "SynthWave '84",
 }
