@@ -51,6 +51,11 @@ a {
   text-decoration: none;
 }
 
+.nav-item .active {
+  background-color: var(--text-color);
+  color: #fff;
+}
+
 .nav-item a {
   text-transform: uppercase;
   color: var(--text-color);
@@ -87,7 +92,7 @@ a {
 }
 
 .frio-img {
-  min-width: 300px;
+  min-width: 280px;
   height: auto;
   margin-top: 15px;
   margin-left: 30px;
