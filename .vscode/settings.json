@@ -132,10 +132,10 @@
   "editor.renderLineHighlight": "all",
   "editor.mouseWheelScrollSensitivity": 0.9,
   "symbols.hidesExplorerArrows": false,
-  "workbench.preferredDarkColorTheme": "SynthWave '84",
-  "workbench.preferredHighContrastColorTheme": "SynthWave '84",
-  "workbench.preferredHighContrastLightColorTheme": "SynthWave '84",
-  "workbench.preferredLightColorTheme": "SynthWave '84",
+  "workbench.preferredDarkColorTheme": "Noctis Azureus",
+  "workbench.preferredHighContrastColorTheme": "Noctis Azureus",
+  "workbench.preferredHighContrastLightColorTheme": "Noctis Azureus",
+  "workbench.preferredLightColorTheme": "Noctis Azureus",
   /*Supermaven*/
   "supermaven.enable": {
     "supermaven.autoComplete.enabled": false,
@@ -175,5 +175,6 @@
   "search.followSymlinks": false,
   "explorer.autoReveal": false,
   "editor.lineHeight": 22,
-  "workbench.colorTheme": "SynthWave '84",
+  "workbench.colorTheme": "Noctis Azureus",
+  "editor.letterSpacing": 0.3
 }
