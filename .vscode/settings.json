@@ -1,5 +1,5 @@
 {
-  "breadcrumbs.enabled": true,
+  "breadcrumbs.enabled": false,
   "editor.renderWhitespace": "none",
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -22,7 +22,9 @@
   ],
   "[json]": {
     "editor.quickSuggestions": {
-      "strings": true
+      "strings": false,
+      "comments": false,
+      "other": false
     },
     "editor.suggest.insertMode": "replace",
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -167,4 +169,11 @@
   "editor.renderControlCharacters": true,
   "editor.scrollBeyondLastColumn": 5,
   "editor.scrollBeyondLastLine": true,
+  //otros
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "update.enableWindowsBackgroundUpdate": false,
+  "search.followSymlinks": false,
+  "explorer.autoReveal": false,
+  "editor.lineHeight": 22
 }
