@@ -33,9 +33,13 @@ html {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  width: 100%;
+  min-width: 100%;
   height: 90px;
   box-shadow: var(--box-shadow);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
 }
 
 .nav-list {
@@ -86,9 +90,9 @@ a {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  margin-top: 15px;
+  margin-top: 65px;
   margin-left: 16px;
-  height: 75vh;
+  height: 80vh;
   min-width: 100px;
 }
 
@@ -102,8 +106,8 @@ a {
 }
 
 .info__text {
-  font-size: 1.3rem;
-  line-height: 1.2;
+  font-size: 1.2rem;
+  line-height: 1.3;
   text-wrap: pretty;
   color: var(--text-primary);
   text-align: center;
@@ -146,10 +150,11 @@ a {
 }
 
 .list-img {
-  display: grid;
-  place-content: center;
-  width: 350px;
-  height: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: auto;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   opacity: 1;
@@ -173,7 +178,7 @@ a {
 }
 
 .phrase {
-  font-size: 4.5rem;
+  font-size: 4rem;
   text-align: center;
   text-wrap: balance;
   color: var(--text-color);
@@ -223,3 +228,5 @@ footer span {
     transform: translateX(0);
   }
 }
+
+/* Responsive Design */
