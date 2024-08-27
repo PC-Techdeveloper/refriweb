@@ -1,12 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Formulario</title>
-  <link rel="stylesheet" href="formulario.css">
-</head>
-<body>
-  <h1>Formulario de Clientes</h1>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulario</title>
+    <link rel="stylesheet" href="formulario.css" />
+    <link rel="shortcut icon" href="public/temp-icon.svg" type="image/x-icon" />
+  </head>
+  <body>
+    <h1>Nuevo Cliente</h1>
+
+    <section class="form">
+      <h2 class="form__title">Datos Personales</h2>
+      <form class="form__form">
+        <div class="form__input-container">
+          <label
+            >Nombre y Apellido
+            <input type="text" placeholder="John Doe" required />
+          </label>
+        </div>
+
+        <div class="form__input-container">
+          <label
+            >Celular
+            <input type="text" placeholder="3127105207" required />
+          </label>
+        </div>
+        <div class="form__input-container">
+          <label
+            >Correo Electrónico
+            <input type="text" placeholder="hola@example.com" required />
+          </label>
+        </div>
+        <div class="form__input-container">
+          <label
+            >Dirección
+            <input type="text" placeholder="Aquí va tu dirección" required />
+          </label>
+        </div>
+        <div class="form__input-container">
+          <input type="submit" />
+        </div>
+      </form>
+    </section>
+  </body>
 </html>

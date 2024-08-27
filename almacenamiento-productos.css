@@ -3,6 +3,7 @@
 :root {
   --bg-color: #c2e9f244;
   --text-color: #108cb5;
+  --box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 * {
@@ -22,6 +23,7 @@ h1 {
   background-color: var(--bg-color);
   padding: 20px;
   color: var(--text-color);
+  box-shadow: var(--box-shadow);
 }
 
 h1:hover {
