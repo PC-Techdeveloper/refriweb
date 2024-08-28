@@ -30,3 +30,66 @@ h1:hover {
   transition: all 0.5s ease;
   color: #ccc;
 }
+
+/*Form Section*/
+
+.form {
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 0;
+  container-name: form;
+  container-type: inline-size;
+  animation: aparecer both;
+  animation-timeline: view();
+  animation-range: cover 20% contain 40%;
+}
+
+.form__form {
+  padding: 12px;
+  max-width: 600px;
+  width: 100%;
+  display: grid;
+  margin-bottom: 30px;
+}
+
+.form__input-container :is(input, textarea) {
+  width: 100%;
+  padding: 9px;
+  font-size: 16px;
+  margin: 4px;
+  border: none;
+  box-shadow: 2px 2px 4px #0003;
+  background-color: #fffd;
+  font-family: inherit;
+  outline: none;
+}
+
+select {
+  margin-top: 6px;
+  min-width: 130px;
+  padding: 6px;
+}
+
+.form__input-container textarea {
+  resize: none;
+  min-height: 120px;
+}
+
+.form__input-container input[type='submit'] {
+  padding: 12px;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+.form__title {
+  font-size: 2.4rem;
+}
+
+input[type='submit']:hover {
+  background-color: var(--text-color);
+  color: #fff;
+  cursor: pointer;
+}
