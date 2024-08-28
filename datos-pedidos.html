@@ -10,5 +10,49 @@
   </head>
   <body>
     <h1>Registrar Pedidos</h1>
+
+    <section class="form">
+      <h2 class="form__title">Pedidos</h2>
+      <form class="form__form">
+        <div class="form__input-container">
+          <label
+            >Id del Pedido
+            <input type="number" placeholder="ID del Pedido" required />
+          </label>
+        </div>
+
+        <div class="form__input-container">
+          <label
+            >Id del Cliente
+            <input type="number" placeholder="ID del Cliente" required />
+          </label>
+        </div>
+        <div class="form__input-container">
+          <label
+            >Fecha del Pedido
+            <input type="date" placeholder="Fecha" required />
+          </label>
+        </div>
+        <div class="form__input-container">
+          <label
+            >Ciudad
+            <input type="text" placeholder="Ciudad" required />
+          </label>
+        </div>
+        <div class="form__input-container">
+          <label
+            >Estado en que se encuentra el pedido
+            <select>
+              <option value="Pendiente">Pendiente</option>
+              <option value="Entregado">Entregado</option>
+              <option value="En transito">En transito</option>
+            </select>
+          </label>
+        </div>
+        <div class="form__input-container">
+          <input type="submit" />
+        </div>
+      </form>
+    </section>
   </body>
 </html>
