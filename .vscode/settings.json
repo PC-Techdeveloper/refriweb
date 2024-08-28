@@ -132,10 +132,10 @@
   "editor.renderLineHighlight": "all",
   "editor.mouseWheelScrollSensitivity": 0.9,
   "symbols.hidesExplorerArrows": false,
-  "workbench.preferredDarkColorTheme": "Dracula Dark+",
-  "workbench.preferredHighContrastColorTheme": "Dracula Dark+",
-  "workbench.preferredHighContrastLightColorTheme": "Dracula Dark+",
-  "workbench.preferredLightColorTheme": "Dracula Dark+",
+  "workbench.preferredDarkColorTheme": "1984 - Cyberpunk",
+  "workbench.preferredHighContrastColorTheme": "1984 - Cyberpunk",
+  "workbench.preferredHighContrastLightColorTheme": "1984 - Cyberpunk",
+  "workbench.preferredLightColorTheme": "1984 - Cyberpunk",
   /*Supermaven*/
   "supermaven.enable": {
     "supermaven.autoComplete.enabled": false,
@@ -174,5 +174,6 @@
   "update.enableWindowsBackgroundUpdate": false,
   "search.followSymlinks": false,
   "explorer.autoReveal": false,
-  "workbench.colorTheme": "Dracula Dark+",
+  "workbench.colorTheme": "1984 - Cyberpunk",
+  "editor.lineHeight": 20
 }
