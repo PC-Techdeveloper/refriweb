@@ -9,7 +9,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "liveServer.settings.donotShowInfoMsg": true,
-  "editor.fontSize": 15.4,
+  "editor.fontSize": 15.7,
   "diffEditor.ignoreTrimWhitespace": true,
   "liveServer.settings.donotVerifyTags": true,
   "emmet.includeLanguages": {
@@ -62,7 +62,7 @@
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
-  "editor.scrollbar.verticalScrollbarSize": 30,
+  "editor.scrollbar.verticalScrollbarSize": 25,
   "editor.scrollbar.horizontalScrollbarSize": 19,
   "editor.scrollbar.vertical": "visible",
   "editor.scrollbar.horizontal": "hidden",
@@ -83,7 +83,7 @@
   "editor.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
   "editor.smoothScrolling": true,
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.cursorStyle": "line",
+  "editor.cursorStyle": "block",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "terminal.integrated.fontSize": 16,
