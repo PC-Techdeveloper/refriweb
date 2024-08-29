@@ -79,7 +79,7 @@
     "es": true
   },
   "editor.guides.bracketPairs": "active",
-  "window.zoomLevel": 0.95,
+  "window.zoomLevel": 1,
   "editor.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
   "editor.smoothScrolling": true,
   "editor.cursorSmoothCaretAnimation": "on",
@@ -178,5 +178,4 @@
   "search.followSymlinks": false,
   "explorer.autoReveal": false,
   "workbench.colorTheme": "One Dark Pro Darker",
-  "editor.lineHeight": 19
 }
