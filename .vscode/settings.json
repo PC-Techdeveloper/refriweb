@@ -62,9 +62,9 @@
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
-  "editor.scrollbar.verticalScrollbarSize": 19,
+  "editor.scrollbar.verticalScrollbarSize": 30,
   "editor.scrollbar.horizontalScrollbarSize": 19,
-  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.vertical": "visible",
   "editor.scrollbar.horizontal": "hidden",
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
