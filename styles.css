@@ -108,11 +108,11 @@ a {
 
 .info__text {
   font-size: 1.1rem;
-  line-height: 1.3;
+  line-height: 1.4;
   text-wrap: pretty;
   color: var(--text-primary);
   text-align: center;
-  width: 55%;
+  width: 50%;
 }
 
 /*SECTION INFORMATION*/
@@ -137,6 +137,7 @@ a {
   text-align: center;
   text-wrap: balance;
   margin-bottom: 50px;
+  line-height: 1.4;
 }
 
 /*SECTION IMAGES*/
@@ -155,7 +156,7 @@ a {
   justify-content: center;
   align-items: center;
   width: 330px;
-  height: 300px;
+  height: auto;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   opacity: 1;
