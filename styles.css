@@ -34,7 +34,7 @@ html {
   justify-content: space-between;
   align-items: center;
   min-width: 100%;
-  height: 75px;
+  height: 80px;
   box-shadow: var(--box-shadow);
   position: fixed;
   top: 0;
@@ -50,7 +50,7 @@ html {
   width: auto;
   gap: 19px;
   margin-right: 65px;
-  font-size: 14px;
+  font-size: 20px;
 }
 
 a {
