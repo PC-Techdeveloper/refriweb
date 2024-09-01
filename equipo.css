@@ -30,3 +30,54 @@ h1:hover {
   transition: all 0.5s ease;
   color: #ccc;
 }
+
+/*Images*/
+p {
+  font-size: 1.3rem;
+  text-align: center;
+  margin-top: 35px;
+  text-wrap: balance;
+}
+
+.container__images {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+
+img {
+  width: 220px;
+  height: auto;
+  background-size: cover;
+  background-position: bottom;
+  margin: 4px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+
+  box-shadow: 7px 7px 12px 0 rgba(20, 20, 20, 0.3);
+}
+
+img:hover {
+  animation: infinite move-img 1s ease-in-out;
+}
+
+/*Animations*/
+
+@keyframes move-img {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(-10px);
+  }
+
+  65% {
+    transform: translateX(18px);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
