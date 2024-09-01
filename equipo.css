@@ -50,13 +50,16 @@ p {
 img {
   width: 220px;
   height: auto;
+  background-position: center;
   background-size: cover;
-  background-position: bottom;
   margin: 4px;
   border: 1px solid #ccc;
-  border-radius: 6px;
 
-  box-shadow: 7px 7px 12px 0 rgba(20, 20, 20, 0.3);
+  box-shadow: 7px 7px 12px 0 #09f;
+
+  display: grid;
+  place-content: center;
+  border-radius: 12px;
 }
 
 img:hover {
