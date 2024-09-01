@@ -83,7 +83,7 @@
   "editor.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
   "editor.smoothScrolling": true,
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.cursorStyle": "block",
+  "editor.cursorStyle": "line",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "terminal.integrated.fontSize": 13,
@@ -178,5 +178,5 @@
   "search.followSymlinks": false,
   "explorer.autoReveal": false,
   "workbench.colorTheme": "One Dark Pro Darker",
-  "editor.lineHeight": 19
+  "editor.lineHeight": 17
 }
