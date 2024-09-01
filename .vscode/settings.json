@@ -9,7 +9,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "liveServer.settings.donotShowInfoMsg": true,
-  "editor.fontSize": 15.7,
+  "editor.fontSize": 15,
   "diffEditor.ignoreTrimWhitespace": true,
   "liveServer.settings.donotVerifyTags": true,
   "emmet.includeLanguages": {
@@ -79,7 +79,7 @@
     "es": true
   },
   "editor.guides.bracketPairs": "active",
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 2,
   "editor.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
   "editor.smoothScrolling": true,
   "editor.cursorSmoothCaretAnimation": "on",
@@ -87,7 +87,7 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "terminal.integrated.fontSize": 16,
-  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
   "terminal.integrated.lineHeight": 0.8,
   "prettier.requireConfig": false,
   "prettier.printWidth": 80,
@@ -178,4 +178,5 @@
   "search.followSymlinks": false,
   "explorer.autoReveal": false,
   "workbench.colorTheme": "One Dark Pro Darker",
+  "editor.lineHeight": 19
 }
