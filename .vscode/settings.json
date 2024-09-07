@@ -9,7 +9,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "liveServer.settings.donotShowInfoMsg": true,
-  "editor.fontSize": 13,
+  "editor.fontSize": 17,
   "diffEditor.ignoreTrimWhitespace": true,
   "liveServer.settings.donotVerifyTags": true,
   "emmet.includeLanguages": {
@@ -79,14 +79,14 @@
     "es": true
   },
   "editor.guides.bracketPairs": "active",
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 1,
   "editor.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
   "editor.smoothScrolling": true,
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorStyle": "line",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
-  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.fontSize": 17,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
   "terminal.integrated.lineHeight": 0.8,
   "prettier.requireConfig": false,
@@ -132,13 +132,10 @@
   "editor.renderLineHighlight": "all",
   "editor.mouseWheelScrollSensitivity": 0.9,
   "symbols.hidesExplorerArrows": false,
-  "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
-  "workbench.preferredHighContrastColorTheme": "One Dark Pro Darker",
-  "workbench.preferredHighContrastLightColorTheme": "One Dark Pro Darker",
-  "workbench.preferredLightColorTheme": "One Dark Pro Darker",
-  "oneDarkPro.bold": true,
-  "oneDarkPro.italic": true,
-  "oneDarkPro.vivid": true,
+  "workbench.preferredDarkColorTheme": "Hack The Box-Lite",
+  "workbench.preferredHighContrastColorTheme": "Hack The Box-Lite",
+  "workbench.preferredHighContrastLightColorTheme": "Hack The Box-Lite",
+  "workbench.preferredLightColorTheme": "Hack The Box-Lite",
   /*Supermaven*/
   "supermaven.enable": {
     "supermaven.autoComplete.enabled": false,
@@ -172,11 +169,9 @@
   "editor.scrollBeyondLastColumn": 5,
   "editor.scrollBeyondLastLine": true,
   //otros
-  "telemetry.enableCrashReporter": false,
-  "telemetry.enableTelemetry": false,
   "update.enableWindowsBackgroundUpdate": false,
   "search.followSymlinks": false,
   "explorer.autoReveal": false,
-  "workbench.colorTheme": "One Dark Pro Darker",
-  "editor.lineHeight": 17
+  "workbench.colorTheme": "Hack The Box-Lite",
+  "editor.lineHeight": 20
 }
