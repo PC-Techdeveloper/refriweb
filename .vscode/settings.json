@@ -130,12 +130,12 @@
   "editor.folding": true,
   "editor.parameterHints.enabled": false,
   "editor.renderLineHighlight": "all",
-  "editor.mouseWheelScrollSensitivity": 0.9,
+  "editor.mouseWheelScrollSensitivity": 1,
   "symbols.hidesExplorerArrows": false,
-  "workbench.preferredDarkColorTheme": "Hack The Box-Lite",
-  "workbench.preferredHighContrastColorTheme": "Hack The Box-Lite",
-  "workbench.preferredHighContrastLightColorTheme": "Hack The Box-Lite",
-  "workbench.preferredLightColorTheme": "Hack The Box-Lite",
+  "workbench.preferredDarkColorTheme": "Monokai Pro (Filter Spectrum)",
+  "workbench.preferredHighContrastColorTheme": "Monokai Pro (Filter Spectrum)",
+  "workbench.preferredHighContrastLightColorTheme": "Monokai Pro (Filter Spectrum)",
+  "workbench.preferredLightColorTheme": "Monokai Pro (Filter Spectrum)",
   /*Supermaven*/
   "supermaven.enable": {
     "supermaven.autoComplete.enabled": false,
@@ -172,6 +172,6 @@
   "update.enableWindowsBackgroundUpdate": false,
   "search.followSymlinks": false,
   "explorer.autoReveal": false,
-  "workbench.colorTheme": "Hack The Box-Lite",
+  "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
   "editor.lineHeight": 20
 }
