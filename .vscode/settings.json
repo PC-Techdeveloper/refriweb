@@ -117,7 +117,7 @@
   "editor.fontLigatures": true,
   "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 40,
-  "workbench.sideBar.location": "left",
+  "workbench.sideBar.location": "right",
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
   },
