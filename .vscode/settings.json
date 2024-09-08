@@ -9,7 +9,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "liveServer.settings.donotShowInfoMsg": true,
-  "editor.fontSize": 17,
+  "editor.fontSize": 16,
   "diffEditor.ignoreTrimWhitespace": true,
   "liveServer.settings.donotVerifyTags": true,
   "emmet.includeLanguages": {
@@ -32,7 +32,7 @@
   "editor.linkedEditing": true,
   "workbench.editor.decorations.colors": true,
   "workbench.editor.decorations.badges": true,
-  "workbench.iconTheme": "symbols",
+  "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
   "explorer.decorations.colors": true,
   "explorer.decorations.badges": true,
   "git.ignoreMissingGitWarning": true,
@@ -79,8 +79,8 @@
     "es": true
   },
   "editor.guides.bracketPairs": "active",
-  "window.zoomLevel": 1,
-  "editor.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
+  "window.zoomLevel": 0.75,
+  "editor.fontFamily": "Fira Code",
   "editor.smoothScrolling": true,
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorStyle": "line",
@@ -88,7 +88,6 @@
   "editor.formatOnSave": true,
   "terminal.integrated.fontSize": 17,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
-  "terminal.integrated.lineHeight": 0.8,
   "prettier.requireConfig": false,
   "prettier.printWidth": 80,
   "prettier.tabWidth": 2,
@@ -173,5 +172,5 @@
   "search.followSymlinks": false,
   "explorer.autoReveal": false,
   "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
-  "editor.lineHeight": 27
+  "editor.lineHeight": 24
 }
