@@ -87,7 +87,7 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "terminal.integrated.fontSize": 17,
-  "terminal.integrated.fontFamily": "Fira Code",
+  "terminal.integrated.fontFamily": "FiraCode Nerd Font",
   "prettier.requireConfig": false,
   "prettier.printWidth": 80,
   "prettier.tabWidth": 2,
