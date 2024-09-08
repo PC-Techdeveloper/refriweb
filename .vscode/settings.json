@@ -9,7 +9,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "liveServer.settings.donotShowInfoMsg": true,
-  "editor.fontSize": 16,
+  "editor.fontSize": 14.7,
   "diffEditor.ignoreTrimWhitespace": true,
   "liveServer.settings.donotVerifyTags": true,
   "emmet.includeLanguages": {
@@ -87,7 +87,7 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "terminal.integrated.fontSize": 17,
-  "terminal.integrated.fontFamily": "FiraCode Nerd Font",
+  "terminal.integrated.fontFamily": "Fira Code",
   "prettier.requireConfig": false,
   "prettier.printWidth": 80,
   "prettier.tabWidth": 2,
