@@ -32,7 +32,7 @@
   "editor.linkedEditing": true,
   "workbench.editor.decorations.colors": true,
   "workbench.editor.decorations.badges": true,
-  "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+  "workbench.iconTheme": "symbols",
   "explorer.decorations.colors": true,
   "explorer.decorations.badges": true,
   "git.ignoreMissingGitWarning": true,
@@ -131,10 +131,13 @@
   "editor.renderLineHighlight": "all",
   "editor.mouseWheelScrollSensitivity": 1,
   "symbols.hidesExplorerArrows": false,
-  "workbench.preferredDarkColorTheme": "Monokai Pro (Filter Spectrum)",
-  "workbench.preferredHighContrastColorTheme": "Monokai Pro (Filter Spectrum)",
-  "workbench.preferredHighContrastLightColorTheme": "Monokai Pro (Filter Spectrum)",
-  "workbench.preferredLightColorTheme": "Monokai Pro (Filter Spectrum)",
+  "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
+  "workbench.preferredHighContrastColorTheme": "One Dark Pro Darker",
+  "workbench.preferredHighContrastLightColorTheme": "One Dark Pro Darker",
+  "workbench.preferredLightColorTheme": "One Dark Pro Darker",
+  "oneDarkPro.bold": true,
+  "oneDarkPro.italic": true,
+  "oneDarkPro.vivid": true,
   /*Supermaven*/
   "supermaven.enable": {
     "supermaven.autoComplete.enabled": false,
@@ -171,6 +174,6 @@
   "update.enableWindowsBackgroundUpdate": false,
   "search.followSymlinks": false,
   "explorer.autoReveal": false,
-  "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
-  "editor.lineHeight": 24
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "editor.lineHeight": 26,
 }
