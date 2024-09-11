@@ -83,7 +83,7 @@
   "editor.fontFamily": "CaskaydiaCove Nerd Font",
   "editor.smoothScrolling": true,
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.cursorStyle": "line",
+  "editor.cursorStyle": "block",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "terminal.integrated.fontSize": 17,
