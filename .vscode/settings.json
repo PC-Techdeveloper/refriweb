@@ -9,7 +9,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "liveServer.settings.donotShowInfoMsg": true,
-  "editor.fontSize": 17,
+  "editor.fontSize": 16.5,
   "diffEditor.ignoreTrimWhitespace": true,
   "liveServer.settings.donotVerifyTags": true,
   "emmet.includeLanguages": {
@@ -86,7 +86,7 @@
   "editor.cursorStyle": "block",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
-  "terminal.integrated.fontSize": 17,
+  "terminal.integrated.fontSize": 16,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
   "prettier.requireConfig": false,
   "prettier.printWidth": 80,
@@ -106,10 +106,10 @@
   "editor.suggestSelection": "first",
   "editor.hover.sticky": true,
   "terminal.integrated.cursorBlinking": true,
-  "editor.cursorBlinking": "smooth",
+  "editor.cursorBlinking": "solid",
   "terminal.integrated.smoothScrolling": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "workbench.editor.enablePreview": true,
+  "workbench.editor.enablePreview": false,
   "explorer.confirmPasteNative": false,
   "terminal.integrated.tabs.enableAnimation": true,
   "explorer.fileNesting.enabled": true,
@@ -175,4 +175,8 @@
   "search.followSymlinks": false,
   "explorer.autoReveal": false,
   "workbench.colorTheme": "One Dark Pro Darker",
+  "redhat.telemetry.enabled": true,
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
 }
