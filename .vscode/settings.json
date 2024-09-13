@@ -81,6 +81,7 @@
   "editor.guides.bracketPairs": "active",
   "window.zoomLevel": 0.75,
   "editor.fontFamily": "Cascadia Code",
+  "editor.fontWeight": "400",
   "editor.smoothScrolling": true,
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorStyle": "block",
