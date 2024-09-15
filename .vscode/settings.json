@@ -6,13 +6,13 @@
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "boundary",
   "window.autoDetectColorScheme": true,
-  "workbench.colorTheme": "One Dark Pro Flat",
+  "workbench.colorTheme": "Ayu Mirage",
   "workbench.editor.tabActionLocation": "left",
   "workbench.fontAliasing": "antialiased",
   "workbench.iconTheme": "symbols",
   "workbench.list.smoothScrolling": true,
-  "workbench.preferredDarkColorTheme": "One Dark Pro Flat",
-  "workbench.preferredLightColorTheme": "One Dark Pro Flat",
+  "workbench.preferredDarkColorTheme": "Ayu Mirage",
+  "workbench.preferredLightColorTheme": "Ayu Mirage",
   "workbench.productIconTheme": "fluent-icons",
   "workbench.sideBar.location": "right",
   "workbench.startupEditor": "newUntitledFile",
@@ -167,7 +167,7 @@
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
   "explorer.fileNesting.expand": false,
-  "editor.fontSize": 12.7,
+  "editor.fontSize": 12,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "window.zoomLevel": 2,
@@ -201,5 +201,4 @@
   "editor.cursorStyle": "line",
   "workbench.statusBar.visible": false,
   "editor.find.cursorMoveOnType": false,
-  "oneDarkPro.italic": true
 }
