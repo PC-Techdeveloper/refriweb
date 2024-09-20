@@ -202,4 +202,9 @@
   "editor.cursorStyle": "line",
   "workbench.statusBar.visible": false,
   "editor.find.cursorMoveOnType": false,
+  "emmet.syntaxProfiles": {
+    "html": {
+      "inline_break": true
+    }
+  }
 }
