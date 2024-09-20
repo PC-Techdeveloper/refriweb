@@ -1,8 +1,7 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "Victor Mono",
-  "editor.fontWeight": "bold",
+  "editor.fontFamily": "Cascadia Code",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "boundary",
@@ -206,5 +205,7 @@
     "html": {
       "inline_break": true
     }
-  }
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "oneDarkPro.vivid": true
 }
