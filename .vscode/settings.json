@@ -9,7 +9,6 @@
   "workbench.colorTheme": "One Dark Pro",
   "workbench.editor.tabActionLocation": "left",
   "workbench.fontAliasing": "antialiased",
-  "workbench.iconTheme": "symbols",
   "workbench.list.smoothScrolling": true,
   "workbench.preferredDarkColorTheme": "One Dark Pro",
   "workbench.preferredLightColorTheme": "One Dark Pro",
@@ -80,11 +79,9 @@
     "**/CHANGELOG*": true,
     "**/LICENSE*": true,
   },
-  // ==========  Global Level Config, needs to put in User Settings ========== 
-  "window.dialogStyle": "custom",
   "window.nativeTabs": true, // this is great, macOS only
   "window.title": "${rootName}", // this make tabs more readable
-  "window.titleBarStyle": "custom",
+  "window.titleBarStyle": "native",
   "extensions.autoUpdate": "onlyEnabledExtensions",
   // ========== Extension configs ========== 
   "emmet.showSuggestionsAsSnippets": true,
@@ -167,7 +164,6 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "explorer.fileNesting.expand": false,
   "editor.fontSize": 14,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
@@ -181,7 +177,6 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.hover.enabled": true,
   "eplorer.fileNesting.enabled": true,
-  "workbench.editor.enablePreview": false,
   "[python]": {
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.formatOnType": true,
@@ -196,11 +191,10 @@
     "editor.defaultFormatter": "redhat.java"
   },
   "redhat.telemetry.enabled": true,
-  "editor.cursorBlinking": "smooth",
+  "editor.cursorBlinking": "expand",
   "editor.smoothScrolling": true,
   "editor.fastScrollSensitivity": 2,
   "editor.cursorStyle": "line",
-  "workbench.statusBar.visible": false,
   "editor.find.cursorMoveOnType": false,
   "emmet.syntaxProfiles": {
     "html": {
@@ -215,5 +209,45 @@
   "editor.snippetSuggestions": "top",
   "window.nativeFullScreen": true,
   "editor.guides.indentation": false,
-  "editor.lineHeight": 20
+  "editor.lineHeight": 20,
+  "workbench.preferredHighContrastLightColorTheme": "One Dark Pro",
+  "workbench.preferredHighContrastColorTheme": "One Dark Pro",
+  "workbench.activityBar.location": "bottom",
+  "workbench.iconTheme": "symbols",
+  "workbench.tree.renderIndentGuides": "always",
+  "breadcrumbs.enabled": false,
+  "breadcrumbs.icons": false,
+  "breadcrumbs.showArrays": false,
+  "breadcrumbs.showBooleans": false,
+  "breadcrumbs.showClasses": false,
+  "breadcrumbs.showConstants": false,
+  "breadcrumbs.showConstructors": false,
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.labelFormat": "short",
+  "screencastMode.fontSize": 20,
+  "window.density.editorTabHeight": "compact",
+  "window.systemColorTheme": "dark",
+  "window.menuBarVisibility": "compact",
+  "editor.cursorWidth": 3,
+  "editor.formatOnType": true,
+  "editor.inlayHints.enabled": "off",
+  "typescript.tsserver.experimental.enableProjectDiagnostics": false,
+  "css.validate": false,
+  "json.validate": false,
+  "html.validate.scripts": false,
+  "typescript.tsserver.maxTsServerMemory": 4096,
+  "typescript.tsserver.log": "off",
+  "typescript.suggestionActions.enabled": false,
+  "javascript.suggestionActions.enabled": false,
+  "eslint.run": "onSave",
+  "eslint.autoFixOnSave": true,
+  "files.maxMemoryForLargeFilesMB": 4096,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true,
+    "**/bower_components": true
+  },
+  "workbench.tips.enabled": false
 }
