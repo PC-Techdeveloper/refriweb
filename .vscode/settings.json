@@ -3,7 +3,7 @@
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.fontFamily": "Cascadia Code",
   "editor.guides.bracketPairs": "active",
-  "editor.lineNumbers": "off",
+  "editor.lineNumbers": "on",
   "editor.renderWhitespace": "boundary",
   "window.autoDetectColorScheme": true,
   "workbench.colorTheme": "One Dark Pro",
@@ -164,7 +164,7 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 14,
+  "editor.fontSize": 13,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "window.zoomLevel": 2,
@@ -191,11 +191,11 @@
     "editor.defaultFormatter": "redhat.java"
   },
   "redhat.telemetry.enabled": false,
-  "editor.cursorBlinking": "expand",
+  "editor.cursorBlinking": "blink",
   "editor.smoothScrolling": true,
-  "editor.fastScrollSensitivity": 2,
-  "editor.cursorStyle": "line",
-  "editor.find.cursorMoveOnType": true,
+  "editor.fastScrollSensitivity": 10,
+  "editor.cursorStyle": "block",
+  "editor.find.cursorMoveOnType": false,
   "emmet.syntaxProfiles": {
     "html": {
       "inline_break": true
@@ -228,7 +228,6 @@
   "window.density.editorTabHeight": "compact",
   "window.systemColorTheme": "dark",
   "window.menuBarVisibility": "compact",
-  "editor.cursorWidth": 3,
   "editor.formatOnType": true,
   "editor.inlayHints.enabled": "off",
   "typescript.tsserver.maxTsServerMemory": 4096,
