@@ -167,10 +167,10 @@
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
   "explorer.fileNesting.expand": false,
-  "editor.fontSize": 14,
+  "editor.fontSize": 13,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
-  "window.zoomLevel": 3,
+  "window.zoomLevel": 2,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
   "editor.wordWrap": "on",
   "editor.fontLigatures": true,
