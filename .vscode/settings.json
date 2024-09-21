@@ -190,12 +190,12 @@
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.defaultFormatter": "redhat.java"
   },
-  "redhat.telemetry.enabled": true,
+  "redhat.telemetry.enabled": false,
   "editor.cursorBlinking": "expand",
   "editor.smoothScrolling": true,
   "editor.fastScrollSensitivity": 2,
   "editor.cursorStyle": "line",
-  "editor.find.cursorMoveOnType": false,
+  "editor.find.cursorMoveOnType": true,
   "emmet.syntaxProfiles": {
     "html": {
       "inline_break": true
@@ -209,7 +209,6 @@
   "editor.snippetSuggestions": "top",
   "window.nativeFullScreen": true,
   "editor.guides.indentation": false,
-  "editor.lineHeight": 20,
   "workbench.preferredHighContrastLightColorTheme": "One Dark Pro",
   "workbench.preferredHighContrastColorTheme": "One Dark Pro",
   "workbench.activityBar.location": "bottom",
@@ -232,22 +231,10 @@
   "editor.cursorWidth": 3,
   "editor.formatOnType": true,
   "editor.inlayHints.enabled": "off",
-  "typescript.tsserver.experimental.enableProjectDiagnostics": false,
-  "css.validate": false,
-  "json.validate": false,
-  "html.validate.scripts": false,
   "typescript.tsserver.maxTsServerMemory": 4096,
   "typescript.tsserver.log": "off",
   "typescript.suggestionActions.enabled": false,
   "javascript.suggestionActions.enabled": false,
-  "eslint.run": "onSave",
-  "eslint.autoFixOnSave": true,
   "files.maxMemoryForLargeFilesMB": 4096,
-  "files.exclude": {
-    "**/.git": true,
-    "**/.DS_Store": true,
-    "**/node_modules": true,
-    "**/bower_components": true
-  },
   "workbench.tips.enabled": false
 }
