@@ -13,7 +13,7 @@
   "workbench.preferredDarkColorTheme": "One Dark Pro",
   "workbench.preferredLightColorTheme": "One Dark Pro",
   "workbench.productIconTheme": "fluent-icons",
-  "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "left",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.tree.expandMode": "singleClick",
   "workbench.tree.indent": 10,
