@@ -224,7 +224,6 @@
   "workbench.editor.empty.hint": "hidden",
   "workbench.editor.enablePreview": false,
   "workbench.editor.labelFormat": "short",
-  "screencastMode.fontSize": 20,
   "window.density.editorTabHeight": "compact",
   "window.systemColorTheme": "dark",
   "window.menuBarVisibility": "compact",
@@ -235,5 +234,6 @@
   "typescript.suggestionActions.enabled": false,
   "javascript.suggestionActions.enabled": false,
   "files.maxMemoryForLargeFilesMB": 4096,
-  "workbench.tips.enabled": false
+  "workbench.tips.enabled": false,
+  "window.commandCenter": false,
 }
