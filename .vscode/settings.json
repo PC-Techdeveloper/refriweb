@@ -163,7 +163,7 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 13,
+  "editor.fontSize": 14,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "window.zoomLevel": 2,
@@ -244,5 +244,6 @@
   "apc.menubar.compact": true,
   "apc.statusBar": {
     "position": "editor-bottom"
-  }
+  },
+  "editor.codeLens": false
 }
