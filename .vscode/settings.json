@@ -81,7 +81,6 @@
   },
   "window.nativeTabs": true, // this is great, macOS only
   "window.title": "${rootName}", // this make tabs more readable
-  "window.titleBarStyle": "native",
   "extensions.autoUpdate": "onlyEnabledExtensions",
   // ========== Extension configs ========== 
   "emmet.showSuggestionsAsSnippets": true,
@@ -236,4 +235,14 @@
   "files.maxMemoryForLargeFilesMB": 4096,
   "workbench.tips.enabled": false,
   "window.commandCenter": false,
+  //APC CUSTOMIZE UI
+  "window.titleBarStyle": "native",
+  "apc.electron": {
+    "titleBarStyle": "hidden"
+  },
+  "apc.font.family": "Consolas",
+  "apc.menubar.compact": true,
+  "apc.statusBar": {
+    "position": "editor-bottom"
+  }
 }
