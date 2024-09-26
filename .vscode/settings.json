@@ -1,7 +1,8 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "Cascadia Code",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontWeight": "bold",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "boundary",
@@ -49,7 +50,7 @@
   "terminal.integrated.cursorStyle": "block",
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.tabs.enabled": true,
-  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontSize": 14,
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.limit.enabled": true,
@@ -163,7 +164,7 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 13.8,
+  "editor.fontSize": 14,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "window.zoomLevel": 1.9,
@@ -193,7 +194,7 @@
   "editor.cursorBlinking": "blink",
   "editor.smoothScrolling": true,
   "editor.fastScrollSensitivity": 10,
-  "editor.cursorStyle": "line",
+  "editor.cursorStyle": "block",
   "editor.find.cursorMoveOnType": false,
   "emmet.syntaxProfiles": {
     "html": {
@@ -221,7 +222,7 @@
   "breadcrumbs.showConstants": false,
   "breadcrumbs.showConstructors": false,
   "workbench.editor.empty.hint": "hidden",
-  "workbench.editor.enablePreview": true,
+  "workbench.editor.enablePreview": false,
   "workbench.editor.labelFormat": "short",
   "window.density.editorTabHeight": "default",
   "window.systemColorTheme": "dark",
@@ -236,11 +237,12 @@
   "workbench.tips.enabled": false,
   "window.commandCenter": false,
   //APC CUSTOMIZE UI
-  "apc.font.family": "Consolas",
-  "apc.menubar.compact": true,
   "editor.codeLens": false,
   "zenMode.centerLayout": false,
   "zenMode.hideActivityBar": false,
   "zenMode.hideLineNumbers": false,
-  "zenMode.fullScreen": true
+  "zenMode.fullScreen": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.lineHeight": 19,
+  "update.mode": "manual"
 }
