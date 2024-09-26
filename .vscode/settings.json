@@ -6,12 +6,12 @@
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "boundary",
   "window.autoDetectColorScheme": true,
-  "workbench.colorTheme": "One Dark Pro",
+  "workbench.colorTheme": "One Dark Pro Darker",
   "workbench.editor.tabActionLocation": "left",
   "workbench.fontAliasing": "antialiased",
   "workbench.list.smoothScrolling": true,
-  "workbench.preferredDarkColorTheme": "One Dark Pro",
-  "workbench.preferredLightColorTheme": "One Dark Pro",
+  "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
+  "workbench.preferredLightColorTheme": "One Dark Pro Darker",
   "workbench.productIconTheme": "fluent-icons",
   "workbench.sideBar.location": "left",
   "workbench.startupEditor": "newUntitledFile",
@@ -163,10 +163,10 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 13.2,
+  "editor.fontSize": 13.8,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 1.9,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
   "editor.wordWrap": "on",
   "editor.fontLigatures": true,
@@ -210,7 +210,7 @@
   "editor.guides.indentation": false,
   "workbench.preferredHighContrastLightColorTheme": "One Dark Pro",
   "workbench.preferredHighContrastColorTheme": "One Dark Pro",
-  "workbench.activityBar.location": "bottom",
+  "workbench.activityBar.location": "default",
   "workbench.iconTheme": "symbols",
   "workbench.tree.renderIndentGuides": "always",
   "breadcrumbs.enabled": true,
@@ -221,9 +221,9 @@
   "breadcrumbs.showConstants": false,
   "breadcrumbs.showConstructors": false,
   "workbench.editor.empty.hint": "hidden",
-  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreview": true,
   "workbench.editor.labelFormat": "short",
-  "window.density.editorTabHeight": "compact",
+  "window.density.editorTabHeight": "default",
   "window.systemColorTheme": "dark",
   "window.menuBarVisibility": "compact",
   "editor.formatOnType": true,
@@ -236,14 +236,11 @@
   "workbench.tips.enabled": false,
   "window.commandCenter": false,
   //APC CUSTOMIZE UI
-  "window.titleBarStyle": "native",
-  "apc.electron": {
-    "titleBarStyle": "hidden"
-  },
   "apc.font.family": "Consolas",
   "apc.menubar.compact": true,
-  "apc.statusBar": {
-    "position": "editor-bottom"
-  },
-  "editor.codeLens": false
+  "editor.codeLens": false,
+  "zenMode.centerLayout": false,
+  "zenMode.hideActivityBar": false,
+  "zenMode.hideLineNumbers": false,
+  "zenMode.fullScreen": true
 }
