@@ -244,5 +244,6 @@
   "zenMode.fullScreen": true,
   "security.workspace.trust.untrustedFiles": "open",
   "editor.lineHeight": 19,
-  "update.mode": "manual"
+  "update.mode": "manual",
+  "java.compile.nullAnalysis.mode": "disabled",
 }
