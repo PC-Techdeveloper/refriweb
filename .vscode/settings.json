@@ -2,7 +2,6 @@
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.fontFamily": "JetBrains Mono",
-  "editor.fontWeight": "bold",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "boundary",
@@ -50,7 +49,7 @@
   "terminal.integrated.cursorStyle": "block",
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.tabs.enabled": true,
-  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontSize": 15,
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.limit.enabled": true,
@@ -164,10 +163,10 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 13.4,
+  "editor.fontSize": 15,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
-  "window.zoomLevel": 1.9,
+  "window.zoomLevel": 1,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
   "editor.wordWrap": "on",
   "editor.fontLigatures": true,
@@ -243,7 +242,6 @@
   "zenMode.hideLineNumbers": false,
   "zenMode.fullScreen": true,
   "security.workspace.trust.untrustedFiles": "open",
-  "editor.lineHeight": 19,
   "update.mode": "manual",
   "java.compile.nullAnalysis.mode": "disabled",
 }
