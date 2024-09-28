@@ -1,7 +1,7 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontFamily": "Cascadia Code",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "boundary",
@@ -49,7 +49,7 @@
   "terminal.integrated.cursorStyle": "block",
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.tabs.enabled": true,
-  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontSize": 20,
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.limit.enabled": true,
@@ -163,9 +163,10 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 15,
+  "editor.fontSize": 18,
   "files.autoSave": "afterDelay",
-  "editor.minimap.enabled": false,
+  "editor.minimap.enabled": true,
+  "editor.minimap.maxColumn": 60,
   "window.zoomLevel": 1,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
   "editor.wordWrap": "on",
@@ -190,7 +191,7 @@
     "editor.defaultFormatter": "redhat.java"
   },
   "redhat.telemetry.enabled": false,
-  "editor.cursorBlinking": "blink",
+  "editor.cursorBlinking": "smooth",
   "editor.smoothScrolling": true,
   "editor.fastScrollSensitivity": 10,
   "editor.cursorStyle": "block",
@@ -244,5 +245,10 @@
   "security.workspace.trust.untrustedFiles": "open",
   "update.mode": "manual",
   "java.compile.nullAnalysis.mode": "disabled",
-  "explorer.compactFolders": true
+  "explorer.compactFolders": true,
+  "explorer.openEditors.visible": 1,
+  "explorer.sortOrder": "type",
+  "workbench.statusBar.visible": true,
+  "editor.lineHeight": 20,
+  "editor.suggestLineHeight": 35
 }
