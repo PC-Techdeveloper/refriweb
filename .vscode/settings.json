@@ -163,7 +163,7 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 13.3,
+  "editor.fontSize": 14.2,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": true,
   "editor.minimap.maxColumn": 60,
@@ -247,8 +247,12 @@
   "workbench.statusBar.visible": true,
   "editor.suggestLineHeight": 25,
   "terminal.integrated.gpuAcceleration": "on",
-  "terminal.integrated.letterSpacing": 1.2,
   "editor.autoIndent": "full",
   "editor.folding": false,
   "oneDarkPro.italic": true,
+  "window.enableHardwareAcceleration": false,
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.quickSuggestions": {
+    "other": false,
+  }
 }
