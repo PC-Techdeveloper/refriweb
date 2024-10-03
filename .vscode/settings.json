@@ -253,6 +253,6 @@
   "window.enableHardwareAcceleration": false,
   "editor.suggestOnTriggerCharacters": true,
   "editor.quickSuggestions": {
-    "other": false,
+    "other": true,
   }
 }
