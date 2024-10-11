@@ -245,7 +245,6 @@
   "explorer.openEditors.visible": 1,
   "explorer.sortOrder": "type",
   "workbench.statusBar.visible": true,
-  "editor.suggestLineHeight": 25,
   "terminal.integrated.gpuAcceleration": "on",
   "editor.autoIndent": "full",
   "editor.folding": false,
