@@ -253,5 +253,6 @@
   "editor.suggestOnTriggerCharacters": true,
   "editor.quickSuggestions": {
     "other": true,
-  }
+  },
+  "editor.parameterHints.enabled": false
 }
