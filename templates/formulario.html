@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulario de Clientes</title>
+    <link rel="stylesheet" href="./static/formulario.css" />
+    <link rel="shortcut icon" href="../public/temp-icon.svg" type="image/x-icon" />
+  </head>
+  <body>
+    <h1>Nuevo Cliente</h1>
+
+    <section class="form">
+      <h2 class="form__title">Datos Personales</h2>
+      <form class="form__form">
+        <div class="form__input-container">
+          <label
+            >Nombre y Apellido
+            <input type="text" name="nombre" placeholder="John Doe" required />
+          </label>
+        </div>
+
+        <div class="form__input-container">
+          <label
+            >Celular
+            <input type="text" name="telefono" placeholder="3127105207" required />
+          </label>
+        </div>
+        <div class="form__input-container">
+          <label
+            >Correo Electrónico
+            <input type="email" name="correo" placeholder="hola@example.com" required />
+          </label>
+        </div>
+        <div class="form__input-container">
+          <label
+            >Dirección
+            <input type="text" name="direccion" placeholder="Aquí va tu dirección" required />
+          </label>
+        </div>
+        <div class="form__input-container">
+          <input type="submit" value="Guardar" />
+        </div>
+      </form>
+    </section>
+  </body>
+</html>

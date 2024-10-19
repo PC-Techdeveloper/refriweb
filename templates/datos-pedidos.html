@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Datos de Pedidos</title>
+
+    <link rel="stylesheet" href="./static/datos-pedidos.css" />
+    <link rel="shortcut icon" href="../public/temp-icon.svg" type="image/x-icon" />
+  </head>
+  <body>
+    <h1>Registrar Pedidos</h1>
+
+    <section class="form">
+      <h2 class="form__title">Pedidos</h2>
+      <form class="form__form">
+        <div class="form__input-container">
+          <label
+            >Id del Pedido
+            <input type="number" name="id_pedido" placeholder="ID del Pedido" required />
+          </label>
+        </div>
+
+        <div class="form__input-container">
+          <label
+            >Id del Cliente
+            <input type="number" name="id_cliente" placeholder="ID del Cliente" required />
+          </label>
+        </div>
+        <div class="form__input-container">
+          <label
+            >Fecha del Pedido
+            <input type="date" name="fecha_pedido" placeholder="Fecha" required />
+          </label>
+        </div>
+        <div class="form__input-container">
+          <label
+            >Ciudad
+            <input type="text" name="ciudad" placeholder="Ciudad" required />
+          </label>
+        </div>
+        <div class="form__input-container">
+          <label
+            >Estado en que se encuentra el pedido
+            <select name="estado">
+              <option value="Pendiente">Pendiente</option>
+              <option value="Entregado">Entregado</option>
+              <option value="En transito">En transito</option>
+            </select>
+          </label>
+        </div>
+        <div class="form__input-container">
+          <input type="submit" />
+        </div>
+      </form>
+    </section>
+  </body>
+</html>

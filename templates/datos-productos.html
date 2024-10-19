@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Datos de Productos</title>
+
+    <link rel="stylesheet" href="./static/datos-productos.css" />
+    <link rel="shortcut icon" href="../public/temp-icon.svg" type="image/x-icon" />
+  </head>
+  <body>
+    <h1>Registrar Productos</h1>
+
+    <section class="form">
+      <h2 class="form__title">Productos</h2>
+      <form class="form__form">
+        <div class="form__input-container">
+          <label
+            >Nombre del Producto
+            <input type="text" name="nombre" placeholder="Aquí va el nombre del producto" required />
+          </label>
+        </div>
+
+        <div class="form__input-container">
+          <label
+            >Descripción del producto
+            <textarea name="descripcion" placeholder="Aquí va la descripción del producto"></textarea>
+          </label>
+        </div>
+        <div class="form__input-container">
+          <label
+            >Cantidad de Producto
+            <input type="number" name="cantidad" placeholder="Aquí va la cantidad del producto" required />
+          </label>
+        </div>
+        <div class="form__input-container">
+          <label
+            >Fecha de Vencimiento
+            <input type="date" name="fecha_vencimiento" placeholder="Fecha de vencimiento" required />
+          </label>
+        </div>
+        <div class="form__input-container">
+          <input type="submit" value="Guardar" />
+        </div>
+      </form>
+    </section>
+  </body>
+</html>

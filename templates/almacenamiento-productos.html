@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Almacenamiento de Productos</title>
+
+    <link rel="stylesheet" href="./static/almacenamiento-productos.css" />
+    <link rel="shortcut icon" href="../public/temp-icon.svg" type="image/x-icon" />
+  </head>
+  <body>
+    <h1>Almacenamiento de Productos</h1>
+
+    <section class="form">
+      <h2 class="form__title">Almacenamiento</h2>
+      <form class="form__form">
+        <div class="form__input-container">
+          <label
+            >Capacidad
+            <input type="text" name="cantidad" placeholder="Capacidad del cuarto en metros cúbicos" required />
+          </label>
+        </div>
+
+        <div class="form__input-container">
+          <label
+            >Temperatura
+            <input type="text" name="temperatura" placeholder="Temperatura" required />
+          </label>
+        </div>
+        <div class="form__input-container">
+          <label
+            >Medidas
+            <input type="text" name="medidas" placeholder="A - V" required />
+          </label>
+        </div>
+        <div class="form__input-container">
+          <label
+            >Tipo de Trabajo
+            <select name="tipo_trabajo">
+              <option value="congelacion">Congelación</option>
+              <option value="procesada">Procesada</option>
+              <option value="ambiente">Ambiente</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="form__input-container">
+          <label
+            >Tipo de Producto
+            <input type="text" placeholder="Multiple alimento" required />
+          </label>
+        </div>
+
+        <div class="form__input-container">
+          <label
+            >Humedad
+            <input type="text" placeholder="Humedad" required />
+          </label>
+        </div>
+
+        <div class="form__input-container">
+          <label
+            >Tiempo de Rotación
+            <input type="text" name="tiempo_rotacion" placeholder="Formula" required />
+          </label>
+        </div>
+        <div class="form__input-container">
+          <input type="Guardar" />
+        </div>
+      </form>
+    </section>
+  </body>
+</html>
