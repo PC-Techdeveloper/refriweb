@@ -2,7 +2,6 @@
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.fontFamily": "CaskaydiaCove Nerd Font",
-  "editor.fontWeight": "500",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "boundary",
