@@ -1,7 +1,7 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "Fira Code",
+  "editor.fontFamily": "CaskaydiaCove Nerd Font",
   "editor.fontWeight": "500",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
