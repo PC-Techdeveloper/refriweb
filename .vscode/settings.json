@@ -256,5 +256,7 @@
   },
   "CodeGPT.apiKey": "CodeGPT Plus Beta",
   "editor.parameterHints.enabled": false,
-  "editor.lineHeight": 18
+  "editor.glyphMargin": false,
+  "editor.showFoldingControls": "never",
+  "editor.matchBrackets": "never"
 }
