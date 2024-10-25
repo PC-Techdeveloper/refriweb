@@ -1,7 +1,7 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "CaskaydiaCove Nerd Font",
+  "editor.fontFamily": "Cascadia Code",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "boundary",
@@ -13,7 +13,7 @@
   "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
   "workbench.preferredLightColorTheme": "One Dark Pro Darker",
   "workbench.productIconTheme": "fluent-icons",
-  "workbench.sideBar.location": "left",
+  "workbench.sideBar.location": "right",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.tree.expandMode": "singleClick",
   "workbench.tree.indent": 10,
@@ -49,7 +49,7 @@
   "terminal.integrated.cursorStyle": "block",
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.tabs.enabled": true,
-  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontSize": 17,
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.limit.enabled": true,
@@ -163,9 +163,9 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 13,
+  "editor.fontSize": 14,
   "files.autoSave": "afterDelay",
-  "editor.minimap.enabled": true,
+  "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 60,
   "window.zoomLevel": 2,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
@@ -181,7 +181,7 @@
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.formatOnType": true,
     "editor.wordBasedSuggestions": "off",
-    "editor.defaultFormatter": "ms-python.black-formatter"
+    "editor.defaultFormatter": "ms-python.black-formatter",
   },
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
@@ -207,7 +207,7 @@
   "editor.guides.indentation": false,
   "workbench.preferredHighContrastLightColorTheme": "One Dark Pro Darker",
   "workbench.preferredHighContrastColorTheme": "One Dark Pro Darker",
-  "workbench.activityBar.location": "default",
+  "workbench.activityBar.location": "hidden",
   "workbench.iconTheme": "symbols",
   "workbench.tree.renderIndentGuides": "always",
   "breadcrumbs.enabled": true,
@@ -254,5 +254,7 @@
   "editor.quickSuggestions": {
     "other": true,
   },
-  "editor.parameterHints.enabled": false
+  "CodeGPT.apiKey": "CodeGPT Plus Beta",
+  "editor.parameterHints.enabled": false,
+  "editor.lineHeight": 18
 }
