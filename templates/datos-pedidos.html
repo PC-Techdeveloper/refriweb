@@ -13,7 +13,7 @@
 
     <section class="form">
       <h2 class="form__title">Pedidos</h2>
-      <form class="form__form">
+      <form class="form__form" method="POST">
         <div class="form__input-container">
           <label
             >Id del Pedido
@@ -54,5 +54,19 @@
         </div>
       </form>
     </section>
+
+    <!-- BACKEND -->
+    <h2>Pedidos Registrados</h2>
+    <ul>
+      {% for pedido in pedidos %}
+      <li>
+        Pedido ID: {{ pedido[0] }} - Cliente ID: {{ pedido[1] }}
+        <form method="POST" action="{{ url_for('delete_pedido', id=pedido[0]) }}">
+          <button type="submit">Eliminar</button>
+        </form>
+        <a href="{{ url_for('edit_pedido', id=pedido[0]) }}">Editar</a>
+      </li>
+      {% endfor %}
+    </ul>
   </body>
 </html>
