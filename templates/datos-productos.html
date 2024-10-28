@@ -13,7 +13,7 @@
 
     <section class="form">
       <h2 class="form__title">Productos</h2>
-      <form class="form__form">
+      <form class="form__form" method="POST">
         <div class="form__input-container">
           <label
             >Nombre del Producto
@@ -44,5 +44,31 @@
         </div>
       </form>
     </section>
+
+    <!-- BACKEND -->
+    <h2>Productos Registrados</h2>
+    <ul>
+      {% for producto in productos %}
+      <li>
+        {{ producto[1] }} - ${{ producto[2] }}
+        <form method="POST" action="{{ url_for('delete_producto', id=producto[0]) }}">
+          <button type="submit">Eliminar</button>
+        </form>
+        <a href="{{ url_for('edit_producto', id=producto[0]) }}">Editar</a>
+      </li>
+      {% endfor %}
+    </ul>
   </body>
 </html>
+<h2>Productos Registrados</h2>
+<ul>
+  {% for producto in productos %}
+  <li>
+    {{ producto[1] }} - ${{ producto[2] }}
+    <form method="POST" action="{{ url_for('delete_producto', id=producto[0]) }}">
+      <button type="submit">Eliminar</button>
+    </form>
+    <a href="{{ url_for('edit_producto', id=producto[0]) }}">Editar</a>
+  </li>
+  {% endfor %}
+</ul>
