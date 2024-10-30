@@ -244,7 +244,7 @@
   "explorer.compactFolders": true,
   "explorer.openEditors.visible": 1,
   "explorer.sortOrder": "type",
-  "workbench.statusBar.visible": false,
+  "workbench.statusBar.visible": true,
   "terminal.integrated.gpuAcceleration": "on",
   "editor.autoIndent": "full",
   "editor.folding": false,
