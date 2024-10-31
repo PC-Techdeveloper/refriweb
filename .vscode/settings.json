@@ -258,5 +258,5 @@
   "editor.parameterHints.enabled": false,
   "editor.glyphMargin": false,
   "editor.showFoldingControls": "never",
-  "editor.matchBrackets": "never"
+  "editor.matchBrackets": "never",
 }
