@@ -267,5 +267,6 @@
   ],
   "oneDarkPro.bold": true,
   "oneDarkPro.vivid": true,
-  "oneDarkPro.italic": true
+  "oneDarkPro.italic": true,
+  "terminal.integrated.lineHeight": 1.4
 }
