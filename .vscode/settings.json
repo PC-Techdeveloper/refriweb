@@ -268,5 +268,6 @@
   "oneDarkPro.bold": true,
   "oneDarkPro.vivid": true,
   "oneDarkPro.italic": true,
-  "terminal.integrated.lineHeight": 1.4
+  "terminal.integrated.lineHeight": 1.4,
+  "editor.lineHeight": 1.70
 }
