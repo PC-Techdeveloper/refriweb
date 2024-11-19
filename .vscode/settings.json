@@ -191,10 +191,10 @@
     "editor.defaultFormatter": "redhat.java"
   },
   "redhat.telemetry.enabled": false,
-  "editor.cursorBlinking": "smooth",
+  "editor.cursorBlinking": "expand",
   "editor.smoothScrolling": true,
   "editor.fastScrollSensitivity": 10,
-  "editor.cursorStyle": "block",
+  "editor.cursorStyle": "line",
   "editor.find.cursorMoveOnType": false,
   "emmet.syntaxProfiles": {
     "html": {
