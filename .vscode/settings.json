@@ -207,7 +207,7 @@
   "editor.guides.indentation": false,
   "workbench.preferredHighContrastLightColorTheme": "One Dark Pro Flat",
   "workbench.preferredHighContrastColorTheme": "One Dark Pro Flat",
-  "workbench.activityBar.location": "top",
+  "workbench.activityBar.location": "default",
   "workbench.iconTheme": "eq-material-theme-icons",
   "workbench.tree.renderIndentGuides": "always",
   "breadcrumbs.enabled": true,
