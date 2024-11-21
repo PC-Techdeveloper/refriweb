@@ -269,6 +269,5 @@
   "oneDarkPro.vivid": true,
   "oneDarkPro.italic": true,
   "terminal.integrated.lineHeight": 1.4,
-  "editor.lineHeight": 1.70,
   "workbench.editor.wrapTabs": true
 }
