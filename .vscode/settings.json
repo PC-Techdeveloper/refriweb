@@ -27,7 +27,9 @@
   "editor.suggestSelection": "first",
   "editor.tabSize": 2,
   "editor.unicodeHighlight.invisibleCharacters": false,
-  "editor.stickyScroll.enabled": false,
+  "editor.stickyScroll.enabled": true,
+  "terminal.integrated.stickyScroll.enabled": true,
+  "workbench.tree.enableStickyScroll": true,
   "editor.hover.sticky": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": "never",
@@ -167,7 +169,7 @@
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 60,
-  "window.zoomLevel": 1.2,
+  "window.zoomLevel": 1.40,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
   "editor.wordWrap": "on",
   "editor.fontLigatures": true,
@@ -237,6 +239,7 @@
   "zenMode.centerLayout": false,
   "zenMode.hideActivityBar": false,
   "zenMode.hideLineNumbers": false,
+  "zenMode.hideStatusBar": false,
   "zenMode.fullScreen": true,
   "security.workspace.trust.untrustedFiles": "open",
   "update.mode": "manual",
@@ -269,5 +272,5 @@
   "oneDarkPro.vivid": true,
   "oneDarkPro.italic": true,
   "terminal.integrated.lineHeight": 1.4,
-  "workbench.editor.wrapTabs": true
+  "workbench.editor.wrapTabs": true,
 }
