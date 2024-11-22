@@ -244,7 +244,7 @@
   "security.workspace.trust.untrustedFiles": "open",
   "update.mode": "manual",
   "java.compile.nullAnalysis.mode": "disabled",
-  "explorer.compactFolders": true,
+  "explorer.compactFolders": false,
   "explorer.openEditors.visible": 1,
   "explorer.sortOrder": "type",
   "workbench.statusBar.visible": true,
