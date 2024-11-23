@@ -275,7 +275,7 @@
   "workbench.editor.wrapTabs": true,
   "editor.lineHeight": 26,
   "editor.semanticTokenColorCustomizations": {
-    "[Rouge]": {
+    "[One Dark Pro Darker]": {
       "enabled": true,
       "rules": {
         "*.declaration": {
