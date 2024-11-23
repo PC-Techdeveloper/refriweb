@@ -273,7 +273,6 @@
   "oneDarkPro.italic": true,
   "terminal.integrated.lineHeight": 1.4,
   "workbench.editor.wrapTabs": true,
-  "editor.lineHeight": 26,
   "editor.semanticTokenColorCustomizations": {
     "[One Dark Pro Darker]": {
       "enabled": true,
