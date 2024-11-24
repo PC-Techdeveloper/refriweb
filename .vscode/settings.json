@@ -271,7 +271,6 @@
   "oneDarkPro.bold": true,
   "oneDarkPro.vivid": true,
   "oneDarkPro.italic": true,
-  "terminal.integrated.lineHeight": 1.4,
   "workbench.editor.wrapTabs": true,
   "editor.semanticTokenColorCustomizations": {
     "[One Dark Pro Darker]": {
@@ -282,5 +281,6 @@
         }
       }
     }
-  }
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash"
 }
