@@ -6,12 +6,12 @@
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "boundary",
   "window.autoDetectColorScheme": false,
-  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.colorTheme": "Tokyo Night Storm",
   "workbench.editor.tabActionLocation": "left",
   "workbench.fontAliasing": "antialiased",
   "workbench.list.smoothScrolling": true,
-  "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
-  "workbench.preferredLightColorTheme": "One Dark Pro Darker",
+  "workbench.preferredDarkColorTheme": "Tokyo Night Storm",
+  "workbench.preferredLightColorTheme": "Tokyo Night Storm",
   "workbench.productIconTheme": "fluent-icons",
   "workbench.sideBar.location": "left",
   "workbench.startupEditor": "newUntitledFile",
@@ -207,8 +207,8 @@
   "editor.snippetSuggestions": "top",
   "window.nativeFullScreen": true,
   "editor.guides.indentation": false,
-  "workbench.preferredHighContrastLightColorTheme": "One Dark Pro Darker",
-  "workbench.preferredHighContrastColorTheme": "One Dark Pro Darker",
+  "workbench.preferredHighContrastLightColorTheme": "Tokyo Night Storm",
+  "workbench.preferredHighContrastColorTheme": "Tokyo Night Storm",
   "workbench.activityBar.location": "default",
   "workbench.iconTheme": "eq-material-theme-icons",
   "workbench.tree.renderIndentGuides": "always",
@@ -273,7 +273,7 @@
   "oneDarkPro.italic": true,
   "workbench.editor.wrapTabs": true,
   "editor.semanticTokenColorCustomizations": {
-    "[One Dark Pro Darker]": {
+    "[Tokyo Night Storm]": {
       "enabled": true,
       "rules": {
         "*.declaration": {
