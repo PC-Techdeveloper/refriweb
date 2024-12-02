@@ -283,6 +283,6 @@
     }
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "editor.lineHeight": 25,
+  "editor.lineHeight": 19,
   "apc.font.family": "Cascadia Code",
 }
