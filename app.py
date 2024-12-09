@@ -11,6 +11,9 @@ def get_db_connection():
     )
 
 
+get_db_connection()
+
+
 # Página principal
 @app.route("/")
 def index():
