@@ -271,7 +271,7 @@
   "oneDarkPro.bold": true,
   "oneDarkPro.vivid": true,
   "oneDarkPro.italic": true,
-  "workbench.editor.wrapTabs": true,
+  "workbench.editor.wrapTabs": false,
   "editor.semanticTokenColorCustomizations": {
     "[One Dark Pro]": {
       "enabled": true,
