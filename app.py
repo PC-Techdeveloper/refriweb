@@ -10,10 +10,6 @@ def get_db_connection():
         host="localhost", user="root", password="jeffer1234", database="refrigeraciondb"
     )
 
-
-get_db_connection()
-
-
 # Página principal
 @app.route("/")
 def index():
