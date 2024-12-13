@@ -211,7 +211,7 @@
   "workbench.preferredHighContrastColorTheme": "One Dark Pro Darker",
   "workbench.activityBar.location": "top",
   "workbench.iconTheme": "symbols",
-  "workbench.tree.renderIndentGuides": "always",
+  "workbench.tree.renderIndentGuides": "none",
   "breadcrumbs.enabled": true,
   "breadcrumbs.icons": true,
   "breadcrumbs.showArrays": false,
