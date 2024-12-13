@@ -284,5 +284,6 @@
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "apc.font.family": "Cascadia Code",
-  "editor.lineHeight": 20
+  "editor.lineHeight": 20,
+  "git.blame.editorDecoration.enabled": true
 }
