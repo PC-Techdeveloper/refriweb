@@ -196,7 +196,7 @@
   "editor.cursorBlinking": "expand",
   "editor.smoothScrolling": true,
   "editor.fastScrollSensitivity": 10,
-  "editor.cursorStyle": "line",
+  "editor.cursorStyle": "block",
   "editor.find.cursorMoveOnType": false,
   "emmet.syntaxProfiles": {
     "html": {
@@ -247,7 +247,7 @@
   "explorer.compactFolders": false,
   "explorer.openEditors.visible": 1,
   "explorer.sortOrder": "type",
-  "workbench.statusBar.visible": false,
+  "workbench.statusBar.visible": true,
   "terminal.integrated.gpuAcceleration": "on",
   "editor.autoIndent": "full",
   "editor.folding": false,
@@ -284,6 +284,5 @@
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "apc.font.family": "Cascadia Code",
-  "editor.lineHeight": 20,
   "git.blame.editorDecoration.enabled": true
 }
