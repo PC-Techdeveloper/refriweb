@@ -250,7 +250,7 @@
   "workbench.statusBar.visible": true,
   "terminal.integrated.gpuAcceleration": "on",
   "editor.autoIndent": "full",
-  "editor.folding": false,
+  "editor.folding": true,
   "window.enableHardwareAcceleration": false,
   "editor.suggestOnTriggerCharacters": true,
   "editor.quickSuggestions": {
