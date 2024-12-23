@@ -161,7 +161,7 @@
   // I only use Prettier for manually formatting
   "prettier.enable": true,
   "prettier.printWidth": 200,
-  "prettier.semi": true,
+  "prettier.semi": false,
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
