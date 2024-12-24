@@ -277,12 +277,16 @@
       "enabled": true,
       "rules": {
         "*.declaration": {
-          "bold": true
+          "bold": true,
         }
       }
     }
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "apc.font.family": "Cascadia Code",
-  "git.blame.editorDecoration.enabled": true
+  "git.blame.editorDecoration.enabled": true,
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "rapidapi.terminalLink.enabled": false,
 }
