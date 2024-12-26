@@ -161,7 +161,7 @@
   // I only use Prettier for manually formatting
   "prettier.enable": true,
   "prettier.printWidth": 200,
-  "prettier.semi": false,
+  "prettier.semi": true,
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
@@ -233,7 +233,7 @@
   "javascript.suggestionActions.enabled": false,
   "files.maxMemoryForLargeFilesMB": 4096,
   "workbench.tips.enabled": false,
-  "window.commandCenter": false,
+  "window.commandCenter": true,
   //APC CUSTOMIZE UI
   "editor.codeLens": false,
   "zenMode.centerLayout": false,
