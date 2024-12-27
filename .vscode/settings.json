@@ -193,7 +193,7 @@
     "editor.defaultFormatter": "redhat.java"
   },
   "redhat.telemetry.enabled": false,
-  "editor.cursorBlinking": "expand",
+  "editor.cursorBlinking": "blink",
   "editor.smoothScrolling": true,
   "editor.fastScrollSensitivity": 10,
   "editor.cursorStyle": "line",
