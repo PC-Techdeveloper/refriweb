@@ -165,7 +165,7 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 14,
+  "editor.fontSize": 12.45,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 55,
@@ -289,4 +289,5 @@
     "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
   },
   "rapidapi.terminalLink.enabled": false,
+  "editor.lineHeight": 28
 }
