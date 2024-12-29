@@ -169,7 +169,7 @@
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": true,
   "editor.minimap.maxColumn": 70,
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 1.70,
   "terminal.integrated.fontFamily": "Cascadia Code",
   "editor.wordWrap": "on",
   "editor.fontLigatures": true,
