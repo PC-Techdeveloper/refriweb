@@ -165,11 +165,11 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 14,
+  "editor.fontSize": 13.99,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": true,
   "editor.minimap.maxColumn": 70,
-  "window.zoomLevel": 1.70,
+  "window.zoomLevel": 2,
   "terminal.integrated.fontFamily": "Cascadia Code",
   "editor.wordWrap": "on",
   "editor.fontLigatures": true,
@@ -268,7 +268,7 @@
   "vscode_custom_css.imports": [
     "file:///c:/Users/jefer/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.4/dist/updateHandler.js"
   ],
-  "oneDarkPro.bold": true,
+  "oneDarkPro.bold": false,
   "oneDarkPro.vivid": true,
   "oneDarkPro.italic": true,
   "workbench.editor.wrapTabs": false,
