@@ -167,7 +167,7 @@
   "explorer.fileNesting.enabled": true,
   "editor.fontSize": 13.99,
   "files.autoSave": "afterDelay",
-  "editor.minimap.enabled": true,
+  "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 70,
   "window.zoomLevel": 2,
   "terminal.integrated.fontFamily": "Cascadia Code",
