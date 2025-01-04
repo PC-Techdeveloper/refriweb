@@ -165,11 +165,11 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 13,
+  "editor.fontSize": 14,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": true,
-  "editor.minimap.maxColumn": 400,
-  "window.zoomLevel": 2,
+  "editor.minimap.maxColumn": 100,
+  "window.zoomLevel": 2.5,
   "terminal.integrated.fontFamily": "JetBrains Mono",
   "editor.wordWrap": "on",
   "editor.fontLigatures": true,
@@ -258,7 +258,7 @@
   },
   "CodeGPT.apiKey": "CodeGPT Plus Beta",
   "editor.parameterHints.enabled": false,
-  "editor.glyphMargin": false,
+  "editor.glyphMargin": true,
   "editor.showFoldingControls": "mouseover",
   "editor.matchBrackets": "never",
   "animations.Active": "Indent",
@@ -290,6 +290,6 @@
   },
   "rapidapi.terminalLink.enabled": false,
   "chat.commandCenter.enabled": false,
-  "editor.lineHeight": 22,
-  "editor.scrollbar.vertical": "hidden"
+  "editor.scrollbar.vertical": "hidden",
+  "editor.lineHeight": 24
 }
