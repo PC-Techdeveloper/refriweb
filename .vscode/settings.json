@@ -291,5 +291,5 @@
   "rapidapi.terminalLink.enabled": false,
   "chat.commandCenter.enabled": false,
   "editor.scrollbar.vertical": "hidden",
-  "editor.lineHeight": 24
+  "editor.lineHeight": 20
 }
