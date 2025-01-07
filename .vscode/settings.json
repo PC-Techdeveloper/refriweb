@@ -1,7 +1,7 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "Iosevka Nerd Font",
+  "editor.fontFamily": "JetBrains Mono",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
@@ -165,7 +165,7 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 15,
+  "editor.fontSize": 14,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": true,
   "editor.minimap.maxColumn": 100,
