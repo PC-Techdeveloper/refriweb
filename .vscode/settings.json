@@ -1,19 +1,19 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "Iosevka",
+  "editor.fontFamily": "Iosevka Nerd Font",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
   "window.autoDetectColorScheme": false,
-  "workbench.colorTheme": "Tokyo Night",
+  "workbench.colorTheme": "TryCatch Theme",
   "workbench.editor.tabActionLocation": "left",
   "workbench.fontAliasing": "antialiased",
   "workbench.list.smoothScrolling": true,
-  "workbench.preferredDarkColorTheme": "Tokyo Night",
-  "workbench.preferredLightColorTheme": "Tokyo Night",
+  "workbench.preferredDarkColorTheme": "TryCatch Theme",
+  "workbench.preferredLightColorTheme": "TryCatch Theme",
   "workbench.productIconTheme": "fluent-icons",
-  "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "left",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.tree.expandMode": "singleClick",
   "workbench.tree.indent": 4,
@@ -51,7 +51,7 @@
   "terminal.integrated.cursorStyle": "block",
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.tabs.enabled": true,
-  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontSize": 15,
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.limit.enabled": true,
@@ -165,11 +165,11 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 14,
+  "editor.fontSize": 15,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": true,
   "editor.minimap.maxColumn": 100,
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 1.50,
   "terminal.integrated.fontFamily": "Iosevka Nerd Font",
   "editor.wordWrap": "on",
   "editor.fontLigatures": true,
@@ -207,8 +207,8 @@
   "editor.snippetSuggestions": "top",
   "window.nativeFullScreen": true,
   "editor.guides.indentation": false,
-  "workbench.preferredHighContrastLightColorTheme": "Tokyo Night",
-  "workbench.preferredHighContrastColorTheme": "Tokyo Night",
+  "workbench.preferredHighContrastLightColorTheme": "TryCatch Theme",
+  "workbench.preferredHighContrastColorTheme": "TryCatch Theme",
   "workbench.activityBar.location": "default",
   "workbench.iconTheme": "symbols",
   "workbench.tree.renderIndentGuides": "none",
@@ -270,7 +270,7 @@
   ],
   "workbench.editor.wrapTabs": false,
   "editor.semanticTokenColorCustomizations": {
-    "[Tokyo Night]": {
+    "[TryCatch Theme]": {
       "enabled": true,
       "rules": {
         "*.declaration": {
@@ -288,5 +288,5 @@
   "rapidapi.terminalLink.enabled": false,
   "chat.commandCenter.enabled": false,
   "editor.scrollbar.vertical": "hidden",
-  "editor.lineHeight": 20
+  "editor.lineHeight": 23
 }
