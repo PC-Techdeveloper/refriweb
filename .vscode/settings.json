@@ -288,7 +288,7 @@
   "rapidapi.terminalLink.enabled": false,
   "chat.commandCenter.enabled": false,
   "editor.scrollbar.vertical": "hidden",
-  "editor.lineHeight": 23,
+  "editor.lineHeight": 20,
   "oneDarkPro.italic": true,
   "oneDarkPro.vivid": true
 }
