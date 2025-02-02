@@ -169,7 +169,7 @@
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": true,
   "editor.minimap.maxColumn": 100,
-  "window.zoomLevel": 1.50,
+  "window.zoomLevel": 2,
   "terminal.integrated.fontFamily": "Iosevka Nerd Font",
   "editor.wordWrap": "on",
   "editor.fontLigatures": true,
@@ -183,7 +183,7 @@
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.formatOnType": true,
     "editor.wordBasedSuggestions": "off",
-    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
