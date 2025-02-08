@@ -6,12 +6,12 @@
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
   "window.autoDetectColorScheme": false,
-  "workbench.colorTheme": "Tokyo Night",
+  "workbench.colorTheme": "One Dark Pro",
   "workbench.editor.tabActionLocation": "left",
   "workbench.fontAliasing": "antialiased",
   "workbench.list.smoothScrolling": true,
-  "workbench.preferredDarkColorTheme": "Tokyo Night",
-  "workbench.preferredLightColorTheme": "Tokyo Night",
+  "workbench.preferredDarkColorTheme": "One Dark Pro",
+  "workbench.preferredLightColorTheme": "One Dark Pro",
   "workbench.productIconTheme": "fluent-icons",
   "workbench.sideBar.location": "left",
   "workbench.startupEditor": "newUntitledFile",
@@ -207,8 +207,8 @@
   "editor.snippetSuggestions": "top",
   "window.nativeFullScreen": true,
   "editor.guides.indentation": false,
-  "workbench.preferredHighContrastLightColorTheme": "Tokyo Night",
-  "workbench.preferredHighContrastColorTheme": "Tokyo Night",
+  "workbench.preferredHighContrastLightColorTheme": "One Dark Pro",
+  "workbench.preferredHighContrastColorTheme": "One Dark Pro",
   "workbench.activityBar.location": "default",
   "workbench.iconTheme": "symbols",
   "workbench.tree.renderIndentGuides": "none",
@@ -270,7 +270,7 @@
   ],
   "workbench.editor.wrapTabs": false,
   "editor.semanticTokenColorCustomizations": {
-    "[Tokyo Night]": {
+    "[One Dark Pro]": {
       "enabled": true,
       "rules": {
         "*.declaration": {
@@ -291,5 +291,6 @@
   "editor.lineHeight": 20,
   "oneDarkPro.italic": true,
   "oneDarkPro.vivid": true,
-  "editor.linkedEditing": true
+  "editor.linkedEditing": true,
+  "oneDarkPro.bold": true
 }
