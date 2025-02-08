@@ -170,7 +170,7 @@
   "editor.minimap.enabled": true,
   "editor.minimap.maxColumn": 100,
   "window.zoomLevel": 2,
-  "terminal.integrated.fontFamily": "Iosevka Nerd Font",
+  "terminal.integrated.fontFamily": "Cascadia code",
   "editor.wordWrap": "on",
   "editor.fontLigatures": true,
   "editor.formatOnPaste": true,
