@@ -290,5 +290,6 @@
   "editor.scrollbar.vertical": "hidden",
   "editor.lineHeight": 20,
   "oneDarkPro.italic": true,
-  "oneDarkPro.vivid": true
+  "oneDarkPro.vivid": true,
+  "editor.linkedEditing": true
 }
