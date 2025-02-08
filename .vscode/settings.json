@@ -1,7 +1,7 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontFamily": "Cascadia code",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
@@ -169,7 +169,7 @@
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": true,
   "editor.minimap.maxColumn": 100,
-  "window.zoomLevel": 1.85,
+  "window.zoomLevel": 2,
   "terminal.integrated.fontFamily": "Iosevka Nerd Font",
   "editor.wordWrap": "on",
   "editor.fontLigatures": true,
