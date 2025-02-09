@@ -165,11 +165,11 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 14,
+  "editor.fontSize": 15,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": true,
   "editor.minimap.maxColumn": 55,
-  "window.zoomLevel": 1.37,
+  "window.zoomLevel": 2,
   "terminal.integrated.fontFamily": "Cascadia code",
   "editor.wordWrap": "on",
   "editor.fontLigatures": true,
