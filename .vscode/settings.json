@@ -6,12 +6,12 @@
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
   "window.autoDetectColorScheme": false,
-  "workbench.colorTheme": "One Dark Pro",
+  "workbench.colorTheme": "Material Theme Ocean",
   "workbench.editor.tabActionLocation": "left",
   "workbench.fontAliasing": "antialiased",
   "workbench.list.smoothScrolling": true,
-  "workbench.preferredDarkColorTheme": "One Dark Pro",
-  "workbench.preferredLightColorTheme": "One Dark Pro",
+  "workbench.preferredDarkColorTheme": "Material Theme Ocean",
+  "workbench.preferredLightColorTheme": "Material Theme Ocean",
   "workbench.productIconTheme": "fluent-icons",
   "workbench.sideBar.location": "left",
   "workbench.startupEditor": "newUntitledFile",
@@ -169,7 +169,7 @@
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": true,
   "editor.minimap.maxColumn": 55,
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 1.99,
   "terminal.integrated.fontFamily": "Cascadia code",
   "editor.wordWrap": "on",
   "editor.fontLigatures": true,
@@ -207,8 +207,8 @@
   "editor.snippetSuggestions": "top",
   "window.nativeFullScreen": true,
   "editor.guides.indentation": false,
-  "workbench.preferredHighContrastLightColorTheme": "One Dark Pro",
-  "workbench.preferredHighContrastColorTheme": "One Dark Pro",
+  "workbench.preferredHighContrastLightColorTheme": "Material Theme Ocean",
+  "workbench.preferredHighContrastColorTheme": "Material Theme Ocean",
   "workbench.activityBar.location": "default",
   "workbench.iconTheme": "symbols",
   "workbench.tree.renderIndentGuides": "none",
@@ -270,7 +270,7 @@
   ],
   "workbench.editor.wrapTabs": false,
   "editor.semanticTokenColorCustomizations": {
-    "[One Dark Pro]": {
+    "[Material Theme Ocean]": {
       "enabled": true,
       "rules": {
         "*.declaration": {
@@ -288,9 +288,6 @@
   "rapidapi.terminalLink.enabled": false,
   "chat.commandCenter.enabled": false,
   "editor.scrollbar.vertical": "hidden",
-  "editor.lineHeight": 20,
-  "oneDarkPro.italic": true,
-  "oneDarkPro.vivid": true,
+  "editor.lineHeight": 23,
   "editor.linkedEditing": true,
-  "oneDarkPro.bold": true
 }
