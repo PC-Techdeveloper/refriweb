@@ -6,12 +6,12 @@
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
   "window.autoDetectColorScheme": false,
-  "workbench.colorTheme": "Material Theme Ocean",
+  "workbench.colorTheme": "Default Dark Modern",
   "workbench.editor.tabActionLocation": "left",
   "workbench.fontAliasing": "antialiased",
   "workbench.list.smoothScrolling": true,
-  "workbench.preferredDarkColorTheme": "Material Theme Ocean",
-  "workbench.preferredLightColorTheme": "Material Theme Ocean",
+  "workbench.preferredDarkColorTheme": "Default Dark Modern",
+  "workbench.preferredLightColorTheme": "Default Dark Modern",
   "workbench.productIconTheme": "fluent-icons",
   "workbench.sideBar.location": "left",
   "workbench.startupEditor": "newUntitledFile",
@@ -165,11 +165,11 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 13,
+  "editor.fontSize": 14,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": true,
   "editor.minimap.maxColumn": 55,
-  "window.zoomLevel": 1.99,
+  "window.zoomLevel": 1.37,
   "terminal.integrated.fontFamily": "Cascadia code",
   "editor.wordWrap": "on",
   "editor.fontLigatures": true,
@@ -207,10 +207,10 @@
   "editor.snippetSuggestions": "top",
   "window.nativeFullScreen": true,
   "editor.guides.indentation": false,
-  "workbench.preferredHighContrastLightColorTheme": "Material Theme Ocean",
-  "workbench.preferredHighContrastColorTheme": "Material Theme Ocean",
+  "workbench.preferredHighContrastLightColorTheme": "Default Dark Modern",
+  "workbench.preferredHighContrastColorTheme": "Default Dark Modern",
   "workbench.activityBar.location": "default",
-  "workbench.iconTheme": "symbols",
+  "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
   "workbench.tree.renderIndentGuides": "none",
   "breadcrumbs.enabled": true,
   "breadcrumbs.icons": true,
@@ -270,7 +270,7 @@
   ],
   "workbench.editor.wrapTabs": false,
   "editor.semanticTokenColorCustomizations": {
-    "[Material Theme Ocean]": {
+    "[Default Dark Modern]": {
       "enabled": true,
       "rules": {
         "*.declaration": {
