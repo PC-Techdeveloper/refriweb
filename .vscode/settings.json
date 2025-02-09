@@ -210,7 +210,7 @@
   "workbench.preferredHighContrastLightColorTheme": "Default Dark Modern",
   "workbench.preferredHighContrastColorTheme": "Default Dark Modern",
   "workbench.activityBar.location": "default",
-  "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+  "workbench.iconTheme": "symbols",
   "workbench.tree.renderIndentGuides": "none",
   "breadcrumbs.enabled": true,
   "breadcrumbs.icons": true,
