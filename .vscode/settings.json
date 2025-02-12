@@ -1,7 +1,7 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "CaskaydiaCove Nerd Font",
+  "editor.fontFamily": "Iosevka Nerd Font",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
@@ -165,11 +165,11 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 13,
+  "editor.fontSize": 16,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 55,
-  "window.zoomLevel": 1.89,
+  "window.zoomLevel": 1.50,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
   "editor.wordWrap": "on",
   "editor.fontLigatures": true,
@@ -287,7 +287,7 @@
   "rapidapi.terminalLink.enabled": false,
   "chat.commandCenter.enabled": false,
   "editor.scrollbar.vertical": "hidden",
-  "editor.lineHeight": 21,
+  "editor.lineHeight": 23,
   "editor.linkedEditing": true,
   "oneDarkPro.bold": true,
   "oneDarkPro.italic": true,
