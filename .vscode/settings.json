@@ -196,7 +196,7 @@
   "editor.cursorBlinking": "blink",
   "editor.smoothScrolling": true,
   "editor.fastScrollSensitivity": 10,
-  "editor.cursorStyle": "line",
+  "editor.cursorStyle": "block",
   "editor.find.cursorMoveOnType": false,
   "emmet.syntaxProfiles": {
     "html": {
@@ -287,7 +287,7 @@
   "rapidapi.terminalLink.enabled": false,
   "chat.commandCenter.enabled": false,
   "editor.scrollbar.vertical": "hidden",
-  "editor.lineHeight": 23,
+  "editor.lineHeight": 20,
   "editor.linkedEditing": true,
   "oneDarkPro.bold": true,
   "oneDarkPro.italic": true,
