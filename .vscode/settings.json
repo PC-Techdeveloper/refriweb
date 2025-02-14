@@ -287,7 +287,6 @@
   "rapidapi.terminalLink.enabled": false,
   "chat.commandCenter.enabled": false,
   "editor.scrollbar.vertical": "hidden",
-  "editor.lineHeight": 20,
   "editor.linkedEditing": true,
   "oneDarkPro.bold": true,
   "oneDarkPro.italic": true,
