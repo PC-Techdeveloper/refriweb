@@ -1,17 +1,17 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "Cascadia Code",
+  "editor.fontFamily": "CaskaydiaCove Nerd Font",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
   "window.autoDetectColorScheme": false,
-  "workbench.colorTheme": "One Dark Pro",
+  "workbench.colorTheme": "Palenight Italic",
   "workbench.editor.tabActionLocation": "left",
   "workbench.fontAliasing": "antialiased",
   "workbench.list.smoothScrolling": true,
-  "workbench.preferredDarkColorTheme": "One Dark Pro",
-  "workbench.preferredLightColorTheme": "One Dark Pro",
+  "workbench.preferredDarkColorTheme": "Palenight Italic",
+  "workbench.preferredLightColorTheme": "Palenight Italic",
   "workbench.productIconTheme": "fluent-icons",
   "workbench.sideBar.location": "left",
   "workbench.startupEditor": "newUntitledFile",
@@ -170,7 +170,7 @@
   "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 55,
   "window.zoomLevel": 2,
-  "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
+  "terminal.integrated.fontFamily": "CasKaydiacove Nerd Font",
   "editor.wordWrap": "on",
   "editor.fontLigatures": true,
   "editor.formatOnPaste": true,
@@ -207,12 +207,12 @@
   "editor.snippetSuggestions": "top",
   "window.nativeFullScreen": true,
   "editor.guides.indentation": true,
-  "workbench.preferredHighContrastLightColorTheme": "One Dark Pro",
-  "workbench.preferredHighContrastColorTheme": "One Dark Pro",
+  "workbench.preferredHighContrastLightColorTheme": "Palenight Italic",
+  "workbench.preferredHighContrastColorTheme": "Palenight Italic",
   "workbench.activityBar.location": "top",
   "workbench.iconTheme": "symbols",
   "workbench.tree.renderIndentGuides": "none",
-  "breadcrumbs.enabled": true,
+  "breadcrumbs.enabled": false,
   "breadcrumbs.icons": true,
   "breadcrumbs.showArrays": false,
   "breadcrumbs.showBooleans": false,
@@ -270,7 +270,7 @@
   ],
   "workbench.editor.wrapTabs": false,
   "editor.semanticTokenColorCustomizations": {
-    "[One Dark Pro]": {
+    "[Palenight Italic]": {
       "enabled": true,
       "rules": {
         "*.declaration": {
@@ -279,7 +279,7 @@
       }
     }
   },
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
   "git.blame.editorDecoration.enabled": true,
   "[php]": {
     "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
@@ -288,7 +288,4 @@
   "chat.commandCenter.enabled": false,
   "editor.scrollbar.vertical": "hidden",
   "editor.linkedEditing": true,
-  "oneDarkPro.bold": true,
-  "oneDarkPro.italic": true,
-  "oneDarkPro.vivid": true
 }
