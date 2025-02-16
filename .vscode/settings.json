@@ -6,12 +6,12 @@
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
   "window.autoDetectColorScheme": false,
-  "workbench.colorTheme": "Palenight Italic",
+  "workbench.colorTheme": "Palenight Operator",
   "workbench.editor.tabActionLocation": "left",
   "workbench.fontAliasing": "antialiased",
   "workbench.list.smoothScrolling": true,
-  "workbench.preferredDarkColorTheme": "Palenight Italic",
-  "workbench.preferredLightColorTheme": "Palenight Italic",
+  "workbench.preferredDarkColorTheme": "Palenight Operator",
+  "workbench.preferredLightColorTheme": "Palenight Operator",
   "workbench.productIconTheme": "fluent-icons",
   "workbench.sideBar.location": "left",
   "workbench.startupEditor": "newUntitledFile",
@@ -207,8 +207,8 @@
   "editor.snippetSuggestions": "top",
   "window.nativeFullScreen": true,
   "editor.guides.indentation": true,
-  "workbench.preferredHighContrastLightColorTheme": "Palenight Italic",
-  "workbench.preferredHighContrastColorTheme": "Palenight Italic",
+  "workbench.preferredHighContrastLightColorTheme": "Palenight Operator",
+  "workbench.preferredHighContrastColorTheme": "Palenight Operator",
   "workbench.activityBar.location": "top",
   "workbench.iconTheme": "symbols",
   "workbench.tree.renderIndentGuides": "none",
@@ -270,7 +270,7 @@
   ],
   "workbench.editor.wrapTabs": false,
   "editor.semanticTokenColorCustomizations": {
-    "[Palenight Italic]": {
+    "[Palenight Operator]": {
       "enabled": true,
       "rules": {
         "*.declaration": {
