@@ -210,7 +210,7 @@
   "workbench.preferredHighContrastLightColorTheme": "Palenight Operator",
   "workbench.preferredHighContrastColorTheme": "Palenight Operator",
   "workbench.activityBar.location": "top",
-  "workbench.iconTheme": "symbols",
+  "workbench.iconTheme": "material-icon-theme",
   "workbench.tree.renderIndentGuides": "none",
   "breadcrumbs.enabled": false,
   "breadcrumbs.icons": true,
