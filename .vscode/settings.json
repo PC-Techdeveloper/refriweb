@@ -279,5 +279,6 @@
   "chat.commandCenter.enabled": false,
   "editor.scrollbar.vertical": "hidden",
   "editor.linkedEditing": true,
-  "editor.lineHeight": 26
+  "editor.lineHeight": 26,
+  "editor.suggest.insertMode": "replace",
 }
