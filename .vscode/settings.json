@@ -1,17 +1,17 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "Cascadia Code",
+  "editor.fontFamily": "JetBrains Mono",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
   "window.autoDetectColorScheme": false,
-  "workbench.colorTheme": "Palenight Operator",
+  "workbench.colorTheme": "Catppuccin Mocha",
   "workbench.editor.tabActionLocation": "left",
   "workbench.fontAliasing": "antialiased",
   "workbench.list.smoothScrolling": true,
-  "workbench.preferredDarkColorTheme": "Palenight Operator",
-  "workbench.preferredLightColorTheme": "Palenight Operator",
+  "workbench.preferredDarkColorTheme": "Catppuccin Mocha",
+  "workbench.preferredLightColorTheme": "Catppuccin Mocha",
   "workbench.productIconTheme": "fluent-icons",
   "workbench.sideBar.location": "left",
   "workbench.startupEditor": "newUntitledFile",
@@ -165,11 +165,11 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 15.7,
+  "editor.fontSize": 15,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 55,
-  "window.zoomLevel": 0.99,
+  "window.zoomLevel": 1,
   "terminal.integrated.fontFamily": "Iosevka Nerd Font Mono",
   "editor.wordWrap": "on",
   "editor.fontLigatures": true,
@@ -207,8 +207,8 @@
   "editor.snippetSuggestions": "top",
   "window.nativeFullScreen": true,
   "editor.guides.indentation": true,
-  "workbench.preferredHighContrastLightColorTheme": "Palenight Operator",
-  "workbench.preferredHighContrastColorTheme": "Palenight Operator",
+  "workbench.preferredHighContrastLightColorTheme": "Catppuccin Mocha",
+  "workbench.preferredHighContrastColorTheme": "Catppuccin Mocha",
   "workbench.activityBar.location": "top",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.tree.renderIndentGuides": "none",
@@ -269,16 +269,7 @@
     "file:///c:/Users/jefer/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.4/dist/updateHandler.js"
   ],
   "workbench.editor.wrapTabs": false,
-  "editor.semanticTokenColorCustomizations": {
-    "[Palenight Operator]": {
-      "enabled": true,
-      "rules": {
-        "*.declaration": {
-          "bold": true,
-        }
-      }
-    }
-  },
+  "editor.fontWeight": "bold",
   "terminal.integrated.defaultProfile.windows": "PowerShell",
   "git.blame.editorDecoration.enabled": true,
   "[php]": {
@@ -288,4 +279,5 @@
   "chat.commandCenter.enabled": false,
   "editor.scrollbar.vertical": "hidden",
   "editor.linkedEditing": true,
+  "editor.lineHeight": 26
 }
