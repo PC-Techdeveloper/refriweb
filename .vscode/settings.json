@@ -196,7 +196,7 @@
   "editor.cursorBlinking": "blink",
   "editor.smoothScrolling": true,
   "editor.fastScrollSensitivity": 10,
-  "editor.cursorStyle": "line",
+  "editor.cursorStyle": "block",
   "editor.find.cursorMoveOnType": false,
   "emmet.syntaxProfiles": {
     "html": {
@@ -279,6 +279,7 @@
   "chat.commandCenter.enabled": false,
   "editor.scrollbar.vertical": "hidden",
   "editor.linkedEditing": true,
-  "editor.lineHeight": 26,
+  "editor.lineHeight": 22,
   "editor.suggest.insertMode": "replace",
+  "tabnine.experimentalAutoImports": true,
 }
