@@ -51,7 +51,7 @@
   "terminal.integrated.cursorStyle": "block",
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.tabs.enabled": false,
-  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontSize": 15,
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.limit.enabled": true,
@@ -270,7 +270,7 @@
   ],
   "workbench.editor.wrapTabs": false,
   "editor.fontWeight": "bold",
-  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
   "git.blame.editorDecoration.enabled": true,
   "[php]": {
     "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
@@ -282,4 +282,5 @@
   "editor.lineHeight": 19,
   "editor.suggest.insertMode": "replace",
   "tabnine.experimentalAutoImports": true,
+  "terminal.integrated.lineHeight": 0.9
 }
