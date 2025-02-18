@@ -206,7 +206,7 @@
   "liveServer.settings.donotShowInfoMsg": true,
   "editor.snippetSuggestions": "top",
   "window.nativeFullScreen": true,
-  "editor.guides.indentation": true,
+  "editor.guides.indentation": false,
   "workbench.preferredHighContrastLightColorTheme": "Night Owl",
   "workbench.preferredHighContrastColorTheme": "Night Owl",
   "workbench.activityBar.location": "top",
