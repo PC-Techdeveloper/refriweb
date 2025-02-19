@@ -194,7 +194,7 @@
   "editor.cursorBlinking": "blink",
   "editor.smoothScrolling": true,
   "editor.fastScrollSensitivity": 10,
-  "editor.cursorStyle": "block",
+  "editor.cursorStyle": "line",
   "editor.find.cursorMoveOnType": false,
   "emmet.syntaxProfiles": {
     "html": {
