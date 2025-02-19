@@ -3,7 +3,7 @@
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.fontFamily": "CaskaydiaCove Nerd Font",
   "editor.guides.bracketPairs": "active",
-  "editor.lineNumbers": "off",
+  "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
   "window.autoDetectColorScheme": false,
   "workbench.colorTheme": "One Dark Pro Darker",
