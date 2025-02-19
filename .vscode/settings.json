@@ -278,4 +278,6 @@
   "terminal.integrated.smoothScrolling": true,
   "errorLens.enabled": true,
   "apc.font.family": "CaskaydiaCove Nerd Font",
+  "apc.menubar.compact": true,
+  "apc.monospace.font.family": "CaskaydiaCove Nerd Font",
 }
