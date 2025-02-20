@@ -261,7 +261,7 @@
     "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
   },
   "chat.commandCenter.enabled": false,
-  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.vertical": "auto",
   "editor.scrollbar.horizontal": "hidden",
   "editor.linkedEditing": true,
   "editor.suggest.insertMode": "replace",
