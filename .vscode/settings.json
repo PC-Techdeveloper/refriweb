@@ -1,7 +1,7 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "Fira Code",
+  "editor.fontFamily": "Cascadia Code",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
@@ -51,7 +51,7 @@
   "terminal.integrated.cursorStyle": "block",
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.tabs.enabled": false,
-  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontSize": 14,
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.limit.enabled": true,
@@ -277,6 +277,6 @@
   "editor.accessibilitySupport": "off",
   "terminal.integrated.smoothScrolling": true,
   "errorLens.enabled": true,
-  "editor.lineHeight": 25,
+  "editor.lineHeight": 20,
   "editor.fontWeight": "bold"
 }
