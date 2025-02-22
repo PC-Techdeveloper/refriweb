@@ -278,5 +278,4 @@
   "terminal.integrated.smoothScrolling": true,
   "errorLens.enabled": true,
   "editor.lineHeight": 20,
-  "editor.fontWeight": "bold"
 }
