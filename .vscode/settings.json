@@ -270,7 +270,6 @@
   "editor.suggestLineHeight": 20,
   "editor.detectIndentation": false,
   "workbench.editor.showTabs": "single",
-  "editor.hover.delay": 1500,
   "editor.colorDecorators": false,
   "editor.renderLineHighlight": "none",
   "chat.editor.wordWrap": "on",
