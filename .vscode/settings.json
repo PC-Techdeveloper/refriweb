@@ -247,7 +247,7 @@
     "other": true,
   },
   "editor.parameterHints.enabled": false,
-  "editor.glyphMargin": true,
+  "editor.glyphMargin": false,
   "editor.showFoldingControls": "mouseover",
   "editor.matchBrackets": "never",
   "template-string-converter.enabled": true,
