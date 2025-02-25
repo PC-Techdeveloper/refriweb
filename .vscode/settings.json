@@ -165,11 +165,11 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 14,
+  "editor.fontSize": 16,
   "files.autoSave": "afterDelay",
-  "editor.minimap.enabled": true,
+  "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 45,
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 1,
   "terminal.integrated.fontFamily": "JetBrains Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": true,
@@ -267,7 +267,7 @@
   "editor.suggest.insertMode": "replace",
   "editor.suggestLineHeight": 20,
   "editor.detectIndentation": false,
-  "workbench.editor.showTabs": "single",
+  "workbench.editor.showTabs": "multiple",
   "editor.colorDecorators": false,
   "editor.renderLineHighlight": "none",
   "chat.editor.wordWrap": "on",
@@ -275,5 +275,5 @@
   "terminal.integrated.smoothScrolling": true,
   "errorLens.enabled": true,
   "github.copilot.selectedCompletionModel": "gpt-4o-copilot",
-  "editor.lineHeight": 18
+  "editor.lineHeight": 23
 }
