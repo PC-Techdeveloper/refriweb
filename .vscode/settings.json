@@ -274,4 +274,5 @@
   "editor.accessibilitySupport": "off",
   "terminal.integrated.smoothScrolling": true,
   "errorLens.enabled": true,
+  "github.copilot.selectedCompletionModel": "gpt-4o-copilot",
 }
