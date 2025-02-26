@@ -6,12 +6,12 @@
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
   "window.autoDetectColorScheme": false,
-  "workbench.colorTheme": "Tokyo Night",
+  "workbench.colorTheme": "One Dark Pro Darker",
   "workbench.editor.tabActionLocation": "left",
   "workbench.fontAliasing": "antialiased",
   "workbench.list.smoothScrolling": true,
-  "workbench.preferredDarkColorTheme": "Tokyo Night",
-  "workbench.preferredLightColorTheme": "Tokyo Night",
+  "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
+  "workbench.preferredLightColorTheme": "One Dark Pro Darker",
   "workbench.productIconTheme": "fluent-icons",
   "workbench.sideBar.location": "left",
   "workbench.startupEditor": "newUntitledFile",
@@ -165,11 +165,11 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 16,
+  "editor.fontSize": 14,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 45,
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 2,
   "terminal.integrated.fontFamily": "JetBrains Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": true,
@@ -204,8 +204,8 @@
   "liveServer.settings.donotShowInfoMsg": true,
   "editor.snippetSuggestions": "top",
   "editor.guides.indentation": false,
-  "workbench.preferredHighContrastLightColorTheme": "Tokyo Night",
-  "workbench.preferredHighContrastColorTheme": "Tokyo Night",
+  "workbench.preferredHighContrastLightColorTheme": "One Dark Pro Darker",
+  "workbench.preferredHighContrastColorTheme": "One Dark Pro Darker",
   "workbench.activityBar.location": "default",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.tree.renderIndentGuides": "none",
@@ -275,5 +275,10 @@
   "terminal.integrated.smoothScrolling": true,
   "errorLens.enabled": true,
   "github.copilot.selectedCompletionModel": "gpt-4o-copilot",
-  "editor.lineHeight": 23
+  "supermaven.enable": {
+    "*": false
+  },
+  "oneDarkPro.vivid": true,
+  "oneDarkPro.italic": true,
+  "oneDarkPro.bold": true
 }
