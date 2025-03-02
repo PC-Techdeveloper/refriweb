@@ -6,13 +6,13 @@ app = Flask(__name__)
 
 # Conexión a la base de datos
 def get_db_connection():
-    return mysql.connector.connect(
+    return mysql.connect(
         host="localhost", user="root", password="jeffer1234", database="refrigeraciondb"
     )
 
 
 # Página principal
-@app.route("/")
+@app.route("/index")
 def index():
     return render_template("index.html")
 
