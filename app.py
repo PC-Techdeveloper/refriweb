@@ -12,7 +12,7 @@ def get_db_connection():
 
 
 # Página principal
-@app.route("/index")
+@app.route("/")
 def index():
     return render_template("index.html")
 
