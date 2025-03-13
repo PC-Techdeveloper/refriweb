@@ -259,7 +259,7 @@
   "[php]": {
     "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
   },
-  "chat.commandCenter.enabled": true,
+  "chat.commandCenter.enabled": false,
   "editor.scrollbar.vertical": "auto",
   "editor.scrollbar.horizontal": "hidden",
   "editor.linkedEditing": true,
