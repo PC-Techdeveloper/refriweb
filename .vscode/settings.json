@@ -268,7 +268,7 @@
   "editor.detectIndentation": false,
   "workbench.editor.showTabs": "multiple",
   "editor.colorDecorators": false,
-  "editor.renderLineHighlight": "none",
+  "editor.renderLineHighlight": "line",
   "chat.editor.wordWrap": "on",
   "editor.accessibilitySupport": "off",
   "terminal.integrated.smoothScrolling": true,
