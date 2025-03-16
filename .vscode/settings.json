@@ -1,7 +1,7 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "Cascadia Code",
+  "editor.fontFamily": "JetBrains Mono",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
@@ -13,7 +13,7 @@
   "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
   "workbench.preferredLightColorTheme": "One Dark Pro Darker",
   "workbench.productIconTheme": "fluent-icons",
-  "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "left",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.tree.expandMode": "singleClick",
   "workbench.tree.indent": 4,
@@ -165,7 +165,8 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 14,
+  "editor.fontSize": 13.10,
+  "editor.fontWeight": "bold",
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 45,
