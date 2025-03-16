@@ -165,7 +165,7 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 13,
+  "editor.fontSize": 14,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 45,
@@ -280,4 +280,5 @@
   "oneDarkPro.vivid": true,
   "oneDarkPro.italic": true,
   "oneDarkPro.bold": true,
+  "editor.lineHeight": 25
 }
