@@ -1,7 +1,7 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontFamily": "Cascadia Code",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
@@ -166,11 +166,10 @@
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
   "editor.fontSize": 14,
-  "editor.fontWeight": "bold",
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 45,
-  "window.zoomLevel": 1.75,
+  "window.zoomLevel": 2,
   "terminal.integrated.fontFamily": "JetBrains Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": true,
@@ -281,4 +280,5 @@
   "oneDarkPro.vivid": true,
   "oneDarkPro.italic": true,
   "oneDarkPro.bold": true,
+  "security.workspace.trust.untrustedFiles": "open",
 }
