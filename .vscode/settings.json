@@ -165,11 +165,11 @@
   "prettier.singleQuote": true,
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 14,
+  "editor.fontSize": 15,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 45,
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 1.5,
   "terminal.integrated.fontFamily": "JetBrains Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": true,
