@@ -233,7 +233,7 @@
   "zenMode.hideActivityBar": false,
   "zenMode.hideLineNumbers": false,
   "zenMode.hideStatusBar": false,
-  "zenMode.fullScreen": false,
+  "zenMode.fullScreen": true,
   "explorer.compactFolders": false,
   "explorer.openEditors.visible": 1,
   "explorer.sortOrder": "type",
@@ -241,7 +241,7 @@
   "terminal.integrated.gpuAcceleration": "on",
   "editor.autoIndent": "full",
   "editor.folding": true,
-  "editor.suggestOnTriggerCharacters": false,
+  "editor.suggestOnTriggerCharacters": true,
   "editor.quickSuggestions": {
     "other": true,
   },
@@ -274,9 +274,6 @@
   "terminal.integrated.smoothScrolling": true,
   "errorLens.enabled": true,
   "github.copilot.selectedCompletionModel": "gpt-4o-copilot",
-  "supermaven.enable": {
-    "*": true
-  },
   "oneDarkPro.vivid": true,
   "oneDarkPro.italic": true,
   "oneDarkPro.bold": true,
