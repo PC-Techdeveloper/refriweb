@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Conexión a la base de datos
 def get_db_connection():
-    return mysql.connect(
+    return mysql.connector.connect(
         host="localhost", user="root", password="jeffer1234", database="refrigeraciondb"
     )
 
@@ -22,32 +22,35 @@ def index():
 def clientes():
     conn = get_db_connection()
     cursor = conn.cursor()
-    if request.method == "POST":
-        nombre = request.form["nombre"]
-        telefono = request.form["telefono"]
-        correo = request.form["correo"]
-        direccion = request.form["direccion"]
+    try:
+        if request.method == "POST":
+            nombre = request.form["nombre"]
+            telefono = request.form["telefono"]
+            correo = request.form["correo"]
+            direccion = request.form["direccion"]
 
-        cursor.execute(
-            "INSERT INTO cliente (nombre, telefono, correo, direccion) VALUES (%s, %s, %s, %s)",
-            (nombre, telefono, correo, direccion),
-        )
-        conn.commit()
+            cursor.execute(
+                "INSERT INTO cliente (nombre, telefono, correo, direccion) VALUES (%s, %s, %s, %s)",
+                (nombre, telefono, correo, direccion),
+            )
+            conn.commit()
+            cursor.close()
+            conn.close()
+            return redirect(url_for("success", type="cliente"))
+
+        cursor.execute("SELECT * FROM cliente")
+        clientes = cursor.fetchall()
+        return render_template("formulario.html", clientes=clientes)
+    finally:
         cursor.close()
         conn.close()
-        return redirect(url_for("success", type="cliente"))
-
-    cursor.execute("SELECT * FROM cliente")
-    clientes = cursor.fetchall()
-    cursor.close()
-    conn.close()
-    return render_template("formulario.html", clientes=clientes)
 
 
 @app.route("/clientes/<int:id>/edit", methods=["GET", "POST"])
 def edit_cliente(id):
     conn = get_db_connection()
     cursor = conn.cursor()
+
     if request.method == "POST":
         nombre = request.form["nombre"]
         telefono = request.form["telefono"]
