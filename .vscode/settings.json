@@ -169,7 +169,7 @@
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 45,
-  "window.zoomLevel": 1.5,
+  "window.zoomLevel": 1.6,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": true,
