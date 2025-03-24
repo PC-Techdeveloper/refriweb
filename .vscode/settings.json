@@ -283,5 +283,8 @@
   },
   "telemetry.enabledTelemetry": false,
   "telemetry.enableCrashReporter": false,
-  "telemetry.telemetryLevel": "off"
+  "telemetry.telemetryLevel": "off",
+  "editor.quickSuggestionsDelay": 500,
+  "editor.trimAutoWhitespace": false,
+  "explorer.autoReveal": false,
 }
