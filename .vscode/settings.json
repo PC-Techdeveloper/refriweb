@@ -163,6 +163,7 @@
   "prettier.printWidth": 200,
   "prettier.semi": true,
   "prettier.singleQuote": true,
+  "prettier.arrowParens": "avoid",
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
   "editor.fontSize": 13.5,
@@ -191,7 +192,7 @@
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.defaultFormatter": "redhat.java"
   },
-  "editor.cursorBlinking": "solid",
+  "editor.cursorBlinking": "blink",
   "editor.smoothScrolling": true,
   "editor.cursorStyle": "line",
   "editor.find.cursorMoveOnType": false,
@@ -246,7 +247,7 @@
     "other": true,
   },
   "editor.parameterHints.enabled": false,
-  "editor.glyphMargin": true,
+  "editor.glyphMargin": false,
   "editor.showFoldingControls": "mouseover",
   "editor.matchBrackets": "never",
   "template-string-converter.enabled": true,
@@ -259,7 +260,7 @@
   "[php]": {
     "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
   },
-  "chat.commandCenter.enabled": true,
+  "chat.commandCenter.enabled": false,
   "editor.scrollbar.vertical": "auto",
   "editor.scrollbar.horizontal": "hidden",
   "editor.linkedEditing": true,
@@ -278,4 +279,10 @@
   "oneDarkPro.italic": true,
   "oneDarkPro.bold": true,
   "security.workspace.trust.untrustedFiles": "open",
+  "supermaven.enable": {
+    "*": true
+  },
+  "telemetry.enabledTelemetry": false,
+  "telemetry.enableCrashReporter": false,
+  "telemetry.telemetryLevel": "off"
 }
