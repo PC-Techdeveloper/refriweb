@@ -284,7 +284,7 @@
   "telemetry.enabledTelemetry": false,
   "telemetry.enableCrashReporter": false,
   "telemetry.telemetryLevel": "off",
-  "editor.quickSuggestionsDelay": 500,
+  "editor.quickSuggestionsDelay": 5,
   "editor.trimAutoWhitespace": false,
   "explorer.autoReveal": false,
   "editor.suggest.preview": false,
