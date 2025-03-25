@@ -192,7 +192,7 @@
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.defaultFormatter": "redhat.java"
   },
-  "editor.cursorBlinking": "blink",
+  "editor.cursorBlinking": "expand",
   "editor.smoothScrolling": true,
   "editor.cursorStyle": "line",
   "editor.find.cursorMoveOnType": false,
