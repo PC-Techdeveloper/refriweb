@@ -245,6 +245,8 @@
   "editor.suggestOnTriggerCharacters": true,
   "editor.quickSuggestions": {
     "other": true,
+    "comments": false,
+    "strings": false
   },
   "editor.parameterHints.enabled": false,
   "editor.glyphMargin": false,
