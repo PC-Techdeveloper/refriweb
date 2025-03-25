@@ -1,7 +1,7 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "Hack Nerd Font Mono",
+  "editor.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
