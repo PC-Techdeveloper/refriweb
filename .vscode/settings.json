@@ -287,5 +287,6 @@
   "editor.quickSuggestionsDelay": 500,
   "editor.trimAutoWhitespace": false,
   "explorer.autoReveal": false,
-  "editor.suggest.preview": false
+  "editor.suggest.preview": false,
+  "editor.lineHeight": 23
 }
