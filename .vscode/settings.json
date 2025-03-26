@@ -209,7 +209,7 @@
   "workbench.activityBar.location": "top",
   "workbench.iconTheme": "symbols",
   "workbench.tree.renderIndentGuides": "none",
-  "breadcrumbs.enabled": true,
+  "breadcrumbs.enabled": false,
   "breadcrumbs.icons": true,
   "breadcrumbs.showArrays": false,
   "breadcrumbs.showBooleans": false,
