@@ -242,7 +242,7 @@
   "terminal.integrated.gpuAcceleration": "on",
   "editor.autoIndent": "full",
   "editor.folding": true,
-  "editor.suggestOnTriggerCharacters": true,
+  "editor.suggestOnTriggerCharacters": false,
   "editor.quickSuggestions": {
     "other": true,
     "comments": false,
@@ -281,14 +281,24 @@
   "oneDarkPro.bold": true,
   "security.workspace.trust.untrustedFiles": "open",
   "supermaven.enable": {
-    "*": true
+    "*": true,
+    "supermaven.inlineCompletion.enabled": false,
+    "supermaven.inlineCompletion.delayMs": 1,
   },
   "telemetry.enabledTelemetry": false,
   "telemetry.enableCrashReporter": false,
   "telemetry.telemetryLevel": "off",
-  "editor.quickSuggestionsDelay": 5,
+  "editor.quickSuggestionsDelay": 1,
   "editor.trimAutoWhitespace": false,
   "explorer.autoReveal": false,
   "editor.suggest.preview": false,
-  "editor.lineHeight": 21
+  "editor.lineHeight": 21,
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true,
+    "**/.vscode/**": true,
+    "**/dist/**": true,
+    "**/build/**": true
+  },
 }
