@@ -290,4 +290,5 @@
   "editor.trimAutoWhitespace": false,
   "explorer.autoReveal": false,
   "editor.suggest.preview": false,
+  "editor.lineHeight": 21
 }
