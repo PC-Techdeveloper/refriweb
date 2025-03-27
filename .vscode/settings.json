@@ -192,8 +192,8 @@
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.defaultFormatter": "redhat.java"
   },
-  "editor.cursorBlinking": "expand",
-  "editor.smoothScrolling": true,
+  "editor.cursorBlinking": "solid",
+  "editor.smoothScrolling": false,
   "editor.cursorStyle": "line",
   "editor.find.cursorMoveOnType": false,
   "emmet.syntaxProfiles": {
@@ -217,7 +217,7 @@
   "breadcrumbs.showConstants": false,
   "breadcrumbs.showConstructors": false,
   "workbench.editor.empty.hint": "hidden",
-  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreview": true,
   "workbench.editor.labelFormat": "short",
   "window.density.editorTabHeight": "default",
   "editor.formatOnType": true,
@@ -301,4 +301,7 @@
     "**/dist/**": true,
     "**/build/**": true
   },
+  "files.enableTrash": false,
+  "editor.largeFileOptimizations": true,
+  "editor.unicodeHighlight.ambiguousCharacters": false
 }
