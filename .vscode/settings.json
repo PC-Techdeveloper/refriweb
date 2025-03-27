@@ -193,7 +193,7 @@
     "editor.defaultFormatter": "redhat.java"
   },
   "editor.cursorBlinking": "solid",
-  "editor.smoothScrolling": false,
+  "editor.smoothScrolling": true,
   "editor.cursorStyle": "line",
   "editor.find.cursorMoveOnType": false,
   "emmet.syntaxProfiles": {
