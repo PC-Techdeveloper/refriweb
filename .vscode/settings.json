@@ -307,5 +307,5 @@
   "editor.unicodeHighlight.ambiguousCharacters": false,
   "window.customTitleBarVisibility": "windowed",
   "editor.wordBasedSuggestions": "off",
-  "editor.semanticHighlighting.enabled": false
+  "editor.semanticHighlighting.enabled": true
 }
