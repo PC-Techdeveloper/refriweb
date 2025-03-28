@@ -33,7 +33,7 @@
   "editor.hover.sticky": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": "never",
-    "source.fixAll.eslint": "explicit",
+    "source.fixAll.eslint": "never",
     "source.organizeImports": "never"
   },
   "explorer.confirmDelete": false,
@@ -192,7 +192,7 @@
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.defaultFormatter": "redhat.java"
   },
-  "editor.cursorBlinking": "solid",
+  "editor.cursorBlinking": "smooth",
   "editor.smoothScrolling": true,
   "editor.cursorStyle": "line",
   "editor.find.cursorMoveOnType": false,
@@ -271,7 +271,7 @@
   "editor.detectIndentation": false,
   "workbench.editor.showTabs": "single",
   "editor.colorDecorators": false,
-  "editor.renderLineHighlight": "none",
+  "editor.renderLineHighlight": "line",
   "chat.editor.wordWrap": "on",
   "editor.accessibilitySupport": "off",
   "terminal.integrated.smoothScrolling": true,
@@ -293,7 +293,7 @@
   "editor.trimAutoWhitespace": false,
   "explorer.autoReveal": false,
   "editor.suggest.preview": false,
-  "editor.lineHeight": 19,
+  "editor.lineHeight": 20,
   "files.watcherExclude": {
     "**/.git/objects/**": true,
     "**/.git/subtree-cache/**": true,
@@ -303,7 +303,9 @@
     "**/build/**": true
   },
   "files.enableTrash": false,
-  "editor.largeFileOptimizations": true,
+  "editor.largeFileOptimizations": false,
   "editor.unicodeHighlight.ambiguousCharacters": false,
-  "window.customTitleBarVisibility": "windowed"
+  "window.customTitleBarVisibility": "windowed",
+  "editor.wordBasedSuggestions": "off",
+  "editor.semanticHighlighting.enabled": false
 }
