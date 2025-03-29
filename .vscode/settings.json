@@ -166,7 +166,7 @@
   "prettier.arrowParens": "avoid",
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
-  "editor.fontSize": 13.3,
+  "editor.fontSize": 14.8,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 45,
@@ -183,7 +183,7 @@
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.formatOnType": true,
     "editor.wordBasedSuggestions": "off",
-    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.defaultFormatter": "charliermarsh.ruff",
   },
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
@@ -202,8 +202,8 @@
     }
   },
   "liveServer.settings.donotShowInfoMsg": true,
-  "editor.snippetSuggestions": "top",
-  "editor.guides.indentation": false,
+  "editor.snippetSuggestions": "inline",
+  "editor.guides.indentation": true,
   "workbench.preferredHighContrastLightColorTheme": "One Dark Pro Darker",
   "workbench.preferredHighContrastColorTheme": "One Dark Pro Darker",
   "workbench.activityBar.location": "top",
@@ -242,7 +242,7 @@
   "workbench.statusBar.visible": true,
   "terminal.integrated.gpuAcceleration": "on",
   "editor.autoIndent": "full",
-  "editor.folding": false,
+  "editor.folding": true,
   "editor.suggestOnTriggerCharacters": false,
   "editor.quickSuggestions": {
     "other": true,
@@ -271,7 +271,7 @@
   "editor.detectIndentation": false,
   "workbench.editor.showTabs": "single",
   "editor.colorDecorators": false,
-  "editor.renderLineHighlight": "gutter",
+  "editor.renderLineHighlight": "all",
   "chat.editor.wordWrap": "on",
   "editor.accessibilitySupport": "on",
   "terminal.integrated.smoothScrolling": true,
@@ -293,7 +293,6 @@
   "editor.trimAutoWhitespace": false,
   "explorer.autoReveal": false,
   "editor.suggest.preview": false,
-  "editor.lineHeight": 22,
   "files.watcherExclude": {
     "**/.git/objects/**": true,
     "**/.git/subtree-cache/**": true,
