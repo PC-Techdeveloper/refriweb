@@ -188,7 +188,7 @@
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.formatOnType": true,
     "editor.wordBasedSuggestions": "off",
-    "editor.defaultFormatter": "ms-python.autopep8",
+    "editor.defaultFormatter": "charliermarsh.ruff",
   },
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
@@ -315,7 +315,7 @@
   "editor.semanticHighlighting.enabled": true,
   "editor.acceptSuggestionOnEnter": "on",
   "editor.autoSurround": "never",
-  "editor.lineHeight": 23,
+  "editor.lineHeight": 28,
   "workbench.enableExperiments": false,
   "workbench.autoCheckUpdates": false,
   "keyboard.dispatch": "keyCode",
