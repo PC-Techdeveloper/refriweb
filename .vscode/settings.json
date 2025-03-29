@@ -83,7 +83,7 @@
   },
   "window.nativeTabs": true, // this is great, macOS only
   "window.title": "${rootName}", // this make tabs more readable
-  "extensions.autoUpdate": "onlyEnabledExtensions",
+  "extensions.autoUpdate": "false",
   // ========== Extension configs ========== 
   "emmet.showSuggestionsAsSnippets": true,
   "emmet.triggerExpansionOnTab": false,
@@ -283,13 +283,14 @@
   "security.workspace.trust.untrustedFiles": "open",
   "supermaven.enable": {
     "*": true,
-    "supermaven.inlineCompletion.enabled": true,
-    "supermaven.inlineCompletion.delayMs": 400,
+    "supermaven.inlineCompletions.enabled": true,
+    "supermaven.inlineCompletions.delayMs": 20,
+    "supermaven.inlineCompletions.maxResults": 10,
   },
   "telemetry.enabledTelemetry": false,
   "telemetry.enableCrashReporter": false,
   "telemetry.telemetryLevel": "off",
-  "editor.quickSuggestionsDelay": 400,
+  "editor.quickSuggestionsDelay": 20,
   "editor.trimAutoWhitespace": false,
   "explorer.autoReveal": false,
   "editor.suggest.preview": false,
@@ -309,5 +310,8 @@
   "editor.semanticHighlighting.enabled": true,
   "editor.acceptSuggestionOnEnter": "on",
   "editor.autoSurround": "never",
-  "editor.lineHeight": 23,
+  //"editor.lineHeight": 23,
+  "workbench.enableExperiments": false,
+  "workbench.autoCheckUpdates": false,
+  "keyboard.dispatch": "keyCode",
 }
