@@ -225,7 +225,8 @@ def edit_almacenamiento(id):
         conn.close()
         return redirect(url_for("almacenamientos"))
 
-    cursor.execute("SELECT * FROM cuarto_refrigeracion WHERE cuarto_id=%s", (id,))
+    cursor.execute(
+        "SELECT * FROM cuarto_refrigeracion WHERE cuarto_id=%s", (id,))
     almacenamiento = cursor.fetchone()
     cursor.close()
     conn.close()
@@ -238,7 +239,8 @@ def edit_almacenamiento(id):
 def delete_almacenamiento(id):
     conn = get_db_connection()
     cursor = conn.cursor()
-    cursor.execute("DELETE FROM cuarto_refrigeracion WHERE cuarto_id=%s", (id,))
+    cursor.execute(
+        "DELETE FROM cuarto_refrigeracion WHERE cuarto_id=%s", (id,))
     conn.commit()
     cursor.close()
     conn.close()
