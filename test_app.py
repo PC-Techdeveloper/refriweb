@@ -1,10 +1,8 @@
 import unittest
-from flask import Flask
 from app import app, get_db_connection
 
 
 class TestApp(unittest.TestCase):
-
     def test_db_connection(self):
         try:
             conn = get_db_connection()

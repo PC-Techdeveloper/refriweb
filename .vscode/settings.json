@@ -309,4 +309,5 @@
   "editor.semanticHighlighting.enabled": true,
   "editor.acceptSuggestionOnEnter": "off",
   "editor.autoSurround": "never",
+  "editor.lineHeight": 23
 }
