@@ -315,7 +315,7 @@
   "editor.semanticHighlighting.enabled": true,
   "editor.acceptSuggestionOnEnter": "on",
   "editor.autoSurround": "never",
-  "editor.lineHeight": 18,
+  "editor.lineHeight": 22,
   "workbench.enableExperiments": false,
   "workbench.autoCheckUpdates": false,
   "keyboard.dispatch": "keyCode",
