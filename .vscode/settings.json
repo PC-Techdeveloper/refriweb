@@ -187,7 +187,7 @@
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.formatOnType": true,
     "editor.wordBasedSuggestions": "off",
-    "editor.defaultFormatter": "ms-python.autopep8",
+    "editor.defaultFormatter": "charliermarsh.ruff",
   },
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
@@ -275,7 +275,7 @@
   "editor.detectIndentation": false,
   "workbench.editor.showTabs": "single",
   "editor.colorDecorators": false,
-  "editor.renderLineHighlight": "none",
+  "editor.renderLineHighlight": "line",
   "chat.editor.wordWrap": "on",
   "editor.accessibilitySupport": "off",
   "terminal.integrated.smoothScrolling": true,
@@ -318,4 +318,9 @@
   "workbench.enableExperiments": false,
   "workbench.autoCheckUpdates": false,
   "keyboard.dispatch": "keyCode",
+  "workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#2a2d2e",
+    "editor.lineHighlightBorder": "#404040",
+    "editor.renderLineHighlight": "gutter",
+  }
 }
