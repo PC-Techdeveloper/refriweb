@@ -322,5 +322,8 @@
     "editor.lineHighlightBackground": "#2a2d2e",
     "editor.lineHighlightBorder": "#404040",
     "editor.renderLineHighlight": "gutter",
-  }
+  },
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingQuotes": "always",
+  "html.autoClosingTags": true
 }
