@@ -247,7 +247,7 @@
   "terminal.integrated.gpuAcceleration": "on",
   "editor.autoIndent": "full",
   "editor.folding": true,
-  "editor.suggestOnTriggerCharacters": false,
+  "editor.suggestOnTriggerCharacters": true,
   "editor.quickSuggestions": {
     "other": true,
     "comments": false,
