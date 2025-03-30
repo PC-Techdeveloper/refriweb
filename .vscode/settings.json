@@ -233,7 +233,7 @@
   "workbench.tips.enabled": false,
   "window.commandCenter": true,
   //APC CUSTOMIZE UI
-  "editor.codeLens": true,
+  "editor.codeLens": false,
   "zenMode.centerLayout": false,
   "zenMode.hideActivityBar": false,
   "zenMode.hideLineNumbers": false,
@@ -249,7 +249,7 @@
   "editor.folding": true,
   "editor.suggestOnTriggerCharacters": true,
   "editor.quickSuggestions": {
-    "other": true,
+    "other": false,
     "comments": false,
     "strings": false
   },
@@ -325,5 +325,11 @@
   },
   "editor.autoClosingBrackets": "always",
   "editor.autoClosingQuotes": "always",
-  "html.autoClosingTags": true
+  "html.autoClosingTags": true,
+  "update.showReleaseNotes": false,
+  "update.enableWindowsBackgroundUpdates": false,
+  "extensions.autoCheckUpdates": false,
+  "extensions.ignoreRecommendations": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.lightbulb.enabled": "off"
 }
