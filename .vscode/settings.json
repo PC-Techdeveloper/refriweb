@@ -174,8 +174,8 @@
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 45,
-  "window.zoomLevel": 1,
-  "editor.fontSize": 16,
+  "window.zoomLevel": 1.99,
+  "editor.fontSize": 14,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": true,
@@ -250,7 +250,7 @@
   "editor.folding": true,
   "editor.suggestOnTriggerCharacters": true,
   "editor.quickSuggestions": {
-    "other": false,
+    "other": "on",
     "comments": false,
     "strings": false
   },
@@ -288,12 +288,11 @@
   "security.workspace.trust.untrustedFiles": "open",
   "supermaven.enable": {
     "*": true,
-    "supermaven.inlineCompletions.enabled": true,
+    "supermaven.inlineCompletions.enabled": false,
     "supermaven.inlineCompletions.delayMs": 10,
     "supermaven.inlineCompletions.maxResults": 10,
   },
   "telemetry.enabledTelemetry": false,
-  "telemetry.enableCrashReporter": false,
   "telemetry.telemetryLevel": "off",
   "editor.trimAutoWhitespace": false,
   "explorer.autoReveal": false,
@@ -338,4 +337,5 @@
   "editor.acceptSuggestionOnCommitCharacter": false,
   "editor.suggest.showIcons": true,
   "editor.suggest.showSnippets": true,
+  "debug.showInStatusBar": "never",
 }
