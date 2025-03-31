@@ -13,7 +13,7 @@
   "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
   "workbench.preferredLightColorTheme": "One Dark Pro Darker",
   "workbench.productIconTheme": "fluent-icons",
-  "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "left",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.tree.expandMode": "singleClick",
   "workbench.tree.indent": 4,
@@ -250,7 +250,7 @@
   "editor.folding": true,
   "editor.suggestOnTriggerCharacters": true,
   "editor.quickSuggestions": {
-    "other": "on",
+    "other": false,
     "comments": false,
     "strings": false
   },
@@ -338,4 +338,5 @@
   "editor.suggest.showIcons": true,
   "editor.suggest.showSnippets": true,
   "debug.showInStatusBar": "never",
+  "editor.lineHeight": 20
 }
