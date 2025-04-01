@@ -250,7 +250,7 @@
   "editor.folding": true,
   "editor.suggestOnTriggerCharacters": true,
   "editor.quickSuggestions": {
-    "other": true,
+    "other": "on",
     "comments": false,
     "strings": false
   },
