@@ -338,5 +338,4 @@
   "editor.suggest.showIcons": true,
   "editor.suggest.showSnippets": true,
   "debug.showInStatusBar": "never",
-  "editor.lineHeight": 20
 }
