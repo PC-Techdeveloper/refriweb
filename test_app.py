@@ -1,4 +1,5 @@
 import unittest
+from flask import Flask
 from app import app, get_db_connection
 
 
