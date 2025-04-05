@@ -274,7 +274,7 @@
   "editor.linkedEditing": false,
   "editor.suggest.insertMode": "replace",
   "editor.detectIndentation": false,
-  "workbench.editor.showTabs": "single",
+  "workbench.editor.showTabs": "multiple",
   "editor.colorDecorators": false,
   "editor.renderLineHighlight": "line",
   "chat.editor.wordWrap": "on",
