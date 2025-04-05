@@ -188,7 +188,7 @@
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.formatOnType": true,
     "editor.wordBasedSuggestions": "off",
-    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.defaultFormatter": "ms-python.autopep8",
   },
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
@@ -269,7 +269,7 @@
     "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
   },
   "chat.commandCenter.enabled": false,
-  "editor.scrollbar.vertical": "auto",
+  "editor.scrollbar.vertical": "hidden",
   "editor.scrollbar.horizontal": "hidden",
   "editor.linkedEditing": false,
   "editor.suggest.insertMode": "replace",
