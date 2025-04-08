@@ -172,7 +172,7 @@
   // ========== File Nesting ==========
   "explorer.fileNesting.enabled": true,
   "files.autoSave": "afterDelay",
-  "editor.minimap.enabled": true,
+  "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 150,
   "window.zoomLevel": 1.99,
   "editor.fontSize": 13.80,
