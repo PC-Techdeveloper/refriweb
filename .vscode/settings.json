@@ -1,7 +1,7 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "Iosevka Nerd Font",
+  "editor.fontFamily": "CaskaydiaCove Nerd Font",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
@@ -174,8 +174,8 @@
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 150,
-  "window.zoomLevel": 1.99,
-  "editor.fontSize": 15,
+  "window.zoomLevel": 1.30,
+  "editor.fontSize": 14,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": true,
