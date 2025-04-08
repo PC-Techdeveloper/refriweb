@@ -6,7 +6,11 @@
     <title>Almacenamiento de Productos</title>
 
     <link rel="stylesheet" href="./static/css/almacenamiento-productos.css" />
-    <link rel="shortcut icon" href="../public/temp-icon.svg" type="image/x-icon" />
+    <link
+      rel="shortcut icon"
+      href="../public/temp-icon.svg"
+      type="image/x-icon"
+    />
   </head>
   <body>
     <h1>Almacenamiento de Productos</h1>
@@ -15,27 +19,37 @@
       <h2 class="form__title">Almacenamiento</h2>
       <form class="form__form" method="POST">
         <div class="form__input-container">
-          <label
-            >Capacidad
-            <input type="text" name="cantidad" placeholder="Capacidad del cuarto en metros cúbicos" required />
+          <label>
+            Capacidad
+            <input
+              type="text"
+              name="cantidad"
+              placeholder="Capacidad del cuarto en metros cúbicos"
+              required
+            />
           </label>
         </div>
 
         <div class="form__input-container">
-          <label
-            >Temperatura
-            <input type="text" name="temperatura" placeholder="Temperatura" required />
+          <label>
+            Temperatura
+            <input
+              type="text"
+              name="temperatura"
+              placeholder="Temperatura"
+              required
+            />
           </label>
         </div>
         <div class="form__input-container">
-          <label
-            >Medidas
+          <label>
+            Medidas
             <input type="text" name="medidas" placeholder="A - V" required />
           </label>
         </div>
         <div class="form__input-container">
-          <label
-            >Tipo de Trabajo
+          <label>
+            Tipo de Trabajo
             <select name="tipo_trabajo">
               <option value="congelacion">Congelación</option>
               <option value="procesada">Procesada</option>
@@ -45,23 +59,28 @@
         </div>
 
         <div class="form__input-container">
-          <label
-            >Tipo de Producto
+          <label>
+            Tipo de Producto
             <input type="text" placeholder="Multiple alimento" required />
           </label>
         </div>
 
         <div class="form__input-container">
-          <label
-            >Humedad
+          <label>
+            Humedad
             <input type="text" placeholder="Humedad" required />
           </label>
         </div>
 
         <div class="form__input-container">
-          <label
-            >Tiempo de Rotación
-            <input type="text" name="tiempo_rotacion" placeholder="Formula" required />
+          <label>
+            Tiempo de Rotación
+            <input
+              type="text"
+              name="tiempo_rotacion"
+              placeholder="Formula"
+              required
+            />
           </label>
         </div>
         <div class="form__input-container">
@@ -76,10 +95,15 @@
       {% for almacenamiento in almacenamientos %}
       <li>
         {{ almacenamiento[1] }} m³ - {{ almacenamiento[2] }} °C
-        <form method="POST" action="{{ url_for('delete_almacenamiento', id=almacenamiento[0]) }}">
+        <form
+          method="POST"
+          action="{{ url_for('delete_almacenamiento', id=almacenamiento[0]) }}"
+        >
           <button type="submit">Eliminar</button>
         </form>
-        <a href="{{ url_for('edit_almacenamiento', id=almacenamiento[0]) }}">Editar</a>
+        <a href="{{ url_for('edit_almacenamiento', id=almacenamiento[0]) }}">
+          Editar
+        </a>
       </li>
       {% endfor %}
     </ul>
