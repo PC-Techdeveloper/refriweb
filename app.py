@@ -11,7 +11,6 @@ def get_db_connection():
         user="root",
         password="jeffer1234",
         database="refrigeraciondb",
-        charset="utf8mb4",
     )
 
 
