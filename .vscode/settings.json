@@ -211,7 +211,7 @@
   "editor.guides.indentation": true,
   "workbench.preferredHighContrastLightColorTheme": "SynthWave '84",
   "workbench.preferredHighContrastColorTheme": "SynthWave '84",
-  "workbench.activityBar.location": "default",
+  "workbench.activityBar.location": "bottom",
   "workbench.iconTheme": "symbols",
   "workbench.tree.renderIndentGuides": "none",
   "breadcrumbs.enabled": false,
