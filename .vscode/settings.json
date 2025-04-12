@@ -51,7 +51,7 @@
   "terminal.integrated.cursorStyle": "block",
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.tabs.enabled": false,
-  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.fontSize": 15,
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.limit.enabled": true,
@@ -173,8 +173,8 @@
   "explorer.fileNesting.enabled": true,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
-  "window.zoomLevel": 1.50,
-  "editor.fontSize": 14.90,
+  "window.zoomLevel": 1.40,
+  "editor.fontSize": 13.20,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": true,
@@ -268,7 +268,7 @@
     "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
   },
   "chat.commandCenter.enabled": false,
-  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.vertical": "visible",
   "editor.scrollbar.horizontal": "hidden",
   "editor.linkedEditing": false,
   "editor.suggest.insertMode": "replace",
@@ -333,5 +333,5 @@
   "oneDarkPro.bold": true,
   "oneDarkPro.italic": true,
   "oneDarkPro.vivid": true,
-  "editor.lineHeight": 18
+  "editor.lineHeight": 24
 }
