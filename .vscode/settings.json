@@ -330,7 +330,5 @@
   "editor.suggest.showSnippets": true,
   "debug.showInStatusBar": "never",
   "github.copilot.nextEditSuggestions.enabled": true,
-  "oneDarkPro.bold": true,
   "oneDarkPro.italic": true,
-  "oneDarkPro.vivid": true,
 }
