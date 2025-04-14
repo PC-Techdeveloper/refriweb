@@ -221,7 +221,7 @@
   "breadcrumbs.showConstants": false,
   "breadcrumbs.showConstructors": false,
   "workbench.editor.empty.hint": "hidden",
-  "workbench.editor.enablePreview": true,
+  "workbench.editor.enablePreview": false,
   "workbench.editor.labelFormat": "short",
   "window.density.editorTabHeight": "default",
   "editor.formatOnType": true,
@@ -331,4 +331,5 @@
   "debug.showInStatusBar": "never",
   "github.copilot.nextEditSuggestions.enabled": true,
   "oneDarkPro.italic": true,
+  "editor.lineHeight": 24
 }
