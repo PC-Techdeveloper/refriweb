@@ -173,8 +173,8 @@
   "explorer.fileNesting.enabled": true,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
-  "window.zoomLevel": 1.40,
-  "editor.fontSize": 15.5,
+  "window.zoomLevel": 1,
+  "editor.fontSize": 15.8,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": true,
@@ -331,5 +331,4 @@
   "debug.showInStatusBar": "never",
   "github.copilot.nextEditSuggestions.enabled": true,
   "oneDarkPro.italic": true,
-  "editor.lineHeight": 24
 }
