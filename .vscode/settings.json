@@ -1,7 +1,7 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "Cascadia Code",
+  "editor.fontFamily": "MesloLGL Nerd Font",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
@@ -174,7 +174,7 @@
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "window.zoomLevel": 1,
-  "editor.fontSize": 15.8,
+  "editor.fontSize": 15,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": true,
