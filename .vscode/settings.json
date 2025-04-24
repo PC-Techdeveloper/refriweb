@@ -249,7 +249,7 @@
   "editor.folding": true,
   "editor.suggestOnTriggerCharacters": true,
   "editor.quickSuggestions": {
-    "other": true,
+    "other": false,
     "comments": false,
     "strings": false
   },
