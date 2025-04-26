@@ -206,7 +206,7 @@
     }
   },
   "liveServer.settings.donotShowInfoMsg": true,
-  "editor.snippetSuggestions": "none",
+  "editor.snippetSuggestions": "top",
   "editor.guides.indentation": true,
   "workbench.preferredHighContrastLightColorTheme": "One Dark Pro Darker",
   "workbench.preferredHighContrastColorTheme": "One Dark Pro Darker",
