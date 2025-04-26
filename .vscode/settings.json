@@ -174,7 +174,7 @@
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "window.zoomLevel": 1.8,
-  "editor.fontSize": 13.8,
+  "editor.fontSize": 12.6,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": false,
@@ -331,5 +331,5 @@
   "debug.showInStatusBar": "never",
   "github.copilot.nextEditSuggestions.enabled": true,
   "oneDarkPro.italic": true,
-  "oneDarkPro.bold": true
+  "oneDarkPro.bold": true,
 }
