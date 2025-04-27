@@ -173,8 +173,8 @@
   "explorer.fileNesting.enabled": true,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
-  "window.zoomLevel": 1.8,
-  "editor.fontSize": 12.6,
+  "window.zoomLevel": 1.3,
+  "editor.fontSize": 14,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": false,
@@ -249,7 +249,6 @@
   "editor.folding": true,
   "editor.suggestOnTriggerCharacters": false,
   "editor.quickSuggestions": {
-    "other": true,
     "comments": false,
     "strings": false
   },
@@ -332,5 +331,6 @@
   "github.copilot.nextEditSuggestions.enabled": true,
   "oneDarkPro.italic": true,
   "oneDarkPro.bold": true,
-  "editor.quickSuggestionsDelay": 0,
+  "editor.quickSuggestionsDelay": 130,
+  "editor.lineHeight": 25
 }
