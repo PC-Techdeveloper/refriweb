@@ -198,7 +198,7 @@
   },
   "editor.cursorBlinking": "smooth",
   "editor.smoothScrolling": true,
-  "editor.cursorStyle": "block",
+  "editor.cursorStyle": "line",
   "editor.find.cursorMoveOnType": false,
   "emmet.syntaxProfiles": {
     "html": {
