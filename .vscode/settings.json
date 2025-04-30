@@ -211,7 +211,7 @@
   "workbench.preferredHighContrastLightColorTheme": "Hack The Box",
   "workbench.preferredHighContrastColorTheme": "Hack The Box",
   "workbench.activityBar.location": "default",
-  "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+  "workbench.iconTheme": "symbols",
   "workbench.tree.renderIndentGuides": "none",
   "breadcrumbs.enabled": false,
   "breadcrumbs.icons": false,
@@ -334,5 +334,5 @@
   "editor.quickSuggestionsDelay": 130,
   "terminal.integrated.sendKeybindingsToShell": true,
   "editor.lineHeight": 23,
-  "glassit.alpha": 220
+  "glassit.alpha": 225
 }
