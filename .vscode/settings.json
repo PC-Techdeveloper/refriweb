@@ -334,5 +334,6 @@
   "editor.quickSuggestionsDelay": 130,
   "terminal.integrated.sendKeybindingsToShell": true,
   "editor.lineHeight": 23,
-  "glassit.alpha": 220
+  "glassit.alpha": 220,
+  "oneDarkPro.vivid": true
 }
