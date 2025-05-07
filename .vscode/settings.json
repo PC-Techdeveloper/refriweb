@@ -173,8 +173,8 @@
   "explorer.fileNesting.enabled": true,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
-  "window.zoomLevel": 1,
-  "editor.fontSize": 15,
+  "window.zoomLevel": 1.4,
+  "editor.fontSize": 13,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": false,
@@ -334,5 +334,6 @@
   "editor.quickSuggestionsDelay": 130,
   "terminal.integrated.sendKeybindingsToShell": true,
   "glassit.alpha": 220,
-  "oneDarkPro.vivid": true
+  "oneDarkPro.vivid": true,
+  "editor.lineHeight": 22
 }
