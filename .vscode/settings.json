@@ -173,8 +173,8 @@
   "explorer.fileNesting.enabled": true,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
-  "window.zoomLevel": 1.4,
-  "editor.fontSize": 13.7,
+  "window.zoomLevel": 2,
+  "editor.fontSize": 13,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": false,
@@ -198,7 +198,7 @@
   },
   "editor.cursorBlinking": "smooth",
   "editor.smoothScrolling": true,
-  "editor.cursorStyle": "block",
+  "editor.cursorStyle": "line",
   "editor.find.cursorMoveOnType": false,
   "emmet.syntaxProfiles": {
     "html": {
