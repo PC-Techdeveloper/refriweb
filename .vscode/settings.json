@@ -7,7 +7,6 @@
   "editor.renderWhitespace": "none",
   "window.autoDetectColorScheme": false,
   "workbench.colorTheme": "One Dark Pro Darker",
-  
   "workbench.editor.tabActionLocation": "left",
   "workbench.fontAliasing": "antialiased",
   "workbench.list.smoothScrolling": true,
