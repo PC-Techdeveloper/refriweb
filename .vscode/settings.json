@@ -189,6 +189,10 @@
     "editor.wordBasedSuggestions": "off",
     "editor.defaultFormatter": "ms-python.autopep8",
   },
+  "autopep8.args": [
+    "--max-line-length",
+    "100"
+  ],
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
