@@ -174,7 +174,7 @@
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "window.zoomLevel": 1.4,
-  "editor.fontSize": 14,
+  "editor.fontSize": 13,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": false,
