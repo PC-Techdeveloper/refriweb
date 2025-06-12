@@ -287,7 +287,7 @@
   "github.copilot.selectedCompletionModel": "gpt-4o-copilot",
   "security.workspace.trust.untrustedFiles": "open",
   "supermaven.enable": {
-    "*": false,
+    "*": true,
     "supermaven.inlineCompletions.enabled": false,
     "supermaven.inlineCompletions.delayMs": 10,
     "supermaven.inlineCompletions.maxResults": 10
