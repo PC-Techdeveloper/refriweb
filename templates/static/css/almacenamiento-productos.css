@@ -12,6 +12,11 @@
   box-sizing: border-box;
 }
 
+@view-transition {
+  naigation: auto;
+}
+
+
 body {
   font-family: 'Montserrat', sans-serif;
   font-size: 1.2rem;

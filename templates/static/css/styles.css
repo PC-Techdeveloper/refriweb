@@ -9,6 +9,11 @@
 }
 
 /* Transición entre páginas */
+
+@view-transition {
+  navigation: auto;
+}
+
 .fade {
   transition: opacity 0.5s ease-in-out;
 }
