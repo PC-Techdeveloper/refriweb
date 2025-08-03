@@ -266,7 +266,7 @@
     "file:///c:/Users/jefer/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.4/dist/updateHandler.js"
   ],
   "workbench.editor.wrapTabs": false,
-  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
   "git.blame.editorDecoration.enabled": false,
   "[php]": {
     "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
