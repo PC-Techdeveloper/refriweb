@@ -253,7 +253,7 @@
   "editor.suggestOnTriggerCharacters": true,
   "editor.quickSuggestions": {
     "comments": false,
-    "strings": true,
+    "strings": false,
     "other": false
   },
   "editor.parameterHints.enabled": false,
