@@ -6,18 +6,18 @@
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
   "window.autoDetectColorScheme": false,
-  "workbench.colorTheme": "Dracula Theme Soft",
+  "workbench.colorTheme": "Night Owl (No Italics)",
   "workbench.editor.tabActionLocation": "left",
   "workbench.fontAliasing": "antialiased",
   "workbench.list.smoothScrolling": true,
-  "workbench.preferredDarkColorTheme": "Dracula Theme Soft",
-  "workbench.preferredLightColorTheme": "Dracula Theme Soft",
+  "workbench.preferredDarkColorTheme": "Night Owl (No Italics)",
+  "workbench.preferredLightColorTheme": "Night Owl (No Italics)",
   "workbench.productIconTheme": "fluent-icons",
-  "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "left",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.tree.expandMode": "singleClick",
   "workbench.tree.indent": 4,
-  // ========== Editor ==========
+  // ========== Editor ========== 
   "debug.onTaskErrors": "debugAnyway",
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?",
@@ -79,12 +79,12 @@
     "**/temp": true,
     "**/yarn.lock": true,
     "**/CHANGELOG*": true,
-    "**/LICENSE*": true
+    "**/LICENSE*": true,
   },
   "window.nativeTabs": true, // this is great, macOS only
   "window.title": "${rootName}", // this make tabs more readable
   "extensions.autoUpdate": "false",
-  // ========== Extension configs ==========
+  // ========== Extension configs ========== 
   "emmet.showSuggestionsAsSnippets": true,
   "emmet.triggerExpansionOnTab": false,
   "errorLens.enabledDiagnosticLevels": [
@@ -173,8 +173,8 @@
   "explorer.fileNesting.enabled": true,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
-  "window.zoomLevel": 1.3,
-  "editor.fontSize": 13.1,
+  "window.zoomLevel": 1,
+  "editor.fontSize": 13.80,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": true,
@@ -187,7 +187,7 @@
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.formatOnType": true,
     "editor.wordBasedSuggestions": "off",
-    "editor.defaultFormatter": "ms-python.autopep8"
+    "editor.defaultFormatter": "ms-python.autopep8",
   },
   "autopep8.args": [
     "--max-line-length",
@@ -212,8 +212,8 @@
   "liveServer.settings.donotShowInfoMsg": true,
   "editor.snippetSuggestions": "top",
   "editor.guides.indentation": true,
-  "workbench.preferredHighContrastLightColorTheme": "Dracula Theme Soft",
-  "workbench.preferredHighContrastColorTheme": "Dracula Theme Soft",
+  "workbench.preferredHighContrastLightColorTheme": "Night Owl (No Italics)",
+  "workbench.preferredHighContrastColorTheme": "Night Owl (No Italics)",
   "workbench.activityBar.location": "default",
   "workbench.tree.renderIndentGuides": "none",
   "breadcrumbs.enabled": false,
@@ -253,7 +253,7 @@
   "editor.suggestOnTriggerCharacters": true,
   "editor.quickSuggestions": {
     "comments": false,
-    "strings": true,
+    "strings": false,
     "other": true
   },
   "editor.parameterHints.enabled": false,
@@ -286,7 +286,7 @@
   "github.copilot.selectedCompletionModel": "gpt-4o-copilot",
   "security.workspace.trust.untrustedFiles": "open",
   "supermaven.enable": {
-    "*": true
+    "*": true,
   },
   "telemetry.enabledTelemetry": false,
   "telemetry.telemetryLevel": "off",
@@ -347,5 +347,5 @@
     "scminput": false,
     "typescriptreact": false,
     "javascript": true
-  }
+  },
 }
