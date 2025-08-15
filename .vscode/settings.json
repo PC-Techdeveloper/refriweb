@@ -1,23 +1,23 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "FiraCode Nerd Font",
+  "editor.fontFamily": "VictorMono Nerd Font",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
   "window.autoDetectColorScheme": false,
-  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.colorTheme": "GitHub Dark",
   "workbench.editor.tabActionLocation": "left",
   "workbench.fontAliasing": "antialiased",
   "workbench.list.smoothScrolling": true,
-  "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
-  "workbench.preferredLightColorTheme": "One Dark Pro Darker",
+  "workbench.preferredDarkColorTheme": "GitHub Dark",
+  "workbench.preferredLightColorTheme": "GitHub Dark",
   "workbench.productIconTheme": "fluent-icons",
   "workbench.sideBar.location": "right",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.tree.expandMode": "singleClick",
   "workbench.tree.indent": 4,
-  // ========== Editor ========== 
+  // ========== Editor ==========
   "debug.onTaskErrors": "debugAnyway",
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?",
@@ -79,12 +79,12 @@
     "**/temp": true,
     "**/yarn.lock": true,
     "**/CHANGELOG*": true,
-    "**/LICENSE*": true,
+    "**/LICENSE*": true
   },
   "window.nativeTabs": true, // this is great, macOS only
   "window.title": "${rootName}", // this make tabs more readable
   "extensions.autoUpdate": "false",
-  // ========== Extension configs ========== 
+  // ========== Extension configs ==========
   "emmet.showSuggestionsAsSnippets": true,
   "emmet.triggerExpansionOnTab": false,
   "errorLens.enabledDiagnosticLevels": [
@@ -173,8 +173,9 @@
   "explorer.fileNesting.enabled": true,
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 1.15,
   "editor.fontSize": 14,
+  "editor.fontWeight": "600",
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": true,
@@ -187,7 +188,7 @@
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.formatOnType": true,
     "editor.wordBasedSuggestions": "off",
-    "editor.defaultFormatter": "ms-python.autopep8",
+    "editor.defaultFormatter": "ms-python.autopep8"
   },
   "autopep8.args": [
     "--max-line-length",
@@ -212,8 +213,8 @@
   "liveServer.settings.donotShowInfoMsg": true,
   "editor.snippetSuggestions": "top",
   "editor.guides.indentation": true,
-  "workbench.preferredHighContrastLightColorTheme": "One Dark Pro Darker",
-  "workbench.preferredHighContrastColorTheme": "One Dark Pro Darker",
+  "workbench.preferredHighContrastLightColorTheme": "GitHub Dark",
+  "workbench.preferredHighContrastColorTheme": "GitHub Dark",
   "workbench.activityBar.location": "default",
   "workbench.tree.renderIndentGuides": "none",
   "breadcrumbs.enabled": false,
@@ -286,7 +287,7 @@
   "github.copilot.selectedCompletionModel": "gpt-4o-copilot",
   "security.workspace.trust.untrustedFiles": "open",
   "supermaven.enable": {
-    "*": true,
+    "*": true
   },
   "telemetry.enabledTelemetry": false,
   "telemetry.telemetryLevel": "off",
@@ -341,7 +342,7 @@
   "workbench.iconTheme": "material-icon-theme",
   "geminicodeassist.updateChannel": "Insiders",
   "github.copilot.enable": {
-    "*": true,
+    "*": false,
     "plaintext": false,
     "markdown": false,
     "scminput": false,
