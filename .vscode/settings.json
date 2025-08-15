@@ -1,7 +1,7 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "CaskaydiaCove Nerd Font",
+  "editor.fontFamily": "FiraCode Nerd Font",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
@@ -13,7 +13,7 @@
   "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
   "workbench.preferredLightColorTheme": "One Dark Pro Darker",
   "workbench.productIconTheme": "fluent-icons",
-  "workbench.sideBar.location": "left",
+  "workbench.sideBar.location": "right",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.tree.expandMode": "singleClick",
   "workbench.tree.indent": 4,
@@ -174,7 +174,7 @@
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "window.zoomLevel": 1,
-  "editor.fontSize": 13.80,
+  "editor.fontSize": 14,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": true,
