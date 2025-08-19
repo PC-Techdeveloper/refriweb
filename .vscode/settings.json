@@ -246,11 +246,11 @@
   "explorer.compactFolders": false,
   "explorer.openEditors.visible": 1,
   "explorer.sortOrder": "type",
-  "workbench.statusBar.visible": true,
+  "workbench.statusBar.visible": false,
   "terminal.integrated.gpuAcceleration": "on",
   "editor.autoIndent": "full",
   "editor.folding": true,
-  "editor.suggestOnTriggerCharacters": true,
+  "editor.suggestOnTriggerCharacters": false,
   "editor.quickSuggestions": {
     "comments": false,
     "strings": false,
@@ -346,6 +346,8 @@
     "markdown": false,
     "scminput": false,
     "typescriptreact": false,
-    "javascript": true
+    "javascript": true,
+    "javascriptreact": false
   },
+  "editor.quickSuggestionsDelay": 300,
 }
