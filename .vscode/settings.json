@@ -1,7 +1,7 @@
 {
   // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "Iosevka Nerd Font",
+  "editor.fontFamily": "Fira Code",
   "editor.guides.bracketPairs": "active",
   "editor.lineNumbers": "on",
   "editor.renderWhitespace": "none",
@@ -13,7 +13,7 @@
   "workbench.preferredDarkColorTheme": "Aura Dark",
   "workbench.preferredLightColorTheme": "Aura Dark",
   "workbench.productIconTheme": "fluent-icons",
-  "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "left",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.tree.expandMode": "singleClick",
   "workbench.tree.indent": 4,
