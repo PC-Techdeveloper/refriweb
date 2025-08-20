@@ -174,7 +174,7 @@
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "window.zoomLevel": 1.4,
-  "editor.fontSize": 12.0,
+  "editor.fontSize": 12.77,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
   "editor.wordWrap": "bounded",
   "editor.fontLigatures": false,
@@ -350,4 +350,5 @@
     "javascriptreact": false
   },
   "editor.quickSuggestionsDelay": 300,
+  "editor.lineHeight": 20
 }
