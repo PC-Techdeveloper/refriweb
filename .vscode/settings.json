@@ -123,9 +123,9 @@
   /* --------------------------- */
   /*            FONTS            */
   /* --------------------------- */
-  "editor.fontFamily": "Inconsolata Nerd Font",
+  "editor.fontFamily": "Iosevka Nerd Font",
   "editor.fontLigatures": false,
-  "editor.fontSize": 15,
+  "editor.fontSize": 14.1,
   "editor.lineHeight": 1.5,
   /* ------------------------------ */
   /*            TERMINAL            */
