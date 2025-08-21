@@ -125,7 +125,7 @@
   /* --------------------------- */
   "editor.fontFamily": "Iosevka Nerd Font",
   "editor.fontLigatures": false,
-  "editor.fontSize": 18,
+  "editor.fontSize": 16,
   "editor.lineHeight": 1.5,
   /* ------------------------------ */
   /*            TERMINAL            */
