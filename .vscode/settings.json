@@ -69,6 +69,7 @@
   "editor.quickSuggestions": {
     "strings": true
   },
+  "editor.lineHeight": 24,
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
