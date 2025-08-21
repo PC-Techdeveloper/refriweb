@@ -93,8 +93,8 @@
   /* --------------------------- */
   /*            FONTS            */
   /* --------------------------- */
-  "editor.fontFamily": "Cascadia Code",
-  "editor.fontSize": 12.5,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 11.5,
   "editor.fontLigatures": true,
   /* ------------------------------ */
   /*            TERMINAL            */
