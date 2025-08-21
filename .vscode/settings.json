@@ -67,9 +67,11 @@
   "editor.wordWrap": "wordWrapColumn",
   "editor.wordWrapColumn": 90,
   "editor.quickSuggestions": {
-    "strings": true
+    "other": true
   },
-  "editor.lineHeight": 24,
+  "oneDarkPro.bold": true,
+  "oneDarkPro.italic": true,
+  "oneDarkPro.vivid": true,
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
@@ -92,14 +94,14 @@
   /*            FONTS            */
   /* --------------------------- */
   "editor.fontFamily": "Cascadia Code",
-  "editor.fontLigatures": false,
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
   /* ------------------------------ */
   /*            TERMINAL            */
   /* ------------------------------ */
   "terminal.integrated.cursorStyle": "block",
   "terminal.integrated.defaultProfile.linux": "Git Bash",
   "terminal.integrated.fontSize": 14,
-  "terminal.integrated.lineHeight": 1.25,
   "terminal.integrated.minimumContrastRatio": 1,
   /* --------------------------- */
   /*            FILES            */
@@ -236,5 +238,6 @@
   "docker.extension.dockerEngineAvailabilityPrompt": false,
   "remote.autoForwardPortsSource": "hybrid",
   "workbench.activityBar.location": "top",
-  "git.autofetch": true
+  "git.autofetch": true,
+  "workbench.colorCustomizations": {}
 }
