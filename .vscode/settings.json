@@ -38,7 +38,7 @@
   "diffEditor.renderSideBySide": true,
   "editor.accessibilitySupport": "off",
   "editor.autoIndent": "advanced",
-  "editor.bracketPairColorization.enabled": false,
+  "editor.bracketPairColorization.enabled": true,
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.detectIndentation": true,
   "editor.formatOnSave": true,
@@ -72,7 +72,7 @@
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
-  "workbench.colorTheme": "Nord",
+  "workbench.colorTheme": "One Dark Pro Darker",
   /* --------------------------- */
   /*            ICONS            */
   /* --------------------------- */
@@ -87,50 +87,15 @@
     "*.controller.js": "javascript",
     "*.controller.ts": "typescript"
   },
-  /* ----------------------------------- */
-  /*            CUSTOM COLORS            */
-  /* ----------------------------------- */
-  "workbench.colorCustomizations": {
-    /* general */
-    "titleBar.border": "#00000000",
-    "activityBar.border": "#00000000",
-    "editorGroup.border": "#3b4252",
-    "focusBorder": "#00000000",
-    /* tabs */
-    "tab.activeBackground": "#2e3440",
-    "tab.activeBorderTop": "#3b4252",
-    "tab.hoverBackground": "#2e3440",
-    "tab.lastPinnedBorder": "#00000000",
-    /* sidebar */
-    "list.inactiveFocusBackground": "#323945",
-    "list.activeSelectionBackground": "#323945",
-    "list.activeSelectionForeground": "#eceff4",
-    "list.hoverBackground": "#323945",
-    "sideBarTitle.foreground": "#00000000",
-    /* scroll */
-    "scrollbarSlider.activeBackground": "#00000000",
-    "scrollbarSlider.background": "#00000000",
-    "scrollbarSlider.hoverBackground": "#00000000",
-    /* status */
-    "statusBar.background": "#2e3440",
-    "statusBar.noFolderBackground": "#2e3440",
-    "statusBar.border": "#3b4252",
-    "statusBarItem.hoverBackground": "#88c0d0",
-    "statusBarItem.hoverForeground": "#eceff4",
-    "statusBarItem.remoteBackground": "#88c0d0",
-    "statusBarItem.remoteForeground": "#2e3440"
-  },
   /* --------------------------- */
   /*            FONTS            */
   /* --------------------------- */
-  "editor.fontFamily": "Iosevka Nerd Font",
+  "editor.fontFamily": "Cascadia Code",
   "editor.fontLigatures": false,
-  "editor.fontSize": 16,
-  "editor.lineHeight": 1.5,
   /* ------------------------------ */
   /*            TERMINAL            */
   /* ------------------------------ */
-  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorStyle": "block",
   "terminal.integrated.defaultProfile.linux": "Git Bash",
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.lineHeight": 1.25,
@@ -261,7 +226,7 @@
   /* ---------------------------------- */
   /*            COPILOT SH*T            */
   /* ---------------------------------- */
-  "chat.agent.enabled": false,
+  "chat.agent.enabled": true,
   "chat.commandCenter.enabled": false,
   "chat.detectParticipant.enabled": false,
   /* -------------------------- */
@@ -269,5 +234,6 @@
   /* -------------------------- */
   "docker.extension.dockerEngineAvailabilityPrompt": false,
   "remote.autoForwardPortsSource": "hybrid",
-  "workbench.activityBar.location": "top"
+  "workbench.activityBar.location": "top",
+  "git.autofetch": true
 }
