@@ -31,6 +31,7 @@
   "workbench.tree.indent": 20,
   "workbench.tree.renderIndentGuides": "none",
   "zenMode.hideLineNumbers": false,
+  "editor.inlayHints.enabled": "off",
   /* ---------------------------- */
   /*            EDITOR            */
   /* ---------------------------- */
@@ -93,8 +94,8 @@
   /* --------------------------- */
   /*            FONTS            */
   /* --------------------------- */
-  "editor.fontFamily": "JetBrains Mono",
-  "editor.fontSize": 11.5,
+  "editor.fontFamily": "Cascadia Code",
+  "editor.fontSize": 11,
   "editor.fontLigatures": true,
   /* ------------------------------ */
   /*            TERMINAL            */
@@ -192,7 +193,7 @@
   /* ------------------------------ */
   "prettier.singleQuote": true,
   "prettier.tabWidth": 2,
-  "prettier.semi": false,
+  "prettier.semi": true,
   "prettier.endOfLine": "lf",
   "prettier.trailingComma": "none",
   "prettier.bracketSpacing": true,
@@ -239,5 +240,8 @@
   "remote.autoForwardPortsSource": "hybrid",
   "workbench.activityBar.location": "top",
   "git.autofetch": true,
-  "workbench.colorCustomizations": {}
+  "editor.quickSuggestionsDelay": 0,
+  "editor.acceptSuggestionOnEnter": "smart",
+  "editor.snippetSuggestions": "top",
+  "editor.suggesti.filterGraceful": true
 }
