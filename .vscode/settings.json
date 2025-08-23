@@ -17,13 +17,13 @@
   "window.menuBarVisibility": "compact",
   "window.title": " ",
   "window.titleBarStyle": "custom",
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 1,
   "workbench.editor.empty.hint": "hidden",
   "workbench.editor.labelFormat": "default",
   "workbench.editor.showTabs": "multiple",
   "workbench.layoutControl.enabled": false,
   "workbench.secondarySideBar.defaultVisibility": "hidden",
-  "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "left",
   "workbench.startupEditor": "none",
   "workbench.statusBar.visible": true,
   "workbench.tips.enabled": false,
@@ -73,10 +73,11 @@
   "oneDarkPro.bold": true,
   "oneDarkPro.italic": true,
   "oneDarkPro.vivid": true,
+  "editor.lineHeight": 1.5,
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
-  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.colorTheme": "Tokyo Night",
   /* --------------------------- */
   /*            ICONS            */
   /* --------------------------- */
@@ -95,7 +96,7 @@
   /*            FONTS            */
   /* --------------------------- */
   "editor.fontFamily": "Cascadia Code",
-  "editor.fontSize": 11.5,
+  "editor.fontSize": 13.7,
   "editor.fontLigatures": true,
   /* ------------------------------ */
   /*            TERMINAL            */
@@ -238,10 +239,11 @@
   /* -------------------------- */
   "docker.extension.dockerEngineAvailabilityPrompt": false,
   "remote.autoForwardPortsSource": "hybrid",
-  "workbench.activityBar.location": "top",
+  "workbench.activityBar.location": "default",
   "git.autofetch": true,
   "editor.quickSuggestionsDelay": 0,
   "editor.acceptSuggestionOnEnter": "smart",
   "editor.snippetSuggestions": "top",
-  "editor.suggesti.filterGraceful": true
+  "editor.suggesti.filterGraceful": true,
+  "workbench.colorCustomizations": {}
 }
