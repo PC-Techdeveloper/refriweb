@@ -16,8 +16,8 @@
   "window.commandCenter": false,
   "window.menuBarVisibility": "compact",
   "window.title": " ",
-  "window.titleBarStyle": "custom",
-  "window.zoomLevel": 1,
+  "window.titleBarStyle": "native",
+  "window.zoomLevel": 1.5,
   "workbench.editor.empty.hint": "hidden",
   "workbench.editor.labelFormat": "default",
   "workbench.editor.showTabs": "multiple",
@@ -73,7 +73,6 @@
   "oneDarkPro.bold": true,
   "oneDarkPro.italic": true,
   "oneDarkPro.vivid": true,
-  "editor.lineHeight": 1.5,
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
@@ -96,12 +95,12 @@
   /*            FONTS            */
   /* --------------------------- */
   "editor.fontFamily": "Cascadia Code",
-  "editor.fontSize": 13.7,
-  "editor.fontLigatures": true,
+  "editor.fontSize": 12,
+  "editor.fontLigatures": false,
   /* ------------------------------ */
   /*            TERMINAL            */
   /* ------------------------------ */
-  "terminal.integrated.cursorStyle": "block",
+  "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.defaultProfile.linux": "Git Bash",
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.minimumContrastRatio": 1,
@@ -244,6 +243,5 @@
   "editor.quickSuggestionsDelay": 0,
   "editor.acceptSuggestionOnEnter": "smart",
   "editor.snippetSuggestions": "top",
-  "editor.suggesti.filterGraceful": true,
-  "workbench.colorCustomizations": {}
+  "editor.suggesti.filterGraceful": true
 }
