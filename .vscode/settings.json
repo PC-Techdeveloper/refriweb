@@ -23,7 +23,7 @@
   "workbench.editor.showTabs": "multiple",
   "workbench.layoutControl.enabled": false,
   "workbench.secondarySideBar.defaultVisibility": "hidden",
-  "workbench.sideBar.location": "left",
+  "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
   "workbench.statusBar.visible": true,
   "workbench.tips.enabled": false,
@@ -95,7 +95,7 @@
   /*            FONTS            */
   /* --------------------------- */
   "editor.fontFamily": "Cascadia Code",
-  "editor.fontSize": 12,
+  "editor.fontSize": 12.77,
   "editor.fontLigatures": false,
   /* ------------------------------ */
   /*            TERMINAL            */
