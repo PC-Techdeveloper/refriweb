@@ -95,8 +95,9 @@
   /*            FONTS            */
   /* --------------------------- */
   "editor.fontFamily": "Cascadia Code",
-  "editor.fontSize": 12.77,
+  "editor.fontSize": 12,
   "editor.fontLigatures": false,
+  "editor.lineHeight": 1.5,
   /* ------------------------------ */
   /*            TERMINAL            */
   /* ------------------------------ */
