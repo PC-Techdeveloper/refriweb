@@ -77,7 +77,7 @@
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
-  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.colorTheme": "Tokyo Night",
   /* --------------------------- */
   /*            ICONS            */
   /* --------------------------- */
@@ -92,7 +92,7 @@
   /*            FONTS            */
   /* --------------------------- */
   "editor.fontFamily": "Cascadia Code",
-  "editor.fontSize": 12.5,
+  "editor.fontSize": 12.9,
   "editor.fontLigatures": false,
   "editor.lineHeight": 1.5,
   /* ------------------------------ */
