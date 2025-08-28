@@ -77,11 +77,11 @@
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
-  "workbench.colorTheme": "Moonlight II Italic",
+  "workbench.colorTheme": "Woodfish Dark",
   /* --------------------------- */
   /*            ICONS            */
   /* --------------------------- */
-  "workbench.iconTheme": "symbols",
+  "workbench.iconTheme": "material-icon-theme",
   "workbench.productIconTheme": "fluent-icons",
   "material-icon-theme.files.associations": {
     "routes.js": "javascript",
