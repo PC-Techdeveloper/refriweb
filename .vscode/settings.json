@@ -16,14 +16,14 @@
   "window.commandCenter": false,
   "window.menuBarVisibility": "compact",
   "window.title": " ",
-  "window.titleBarStyle": "native",
-  "window.zoomLevel": 1.4,
+  "window.titleBarStyle": "custom",
+  "window.zoomLevel": 1.5,
   "workbench.editor.empty.hint": "hidden",
   "workbench.editor.labelFormat": "default",
   "workbench.editor.showTabs": "multiple",
   "workbench.layoutControl.enabled": false,
   "workbench.secondarySideBar.defaultVisibility": "hidden",
-  "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "left",
   "workbench.startupEditor": "none",
   "workbench.statusBar.visible": true,
   "workbench.tips.enabled": false,
@@ -61,7 +61,7 @@
   "editor.scrollbar.vertical": "hidden",
   "editor.scrollbar.verticalScrollbarSize": 0,
   "editor.selectionHighlight": false,
-  "editor.semanticHighlighting.enabled": false,
+  "editor.semanticHighlighting.enabled": true,
   "editor.smoothScrolling": true,
   "editor.stickyScroll.scrollWithEditor": false,
   "editor.tabSize": 2,
@@ -73,6 +73,7 @@
   "oneDarkPro.bold": true,
   "oneDarkPro.italic": true,
   "oneDarkPro.vivid": true,
+  "editor.glyphMargin": false,
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
@@ -80,11 +81,7 @@
   /* --------------------------- */
   /*            ICONS            */
   /* --------------------------- */
-  "workbench.iconTheme": "material-icon-theme",
-  "material-icon-theme.folders.theme": "classic",
-  "material-icon-theme.folders.color": "#81a1c1",
-  "material-icon-theme.hidesExplorerArrows": true,
-  "material-icon-theme.saturation": 0.6,
+  "workbench.iconTheme": "symbols",
   "workbench.productIconTheme": "fluent-icons",
   "material-icon-theme.files.associations": {
     "routes.js": "javascript",
@@ -95,7 +92,7 @@
   /*            FONTS            */
   /* --------------------------- */
   "editor.fontFamily": "Cascadia Code",
-  "editor.fontSize": 12,
+  "editor.fontSize": 12.5,
   "editor.fontLigatures": false,
   "editor.lineHeight": 1.5,
   /* ------------------------------ */
@@ -244,5 +241,6 @@
   "editor.quickSuggestionsDelay": 0,
   "editor.acceptSuggestionOnEnter": "smart",
   "editor.snippetSuggestions": "top",
-  "editor.suggesti.filterGraceful": true
+  "editor.suggesti.filterGraceful": true,
+  "workbench.colorCustomizations": {}
 }
