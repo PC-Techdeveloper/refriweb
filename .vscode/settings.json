@@ -17,7 +17,7 @@
   "window.menuBarVisibility": "compact",
   "window.title": " ",
   "window.titleBarStyle": "custom",
-  "window.zoomLevel": 1.5,
+  "window.zoomLevel": 2,
   "workbench.editor.empty.hint": "hidden",
   "workbench.editor.labelFormat": "default",
   "workbench.editor.showTabs": "multiple",
@@ -70,14 +70,13 @@
   "editor.quickSuggestions": {
     "other": true
   },
-  "oneDarkPro.bold": true,
   "oneDarkPro.italic": true,
   "oneDarkPro.vivid": true,
   "editor.glyphMargin": false,
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
-  "workbench.colorTheme": "Woodfish Dark",
+  "workbench.colorTheme": "One Dark Pro Darker",
   /* --------------------------- */
   /*            ICONS            */
   /* --------------------------- */
@@ -92,9 +91,8 @@
   /*            FONTS            */
   /* --------------------------- */
   "editor.fontFamily": "Cascadia Code",
-  "editor.fontSize": 12.9,
+  "editor.fontSize": 12,
   "editor.fontLigatures": false,
-  "editor.lineHeight": 1.5,
   /* ------------------------------ */
   /*            TERMINAL            */
   /* ------------------------------ */
