@@ -73,11 +73,10 @@
   "oneDarkPro.italic": true,
   "oneDarkPro.vivid": true,
   "editor.glyphMargin": false,
-  "editor.lineHeight": 20,
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
-  "workbench.colorTheme": "Palenight Operator",
+  "workbench.colorTheme": "One Dark Pro Darker",
   /* --------------------------- */
   /*            ICONS            */
   /* --------------------------- */
@@ -92,7 +91,7 @@
   /*            FONTS            */
   /* --------------------------- */
   "editor.fontFamily": "Cascadia Code",
-  "editor.fontSize": 12,
+  "editor.fontSize": 11,
   "editor.fontLigatures": false,
   /* ------------------------------ */
   /*            TERMINAL            */
