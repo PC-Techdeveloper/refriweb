@@ -73,6 +73,7 @@
   "oneDarkPro.italic": true,
   "oneDarkPro.vivid": true,
   "editor.glyphMargin": false,
+  "editor.lineHeight": 20,
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
