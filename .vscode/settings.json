@@ -16,8 +16,8 @@
   "window.commandCenter": false,
   "window.menuBarVisibility": "compact",
   "window.title": " ",
-  "window.titleBarStyle": "custom",
-  "window.zoomLevel": 2,
+  "window.titleBarStyle": "native",
+  "window.zoomLevel": 1.2,
   "workbench.editor.empty.hint": "hidden",
   "workbench.editor.labelFormat": "default",
   "workbench.editor.showTabs": "multiple",
@@ -76,7 +76,7 @@
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
-  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.colorTheme": "TryCatch Theme",
   /* --------------------------- */
   /*            ICONS            */
   /* --------------------------- */
@@ -90,15 +90,16 @@
   /* --------------------------- */
   /*            FONTS            */
   /* --------------------------- */
-  "editor.fontFamily": "Cascadia Code",
-  "editor.fontSize": 11,
-  "editor.fontLigatures": false,
+  "editor.fontFamily": "Iosevka Nerd Font",
+  "editor.fontSize": 14.8,
+  "editor.fontLigatures": true,
   /* ------------------------------ */
   /*            TERMINAL            */
   /* ------------------------------ */
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.defaultProfile.linux": "Git Bash",
-  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.fontSize": 15,
   "terminal.integrated.minimumContrastRatio": 1,
   /* --------------------------- */
   /*            FILES            */
@@ -237,7 +238,7 @@
   "workbench.activityBar.location": "default",
   "git.autofetch": true,
   "editor.quickSuggestionsDelay": 0,
-  "editor.acceptSuggestionOnEnter": "smart",
+  "editor.acceptSuggestionOnEnter": "on",
   "editor.snippetSuggestions": "top",
   "editor.suggesti.filterGraceful": true,
   "workbench.colorCustomizations": {}
