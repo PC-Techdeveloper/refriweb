@@ -2,7 +2,7 @@
   /* ----------------------------- */
   /*            GENERAL            */
   /* ----------------------------- */
-  "breadcrumbs.enabled": false,
+  "breadcrumbs.enabled": true,
   "editor.stickyScroll.enabled": false,
   "explorer.autoReveal": false,
   "explorer.compactFolders": false,
@@ -13,11 +13,11 @@
   "files.autoSave": "afterDelay",
   "security.workspace.trust.banner": "never",
   "security.workspace.trust.enabled": false,
-  "window.commandCenter": false,
+  "window.commandCenter": true,
   "window.menuBarVisibility": "compact",
-  "window.title": " ",
+  "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}",
   "window.titleBarStyle": "native",
-  "window.zoomLevel": 1.2,
+  "window.zoomLevel": 1.3,
   "workbench.editor.empty.hint": "hidden",
   "workbench.editor.labelFormat": "default",
   "workbench.editor.showTabs": "multiple",
@@ -76,7 +76,7 @@
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
-  "workbench.colorTheme": "Ayu Dark Bordered",
+  "workbench.colorTheme": "SynthWave '84",
   /* --------------------------- */
   /*            ICONS            */
   /* --------------------------- */
@@ -90,8 +90,8 @@
   /* --------------------------- */
   /*            FONTS            */
   /* --------------------------- */
-  "editor.fontFamily": "Iosevka Nerd Font",
-  "editor.fontSize": 14.8,
+  "editor.fontFamily": "Cascadia Code",
+  "editor.fontSize": 13,
   "editor.fontLigatures": true,
   /* ------------------------------ */
   /*            TERMINAL            */
@@ -235,7 +235,7 @@
   /* -------------------------- */
   "docker.extension.dockerEngineAvailabilityPrompt": false,
   "remote.autoForwardPortsSource": "hybrid",
-  "workbench.activityBar.location": "default",
+  "workbench.activityBar.location": "top",
   "git.autofetch": true,
   "editor.quickSuggestionsDelay": 0,
   "editor.acceptSuggestionOnEnter": "on",
