@@ -14,7 +14,7 @@
   "security.workspace.trust.banner": "never",
   "security.workspace.trust.enabled": false,
   "window.commandCenter": true,
-  "window.menuBarVisibility": "compact",
+  "window.menuBarVisibility": "classic",
   "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}",
   "window.titleBarStyle": "native",
   "window.zoomLevel": 1.3,
