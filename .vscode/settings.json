@@ -82,7 +82,7 @@
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
-  "workbench.colorTheme": "Palenight Italic",
+  "workbench.colorTheme": "One Dark Pro Darker",
   /* --------------------------- */
   /*            ICONS            */
   /* --------------------------- */
@@ -96,7 +96,7 @@
   /* --------------------------- */
   /*            FONTS            */
   /* --------------------------- */
-  "editor.fontFamily": "Cascadia Code",
+  "editor.fontFamily": "Fira Code",
   "editor.fontSize": 13.4,
   "editor.fontLigatures": true,
   /* ------------------------------ */
