@@ -97,7 +97,7 @@
   /*            FONTS            */
   /* --------------------------- */
   "editor.fontFamily": "Fira Code",
-  "editor.fontSize": 13.4,
+  "editor.fontSize": 13,
   "editor.fontLigatures": true,
   /* ------------------------------ */
   /*            TERMINAL            */
