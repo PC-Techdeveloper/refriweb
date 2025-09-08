@@ -83,7 +83,7 @@
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
-  "workbench.colorTheme": "Tokyo Night",
+  "workbench.colorTheme": "One Dark Pro Darker",
   /* --------------------------- */
   /*            ICONS            */
   /* --------------------------- */
@@ -97,8 +97,8 @@
   /* --------------------------- */
   /*            FONTS            */
   /* --------------------------- */
-  "editor.fontFamily": "Fira Code",
-  "editor.fontSize": 13,
+  "editor.fontFamily": "Cascadia Code",
+  "editor.fontSize": 12,
   "editor.fontLigatures": true,
   /* ------------------------------ */
   /*            TERMINAL            */
@@ -106,7 +106,7 @@
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.defaultProfile.linux": "Git Bash",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontSize": 12,
   "terminal.integrated.minimumContrastRatio": 1,
   /* --------------------------- */
   /*            FILES            */
