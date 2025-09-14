@@ -17,7 +17,7 @@
   "window.menuBarVisibility": "classic",
   "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}",
   "window.titleBarStyle": "custom",
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 1,
   "workbench.editor.empty.hint": "hidden",
   "workbench.editor.labelFormat": "default",
   "workbench.editor.showTabs": "multiple",
@@ -45,10 +45,10 @@
   "editor.formatOnSave": true,
   "editor.guides.highlightActiveIndentation": false,
   "editor.guides.indentation": true,
-  "editor.hover.delay": 1000,
-  "editor.insertSpaces": true,
+  "editor.hover.delay": 300,
+  "editor.insertSpaces": false,
   "editor.lightbulb.enabled": "off",
-  "editor.links": false,
+  "editor.links": true,
   "editor.matchBrackets": "never",
   "editor.minimap.enabled": false,
   "editor.minimap.renderCharacters": false,
@@ -78,12 +78,11 @@
   "editor.inlineSuggest.enabled": false,
   "oneDarkPro.italic": true,
   "oneDarkPro.vivid": true,
-  "oneDarkPro.bold": true,
   "editor.glyphMargin": false,
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
-  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.colorTheme": "Monokai Night",
   /* --------------------------- */
   /*            ICONS            */
   /* --------------------------- */
@@ -98,14 +97,14 @@
   /*            FONTS            */
   /* --------------------------- */
   "editor.fontFamily": "Cascadia Code",
-  "editor.fontSize": 12,
-  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.fontLigatures": false,
   /* ------------------------------ */
   /*            TERMINAL            */
   /* ------------------------------ */
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.defaultProfile.linux": "Git Bash",
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
   "terminal.integrated.fontSize": 12,
   "terminal.integrated.minimumContrastRatio": 1,
   /* --------------------------- */
