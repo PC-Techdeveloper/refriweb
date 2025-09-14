@@ -82,7 +82,7 @@
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
-  "workbench.colorTheme": "Monokai Night",
+  "workbench.colorTheme": "Dracula Theme Soft",
   /* --------------------------- */
   /*            ICONS            */
   /* --------------------------- */
@@ -96,16 +96,16 @@
   /* --------------------------- */
   /*            FONTS            */
   /* --------------------------- */
-  "editor.fontFamily": "Cascadia Code",
-  "editor.fontSize": 14,
-  "editor.fontLigatures": false,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 15,
+  "editor.fontLigatures": true,
   /* ------------------------------ */
   /*            TERMINAL            */
   /* ------------------------------ */
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.defaultProfile.linux": "Git Bash",
   "terminal.integrated.defaultProfile.windows": "PowerShell",
-  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.fontSize": 16,
   "terminal.integrated.minimumContrastRatio": 1,
   /* --------------------------- */
   /*            FILES            */
