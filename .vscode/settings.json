@@ -50,7 +50,7 @@
   "editor.lightbulb.enabled": "off",
   "editor.links": true,
   "editor.matchBrackets": "never",
-  "editor.minimap.enabled": false,
+  "editor.minimap.enabled": true,
   "editor.minimap.renderCharacters": false,
   "editor.occurrencesHighlight": "off",
   "editor.padding.top": 0,
@@ -96,8 +96,8 @@
   /* --------------------------- */
   /*            FONTS            */
   /* --------------------------- */
-  "editor.fontFamily": "Fira Code",
-  "editor.fontSize": 14,
+  "editor.fontFamily": "CaskaydiaCove Nerd Font",
+  "editor.fontSize": 16,
   "editor.fontLigatures": true,
   /* ------------------------------ */
   /*            TERMINAL            */
@@ -105,7 +105,7 @@
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.defaultProfile.linux": "Git Bash",
   "terminal.integrated.defaultProfile.windows": "PowerShell",
-  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontSize": 14,
   "terminal.integrated.minimumContrastRatio": 1,
   /* --------------------------- */
   /*            FILES            */
