@@ -97,7 +97,7 @@
   /*            FONTS            */
   /* --------------------------- */
   "editor.fontFamily": "CaskaydiaCove Nerd Font",
-  "editor.fontSize": 16,
+  "editor.fontSize": 15,
   "editor.fontLigatures": true,
   /* ------------------------------ */
   /*            TERMINAL            */
@@ -241,12 +241,13 @@
   /* -------------------------- */
   "docker.extension.dockerEngineAvailabilityPrompt": false,
   "remote.autoForwardPortsSource": "hybrid",
-  "workbench.activityBar.location": "top",
+  "workbench.activityBar.location": "default",
   "git.autofetch": true,
   "editor.quickSuggestionsDelay": 0,
   "editor.acceptSuggestionOnEnter": "on",
   "editor.snippetSuggestions": "top",
   "editor.suggesti.filterGraceful": true,
   "workbench.colorCustomizations": {},
-  "liveServer.settings.donotShowInfoMsg": true
+  "liveServer.settings.donotShowInfoMsg": true,
+  "python.createEnvironment.trigger": "off"
 }
