@@ -50,7 +50,7 @@
   "editor.lightbulb.enabled": "off",
   "editor.links": true,
   "editor.matchBrackets": "never",
-  "editor.minimap.enabled": true,
+  "editor.minimap.enabled": false,
   "editor.minimap.renderCharacters": false,
   "editor.occurrencesHighlight": "off",
   "editor.padding.top": 0,
@@ -58,7 +58,7 @@
   "editor.renderLineHighlight": "none",
   "editor.renderWhitespace": "selection",
   "editor.scrollbar.horizontal": "visible",
-  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.vertical": "visible",
   "editor.scrollbar.verticalScrollbarSize": 0,
   "editor.selectionHighlight": false,
   "editor.semanticHighlighting.enabled": true,
@@ -82,7 +82,7 @@
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
-  "workbench.colorTheme": "One Dark Pro Mix",
+  "workbench.colorTheme": "Ayu Mirage Bordered",
   /* --------------------------- */
   /*            ICONS            */
   /* --------------------------- */
@@ -97,7 +97,7 @@
   /*            FONTS            */
   /* --------------------------- */
   "editor.fontFamily": "CaskaydiaCove Nerd Font",
-  "editor.fontSize": 15,
+  "editor.fontSize": 14,
   "editor.fontLigatures": true,
   /* ------------------------------ */
   /*            TERMINAL            */
