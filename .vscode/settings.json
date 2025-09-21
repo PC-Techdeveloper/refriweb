@@ -17,7 +17,7 @@
   "window.menuBarVisibility": "classic",
   "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}",
   "window.titleBarStyle": "custom",
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 1.5,
   "workbench.editor.empty.hint": "hidden",
   "workbench.editor.labelFormat": "default",
   "workbench.editor.showTabs": "multiple",
@@ -82,7 +82,7 @@
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
-  "workbench.colorTheme": "Bearded Theme Anthracite",
+  "workbench.colorTheme": "Tokyo Night",
   /* --------------------------- */
   /*            ICONS            */
   /* --------------------------- */
@@ -96,7 +96,7 @@
   /* --------------------------- */
   /*            FONTS            */
   /* --------------------------- */
-  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.fontFamily": "Input Mono",
   "editor.fontSize": 13,
   "editor.fontLigatures": true,
   /* ------------------------------ */
@@ -249,6 +249,5 @@
   "editor.snippetSuggestions": "top",
   "editor.suggesti.filterGraceful": true,
   "workbench.colorCustomizations": {},
-  "liveServer.settings.donotShowInfoMsg": true,
-  "python.createEnvironment.trigger": "off"
+  "liveServer.settings.donotShowInfoMsg": true
 }
