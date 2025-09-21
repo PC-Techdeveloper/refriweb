@@ -17,7 +17,7 @@
   "window.menuBarVisibility": "classic",
   "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}",
   "window.titleBarStyle": "custom",
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 2,
   "workbench.editor.empty.hint": "hidden",
   "workbench.editor.labelFormat": "default",
   "workbench.editor.showTabs": "multiple",
@@ -82,7 +82,7 @@
   /* --------------------------- */
   /*            THEME            */
   /* --------------------------- */
-  "workbench.colorTheme": "Night Owl",
+  "workbench.colorTheme": "Bearded Theme Anthracite",
   /* --------------------------- */
   /*            ICONS            */
   /* --------------------------- */
@@ -96,8 +96,8 @@
   /* --------------------------- */
   /*            FONTS            */
   /* --------------------------- */
-  "editor.fontFamily": "CaskaydiaCove Nerd Font",
-  "editor.fontSize": 14,
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.fontSize": 13,
   "editor.fontLigatures": true,
   /* ------------------------------ */
   /*            TERMINAL            */
@@ -105,8 +105,9 @@
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.defaultProfile.linux": "Git Bash",
   "terminal.integrated.defaultProfile.windows": "PowerShell",
-  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontSize": 13,
   "terminal.integrated.minimumContrastRatio": 1,
+  "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
   /* --------------------------- */
   /*            FILES            */
   /* --------------------------- */
