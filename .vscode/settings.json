@@ -110,7 +110,7 @@
     "prettier.requireConfig": true,
     "prettier.useEditorConfig": false,
     "explorer.sortOrder": "type",
-    "prettier.tabWidth": 4,
+    "prettier.tabWidth": 2,
     "vetur.format.options.tabSize": 4,
     "workbench.tree.indent": 15,
     "[html]": {
@@ -140,7 +140,7 @@
     "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'calt', 'dlig'",
     "diffEditor.wordWrap": "on",
     "notebook.output.wordWrap": true,
-    "editor.fontSize": 16,
+    "editor.fontSize": 15,
     "editor.minimap.maxColumn": 250,
     "codesnap.containerPadding": "8em",
     "codesnap.boxShadow": "rgba(0, 0, 0, 0.55) 0px 12px 24px",
@@ -156,13 +156,12 @@
     },
     "tailwindCSS.experimental.configFile": null,
     "editor.fontWeight": "400",
-    "workbench.activityBar.location": "hidden",
+    "workbench.activityBar.location": "default",
     "workbench.statusBar.visible": false,
     "editor.inlineSuggest.suppressSuggestions": true,
     "codesnap.backgroundColor": "#FFC540",
     "codesnap.showLineNumbers": false,
     "codesnap.roundedCorners": true,
-    "editor.padding.top": 16,
     "editor.cursorBlinking": "expand",
     "editor.stickyScroll.enabled": false,
 
@@ -197,6 +196,5 @@
     "material-icon-theme.files.color": "#42a5f5",
     "workbench.tree.enableStickyScroll": false,
     "window.zoomLevel": 1,
-    "editor.cursorSmoothCaretAnimation": "on"
-
+    "editor.cursorSmoothCaretAnimation": "on",
 }
