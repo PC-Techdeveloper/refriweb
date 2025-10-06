@@ -8,10 +8,10 @@
   "terminal.integrated.cursorBlinking": true,
 
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.fontFamily": "Cascadia Code, monospace",
+  "editor.fontFamily": "CaskaydiaCove Nerd Font",
   "editor.cursorBlinking": "expand",
   "editor.fontLigatures": false,
-  "editor.fontSize": 12,
+  "editor.fontSize": 13,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.guides.bracketPairs": true,
@@ -72,7 +72,7 @@
   "autoprefixer.options": {
     "browsers": ["last 4 versions", "ie >= 9", "> 5%"]
   },
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 1.3,
   "editor.minimap.enabled": false,
   "prettier.enable": true,
   "prettier.semi": true,
@@ -94,5 +94,7 @@
   "editor.folding": true,
   "editor.formatOnType": true,
   "workbench.startupEditor": "none",
-  "editor.linkedEditing": true
+  "editor.linkedEditing": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "oneDarkPro.italic": true
 }
