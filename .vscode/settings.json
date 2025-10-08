@@ -1,5 +1,5 @@
 {
-  "workbench.colorTheme": "SynthWave '84",
+  "workbench.colorTheme": "One Dark Pro Night Flat",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.settings.editor": "json",
 
@@ -11,7 +11,7 @@
   "editor.fontFamily": "CaskaydiaCove Nerd Font",
   "editor.cursorBlinking": "expand",
   "editor.fontLigatures": false,
-  "editor.fontSize": 13.1,
+  "editor.fontSize": 13,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.guides.bracketPairs": true,
