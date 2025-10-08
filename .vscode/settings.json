@@ -1,5 +1,5 @@
 {
-  "workbench.colorTheme": "One Dark Pro Flat",
+  "workbench.colorTheme": "SynthWave '84",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.settings.editor": "json",
 
@@ -11,7 +11,7 @@
   "editor.fontFamily": "CaskaydiaCove Nerd Font",
   "editor.cursorBlinking": "expand",
   "editor.fontLigatures": false,
-  "editor.fontSize": 13,
+  "editor.fontSize": 13.1,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.guides.bracketPairs": true,
@@ -85,7 +85,7 @@
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.fontSize": 15,
-  "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
   "explorer.compactFolders": false,
   "editor.cursorStyle": "line",
   "editor.cursorSmoothCaretAnimation": "on",
