@@ -1,5 +1,5 @@
 {
-  "workbench.colorTheme": "One Dark Pro Night Flat",
+  "workbench.colorTheme": "GitHub Dark",
   "workbench.iconTheme": "symbols",
   "workbench.settings.editor": "json",
 
@@ -11,7 +11,7 @@
   "editor.fontFamily": "CaskaydiaCove Nerd Font",
   "editor.cursorBlinking": "expand",
   "editor.fontLigatures": false,
-  "editor.fontSize": 12.6,
+  "editor.fontSize": 12.4,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.guides.bracketPairs": true,
