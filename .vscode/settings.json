@@ -1,5 +1,5 @@
 {
-  "workbench.colorTheme": "GitHub Dark",
+  "workbench.colorTheme": "Min Dark",
   "workbench.iconTheme": "symbols",
   "workbench.settings.editor": "json",
 
@@ -11,7 +11,7 @@
   "editor.fontFamily": "CaskaydiaCove Nerd Font",
   "editor.cursorBlinking": "expand",
   "editor.fontLigatures": false,
-  "editor.fontSize": 12.4,
+  "editor.fontSize": 14,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.guides.bracketPairs": true,
@@ -72,7 +72,7 @@
   "autoprefixer.options": {
     "browsers": ["last 4 versions", "ie >= 9", "> 5%"]
   },
-  "window.zoomLevel": 1.4,
+  "window.zoomLevel": 1.5,
   "editor.minimap.enabled": false,
   "prettier.enable": true,
   "prettier.semi": true,
@@ -84,8 +84,8 @@
   "workbench.sideBar.location": "right",
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
   "terminal.integrated.cursorStyle": "line",
-  "terminal.integrated.fontSize": 15,
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
   "explorer.compactFolders": false,
   "editor.cursorStyle": "line",
   "editor.cursorSmoothCaretAnimation": "on",
@@ -98,5 +98,7 @@
   "liveServer.settings.donotShowInfoMsg": true,
   "oneDarkPro.italic": true,
   "git.confirmSync": false,
-  "editor.parameterHints.enabled": false
+  "editor.parameterHints.enabled": false,
+  "oneDarkPro.bold": true,
+  "oneDarkPro.vivid": true
 }
