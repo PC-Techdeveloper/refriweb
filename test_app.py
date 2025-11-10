@@ -153,8 +153,7 @@ class TestApp(unittest.TestCase):
 
     # Prueba para eliminar un almacenamiento
     def test_delete_almacenamiento(self):
-        response = self.app.post(
-            "/almacenamientos/1/delete", follow_redirects=True)
+        response = self.app.post("/almacenamientos/1/delete", follow_redirects=True)
         self.assertEqual(response.status_code, 200)
 
     # ---------------------------------

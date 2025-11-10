@@ -11,7 +11,7 @@
   "editor.fontFamily": "CaskaydiaCove Nerd Font",
   "editor.cursorBlinking": "expand",
   "editor.fontLigatures": false,
-  "editor.fontSize": 13.1,
+  "editor.fontSize": 14,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.guides.bracketPairs": true,
@@ -72,7 +72,7 @@
   "autoprefixer.options": {
     "browsers": ["last 4 versions", "ie >= 9", "> 5%"]
   },
-  "window.zoomLevel": 1.3,
+  "window.zoomLevel": 1.5,
   "editor.minimap.enabled": false,
   "prettier.enable": true,
   "prettier.semi": true,
@@ -81,7 +81,7 @@
   "prettier.tabWidth": 2,
   "explorer.fileNesting.enabled": true,
   "explorer.fileNesting.expand": true,
-  "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "left",
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.fontSize": 13,
