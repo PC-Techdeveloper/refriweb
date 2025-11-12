@@ -11,7 +11,7 @@
   "editor.fontFamily": "Cascadia Code",
   "editor.cursorBlinking": "expand",
   "editor.fontLigatures": false,
-  "editor.fontSize": 14,
+  "editor.fontSize": 13.6,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": false,
   "editor.guides.bracketPairs": true,
@@ -70,7 +70,7 @@
   "autoprefixer.options": {
     "browsers": ["last 4 versions", "ie >= 9", "> 5%"]
   },
-  "window.zoomLevel": 0.9,
+  "window.zoomLevel": 1,
   "editor.minimap.enabled": false,
   "prettier.enable": true,
   "prettier.semi": true,
@@ -82,7 +82,7 @@
   "workbench.sideBar.location": "left",
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
   "terminal.integrated.cursorStyle": "line",
-  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontSize": 16,
   "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
   "explorer.compactFolders": false,
   "editor.cursorStyle": "line",
